@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Book Reader - Wikimedia </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <h2 class="text-center">Book Reader</h2>
+
+    <div class="container col-lg-6 p-3 bg-white shadow rounded">
+        <form action="{{ url_for('read') }}" method="GET">
+            <div class="form-group">
+                <input class="form-control" name="file"t ype="url" required
+                placeholder="Enter a URL of PDF/DjVu from Wikimedia Commons.">
+            </div>
+            <button class="btn btn-outline-primary" type="submit">Submit</button>
+        </form>
+    </div>
+
+    <footer class="footer fixed-bottom">
+        <p class="container text-center"><small>Created and maintained by
+            <a href="https://meta.wikimedia.org/wiki/User:Jayprakash12345">Jayprakash</a>,
+            <a href="https://meta.wikimedia.org/wiki/Indic-TechCom">Indic-TechCom</a> (
+            <a href="https://gerrit.wikimedia.org/g/labs/tools/bookreader">View Source</a> ), Viewer Powered by
+            <a href="https://github.com/internetarchive/bookreader">Internet Archive BookReader</a></small>
+        </p>
+    </footer>
+</body>
+</html>

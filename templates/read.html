@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Book Reader - Wikimedia </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <!-- JS dependencies -->
+    <script src="{{ url_for('static', filename='BookReader/jquery-1.10.1.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/jquery-ui-1.12.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/jquery.browser.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/dragscrollable-br.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/jquery.colorbox-min.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/jquery.bt.min.js') }}"></script>
+
+    <!-- mmenu library -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='BookReader/mmenu/dist/css/jquery.mmenu.css') }}"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='BookReader/mmenu/dist/addons/navbars/jquery.mmenu.navbars.css') }}"/>
+    <script src="{{ url_for('static', filename='BookReader/mmenu/dist/js/jquery.mmenu.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='BookReader/mmenu/dist/addons/navbars/jquery.mmenu.navbars.min.js') }}"></script>
+
+    <!-- BookReader and plugins -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='BookReader/BookReader.css') }}"/>
+    <script src="{{ url_for('static', filename='BookReader/BookReader.js') }}"></script>
+
+    <!-- Mobile nav plugin -->
+    <script src="{{ url_for('static', filename='BookReader/plugins/plugin.mobile_nav.js') }}"></script>
+
+    <!-- URL-changing plugin -->
+    <script src="{{ url_for('static', filename='BookReader/plugins/plugin.url.js') }}"></script>
+
+    <!-- JS to create Book -->
+    <script>
+    $( document ).ready( function () {
+        var urlbook = '{{ data["book_url"] }}';
+
+        var bookname = urlbook.split('/').pop();
+        urlbook = urlbook.split('/');
+        urlbook.pop();
+        urlbook = urlbook.join('/').replace('commons', 'commons/thumb');
+
+        var options = {
+            getNumLeafs: function() {
+                return '{{ data["numofpage"] }}';
+            },
+
+            getPageWidth: function(index) {
+                return 720;
+            },
+
+            getPageHeight: function(index) {
+                return 960;
+            },
+
+            getPageURI: function(index, reduce, rotate) {
+                var leafStr = '0000';
+                var imgStr = (index+1).toString();
+                var re = new RegExp("0{"+imgStr.length+"}$");
+                var url = urlbook + '/' +bookname +'/page' + leafStr.replace(re, imgStr).replace(/^0+/, '') +'-960px-'+ bookname +'.jpg';
+                return decodeURI(url);
+            },
+
+            getPageSide: function(index) {
+                if (0 == (index & 0x1)) {
+                    return 'R';
+                } else {
+                    return 'L';
+                }
+            },
+
+            getSpreadIndices: function(pindex) {
+                var spreadIndices = [null, null];
+                if ('rl' == this.pageProgression) {
+                    // Right to Left
+                    if (this.getPageSide(pindex) == 'R') {
+                        spreadIndices[1] = pindex;
+                        spreadIndices[0] = pindex + 1;
+                    } else {
+                        // Given index was LHS
+                        spreadIndices[0] = pindex;
+                        spreadIndices[1] = pindex - 1;
+                    }
+                } else {
+                    // Left to right
+                    if (this.getPageSide(pindex) == 'L') {
+                        spreadIndices[0] = pindex;
+                        spreadIndices[1] = pindex + 1;
+                    } else {
+                        // Given index was RHS
+                        spreadIndices[1] = pindex;
+                        spreadIndices[0] = pindex - 1;
+                    }
+                }
+                return spreadIndices;
+            },
+
+            getPageNum: function(index) {
+                return index+1;
+            },
+
+            enableMobileNav: true,
+            mobileNavTitle: 'BookReader - Wikimedia',
+
+            imagesBaseURL: 'https://tools.wmflabs.org/bookreader/static/BookReader/images/',
+
+            getEmbedCode: function(frameWidth, frameHeight, viewParams) {
+                return "Embed code not supported in bookreader demo.";
+            },
+
+            bookTitle: decodeURI(bookname).replace('_', ' '),
+            bookUrl: 'https://tools.wmflabs.org/bookreader/',
+            bookUrlText: 'Back to Home',
+
+            thumbnail: urlbook + '/' +bookname +'/page1-960px-'+ bookname +'.jpg',
+
+            metadata: [
+              {label: 'Title', value: decodeURI(bookname).replace('_', ' ') + ' -   Wikimedia Commons'},
+            ],
+
+            ui: 'full', // embed, full (responsive)
+
+        };
+        var br = new BookReader(options);
+        br.init();
+    });
+    </script>
+    <style>
+        html, body { width: 100%; height: 100%; margin: 0; padding: 0; }
+        #BookReader { width: 100%; height: 100%; }
+        .BRinfoMoreInfoWrapper { display: none}
+    </style>
+</head>
+<body>
+    <div id="BookReader">
+        <noscript>
+        <p>
+          The BookReader requires JavaScript to be enabled. Please check that your browser supports JavaScript and that it is enabled in the browser settings.
+        </p>
+        </noscript>
+    </div>
+</body>
+</html>
