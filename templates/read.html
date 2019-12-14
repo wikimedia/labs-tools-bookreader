@@ -38,7 +38,11 @@
         var bookname = urlbook.split('/').pop();
         urlbook = urlbook.split('/');
         urlbook.pop();
-        urlbook = urlbook.join('/').replace('commons', 'commons/thumb');
+        if( '{{ data["project"] }}' === 'commons'){
+            urlbook = urlbook.join('/').replace( 'commons', 'commons/thumb');
+        } else {
+            urlbook = urlbook.join('/').replace( '{{ data["lang"] }}', '{{ data["lang"] }}/thumb');
+        }
 
         var options = {
             getNumLeafs: function() {
