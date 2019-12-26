@@ -7,6 +7,33 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script>
+        window.onload = function(){
+            document.getElementById("submit_by_name").onclick=function(){
+                lang = document.getElementById("project").value;
+                filename = document.getElementById("filename").value;
+                window.location = "https://tools.wmflabs.org/bookreader/"+ lang +"/" + filename
+            }
+        }
+    </script>
+    <style rel="stylesheet">
+        .center-separator {
+            display: flex;
+            line-height: 1em;
+            color: gray;
+        }
+
+        .center-separator::before, .center-separator::after {
+            content: '';
+            display: inline-block;
+            flex-grow: 1;
+            margin-top: 0.5em;
+            background: gray;
+            height: 1px;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+    </style>
 </head>
 <body>
     <h2 class="text-center">Book Reader</h2>
@@ -19,6 +46,32 @@
             </div>
             <button class="btn btn-outline-primary" type="submit">Submit</button>
         </form>
+
+        <br/>
+        <div class="center-separator">Or</div>
+        <br/>
+        <div class="form-group">
+            <label for="project">Project:</label>
+            <select class="form-control" id="project" name="project">
+                <option value="as">Assamese</option>
+                <option value="bn">Bangla</option>
+                <option value="gu">Gujarati</option>
+                <option value="hi">Hindi</option>
+                <option value="kn">Kannada</option>
+                <option value="ml">Malayalam</option>
+                <option value="mr">Marathi</option>
+                <option value="or">Oriya</option>
+                <option value="pa">Punjabi</option>
+                <option value="sa">Sanskrit</option>
+                <option value="ta">Tamil</option>
+                <option value="te">Telugu</option>
+            </select>
+            <label for="filename" style="padding-top: 5px;">Filename <small>(with File: prefix)</small>:</label>
+            <input class="form-control" type="text" id="filename"
+            placeholder="Enter a name of file.">
+            <br/>
+            <a id="submit_by_name" class="btn btn-outline-info">Submit</a>
+        </div>
     </div>
 
     <footer class="footer fixed-bottom">
