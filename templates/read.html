@@ -113,7 +113,7 @@
             },
 
             bookTitle: decodeURI(bookname).replace('_', ' '),
-            bookUrl: 'https://tools.wmflabs.org/bookreader/',
+            bookUrl: '{{ url_for('index') }}',
             bookUrlText: 'Back to Home',
 
             thumbnail: urlbook + '/' +bookname +'/page1-960px-'+ bookname +'.jpg',

@@ -42,7 +42,7 @@
         <form action="{{ url_for('read') }}" method="GET">
             <div class="form-group">
                 <input class="form-control" name="file"t ype="url" required
-                placeholder="Enter a URL of PDF/DjVu from Wikimedia Commons.">
+                placeholder="Enter a URL of PDF/DjVu from Wikimedia project">
             </div>
             <button class="btn btn-outline-primary" type="submit">Submit</button>
         </form>
@@ -51,7 +51,7 @@
         <div class="center-separator">Or</div>
         <br/>
         <div class="form-group">
-            <label for="project">Project:</label>
+            <label for="project">Wikisource project:</label>
             <select class="form-control" id="project" name="project">
                 <option value="as">Assamese</option>
                 <option value="bn">Bangla</option>
@@ -66,9 +66,9 @@
                 <option value="ta">Tamil</option>
                 <option value="te">Telugu</option>
             </select>
-            <label for="filename" style="padding-top: 5px;">Filename <small>(with File: prefix)</small>:</label>
+            <label for="filename" style="padding-top: 5px;">Filename:</label>
             <input class="form-control" type="text" id="filename"
-            placeholder="Enter a name of file.">
+            placeholder="Enter a name of file">
             <br/>
             <a id="submit_by_name" class="btn btn-outline-info">Submit</a>
         </div>
