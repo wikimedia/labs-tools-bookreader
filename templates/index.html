@@ -7,14 +7,40 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+    <script src="https://tools-static.wmflabs.org/cdnjs/ajax/libs/jquery/3.3.1/jquery.js"></script>
+    <script src="https://tools-static.wmflabs.org/cdnjs/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script>
-        window.onload = function(){
-            document.getElementById("submit_by_name").onclick=function(){
-                lang = document.getElementById("project").value;
-                filename = document.getElementById("filename").value;
-                window.location = "{{ url_for('index') }}"+ lang +"/" + filename
-            }
-        }
+        $(function(){
+            $("#submit_by_name").on( 'click', function() {
+                lang = $("#project").val();
+                filename = $("#filename").val();
+                window.location = "{{ url_for('index') }}" + lang + "/" + filename
+            });
+
+            $("#filename").autocomplete({
+                source: function (request, response) {
+                    inputValue = request.term;
+                    console.log(inputValue)
+                    $.ajax({
+                        'url': 'https://' + $("#project").val() + '.wikisource.org/w/api.php',
+                        'data': {
+                            'action': 'query',
+                            'list': 'allimages',
+                            'ailimit': 5,
+                            'aifrom': inputValue[0].toUpperCase() + inputValue.slice(1),
+                            'origin': '*',
+                            'format': 'json'
+                        },
+                        'success': function (data) {
+                            response($.map(data.query.allimages, function (resImage) {
+                                return resImage.name;
+                            }));
+                        }
+                    });
+                }
+            });
+        });
     </script>
     <style rel="stylesheet">
         .center-separator {
@@ -47,9 +73,9 @@
             <button class="btn btn-outline-primary" type="submit">Submit</button>
         </form>
 
-        <br/>
+        <br>
         <div class="center-separator">Or</div>
-        <br/>
+        <br>
         <div class="form-group">
             <label for="project">Wikisource project:</label>
             <select class="form-control" id="project" name="project">
@@ -69,7 +95,8 @@
             <label for="filename" style="padding-top: 5px;">Filename:</label>
             <input class="form-control" type="text" id="filename"
             placeholder="Enter a name of file">
-            <br/>
+            <small><small>Autocomplete of filename works only for local uploaded file.</small></small>
+            <br><br>
             <a id="submit_by_name" class="btn btn-outline-info">Submit</a>
         </div>
     </div>
