@@ -77,11 +77,15 @@ def readbyname(lang, file_name):
 
 
 def getImageInfo(url, filename):
+    # Remove prefix
+    filename = filename.split(':')
+    filename = filename[1] if len(filename) > 1 else filename[0]
+
     params = {
         "action": "query",
         "format": "json",
         "prop": "imageinfo",
-        "titles": filename,
+        "titles": "File:" + filename,
         "utf8": 1,
         "formatversion": "2",
         "iiprop": "url|size"

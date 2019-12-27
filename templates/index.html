@@ -12,7 +12,7 @@
             document.getElementById("submit_by_name").onclick=function(){
                 lang = document.getElementById("project").value;
                 filename = document.getElementById("filename").value;
-                window.location = "https://tools.wmflabs.org/bookreader/"+ lang +"/" + filename
+                window.location = "{{ url_for('index') }}"+ lang +"/" + filename
             }
         }
     </script>
