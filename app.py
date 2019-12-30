@@ -44,6 +44,13 @@ def read():
             data_v["book_url"] = page["imageinfo"][0]["url"]
             data_v["numofpage"] = page["imageinfo"][0]["pagecount"]
 
+            # Hot fix to load commons image with local URL
+            try:
+                if page["missing"] is True:
+                    data_v["project"] = "commons"
+            except KeyError:
+                pass
+
             return render_template('read.html', data=data_v)
 
         except KeyError as ex:
@@ -68,6 +75,14 @@ def readbyname(lang, file_name):
             page = data["query"]["pages"][0]
             data_v["book_url"] = page["imageinfo"][0]["url"]
             data_v["numofpage"] = page["imageinfo"][0]["pagecount"]
+
+            # Hot fix to load commons image with local URL
+            try:
+                if page["missing"] is True:
+                    data_v["project"] = "commons"
+            except KeyError:
+                pass
+
             return render_template('read.html', data=data_v)
 
         except KeyError as ex:
