@@ -1,4 +1,9 @@
 {
+    "@metadata": {
+		"authors": [
+			"Jayprakash12345"
+		]
+	},
     "bookreader-name": "Site title",
     "bookreader-heading": "Book Reader Heading",
     "changelanguage": "Change Language text",

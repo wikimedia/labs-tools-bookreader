@@ -1,4 +1,9 @@
 {
+    "@metadata": {
+		"authors": [
+			"Jayprakash12345"
+		]
+	},
     "bookreader-name": "Book Reader - Wikimedia",
     "bookreader-heading": "Book Reader",
     "changelanguage": "Change Language",
