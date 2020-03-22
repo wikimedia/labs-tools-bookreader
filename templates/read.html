@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Book Reader - Wikimedia </title>
+    <title> {{ _('bookreader-name') }} </title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -104,17 +104,17 @@
             },
 
             enableMobileNav: true,
-            mobileNavTitle: 'BookReader - Wikimedia',
+            mobileNavTitle: "{{ _('bookreader-name') }}",
 
             imagesBaseURL: 'https://tools.wmflabs.org/bookreader/static/BookReader/images/',
 
             getEmbedCode: function(frameWidth, frameHeight, viewParams) {
-                return "Embed code not supported in bookreader demo.";
+                return "{{ _('embebed-not-supported') }}";
             },
 
             bookTitle: decodeURI(bookname).replace('_', ' '),
             bookUrl: '{{ url_for('index') }}',
-            bookUrlText: 'Back to Home',
+            bookUrlText: '{{ _('back-to-home') }}',
 
             thumbnail: urlbook + '/' +bookname +'/page1-960px-'+ bookname +'.jpg',
 
@@ -139,7 +139,7 @@
     <div id="BookReader">
         <noscript>
         <p>
-          The BookReader requires JavaScript to be enabled. Please check that your browser supports JavaScript and that it is enabled in the browser settings.
+          {{ _('no-javascript') }}
         </p>
         </noscript>
     </div>

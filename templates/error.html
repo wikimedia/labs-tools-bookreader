@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Book Reader - Wikimedia </title>
+    <title> {{ _('bookreader-name') }} </title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -9,10 +9,10 @@
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <h2 class="text-center">Book Reader</h2>
+    <h2 class="text-center">{{ _('bookreader-heading') }}</h2>
     <div class="container col-lg-6 p-3 bg-white shadow rounded">
         <div class="alert alert-danger" role="alert">
-          Something went wrong! {{ msg }} :-/
+          {{ _('error') }} {{ msg }} :-/
         </div>
     </div>
 

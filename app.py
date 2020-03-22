@@ -1,10 +1,17 @@
 # -*- coding: utf-8 -*-
 
-from flask import Flask, render_template, request, abort
+from flask import Flask, render_template, request, abort, \
+    redirect, url_for
+from flask_jsonlocale import Locales
 import requests
 import urllib
+import os
 
 app = Flask(__name__)
+app.config["MESSAGES_DIR"] = "messages"
+app.config["SECRET_KEY"] = os.urandom(24)
+locales = Locales(app)
+_ = locales.get_message
 
 
 @app.route('/', methods=['GET'])
@@ -107,6 +114,17 @@ def getImageInfo(url, filename):
     }
     r = requests.get(url=url, params=params)
     return r.json()
+
+
+@app.route('/changelang', methods=['GET', 'POST'])
+def changelang():
+    if request.method == "POST":
+        locales.set_locale(request.form['locale'])
+        return redirect(url_for('index'))
+
+    lcs = locales.get_locales()
+    per_lce = locales.get_permanent_locale()
+    return render_template('changelanguage.html', locales=lcs, permanent_locale=per_lce)
 
 
 if __name__ == '__main__':

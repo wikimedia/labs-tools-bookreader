@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Book Reader - Wikimedia </title>
+    <title> {{ _('bookreader-name') }} </title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -62,42 +62,43 @@
     </style>
 </head>
 <body>
-    <h2 class="text-center">Book Reader</h2>
+    <a class="btn btn-secondary" href="{{ url_for('changelang') }}" style="float: right;"> {{ _('changelanguage') }}</a>
+    <h2 class="text-center">{{ _('bookreader-heading') }}</h2>
 
     <div class="container col-lg-6 p-3 bg-white shadow rounded">
         <form action="{{ url_for('read') }}" method="GET">
             <div class="form-group">
                 <input class="form-control" name="file" type="url" required
-                placeholder="Enter a URL of PDF/DjVu from Wikimedia project">
+                placeholder="{{ _('byurl-placeholder') }}">
             </div>
-            <button class="btn btn-outline-primary" type="submit">Submit</button>
+            <button class="btn btn-outline-primary" type="submit">{{ _('form-submit') }}</button>
         </form>
 
         <br>
-        <div class="center-separator">Or</div>
+        <div class="center-separator">{{ _('or-text') }}</div>
         <br>
         <div class="form-group">
-            <label for="project">Wikisource project:</label>
+            <label for="project">{{ _('wiki-projects') }}</label>
             <select class="form-control" id="project" name="project">
-                <option value="as">Assamese</option>
-                <option value="bn">Bangla</option>
-                <option value="gu">Gujarati</option>
-                <option value="hi">Hindi</option>
-                <option value="kn">Kannada</option>
-                <option value="ml">Malayalam</option>
-                <option value="mr">Marathi</option>
-                <option value="or">Oriya</option>
-                <option value="pa">Punjabi</option>
-                <option value="sa">Sanskrit</option>
-                <option value="ta">Tamil</option>
-                <option value="te">Telugu</option>
+                <option value="as">{{ _('lang-as') }}</option>
+                <option value="bn">{{ _('lang-bn') }}</option>
+                <option value="gu">{{ _('lang-gu') }}</option>
+                <option value="hi">{{ _('lang-hi') }}</option>
+                <option value="kn">{{ _('lang-kn') }}</option>
+                <option value="ml">{{ _('lang-ml') }}</option>
+                <option value="mr">{{ _('lang-mr') }}</option>
+                <option value="or">{{ _('lang-or') }}</option>
+                <option value="pa">{{ _('lang-pa') }}</option>
+                <option value="sa">{{ _('lang-sa') }}</option>
+                <option value="ta">{{ _('lang-ta') }}</option>
+                <option value="te">{{ _('lang-te') }}</option>
             </select>
-            <label for="filename" style="padding-top: 5px;">Filename:</label>
+            <label for="filename" style="padding-top: 5px;">{{ _('label-filename') }}</label>
             <input class="form-control" type="text" id="filename"
-            placeholder="Enter a name of file">
-            <small><small>Autocomplete of filename works only for local uploaded file.</small></small>
+            placeholder="{{ _('filename-placeholder') }}">
+            <small><small>{{ _('localfile-notice') }}</small></small>
             <br><br>
-            <a id="submit_by_name" class="btn btn-outline-info">Submit</a>
+            <a id="submit_by_name" class="btn btn-outline-info">{{ _('form-submit') }}</a>
         </div>
     </div>
 
