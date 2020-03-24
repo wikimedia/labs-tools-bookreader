@@ -5,6 +5,7 @@
 		]
 	},
     "bookreader-name": "Book Reader - Wikimedia",
+    "bookreader-desc": "BookReader is a tool to read PDF/DjVu in book format from wikimedia sites.",
     "bookreader-heading": "Book Reader",
     "changelanguage": "Change Language",
     "byurl-placeholder": "Enter a URL of PDF/DjVu from Wikimedia project",

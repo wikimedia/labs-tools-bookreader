@@ -5,6 +5,7 @@
 		]
 	},
     "bookreader-name": "Site title",
+    "bookreader-desc": "Description of the WebApp",
     "bookreader-heading": "Book Reader Heading",
     "changelanguage": "Change Language text",
     "byurl-placeholder": "Input box placeholder",
