@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"changelanguage": "Cambia lingua",
+	"form-submit": "Invia",
+	"or-text": "O",
+	"lang-bn": "Bengalese",
+	"lang-gu": "Gujarati",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nome file:",
+	"button-save": "Salva",
+	"button-cancel": "Annulla",
+	"error": "Qualcosa è andato storto!"
+}

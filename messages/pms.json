@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"bookreader-name": "Letor ëd lìber - Wikimedia",
+	"bookreader-desc": "BookReader a l'é n'utiss për lese dij PDF/DjVu an formà lìber dai sit wikimedia.",
+	"bookreader-heading": "Letor ëd lìber",
+	"changelanguage": "Cangé 'd lenga",
+	"byurl-placeholder": "Buté n'URL ëd PDF/DjVu d'un proget Wikimedia",
+	"form-submit": "Mandé",
+	"or-text": "O",
+	"wiki-projects": "Proget Wikisorgiss:",
+	"lang-as": "Assamèis",
+	"lang-bn": "Bengalèis",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sànscrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nòm d'archivi:",
+	"filename-placeholder": "Buté un nòm d'archivi",
+	"localfile-notice": "Ël completament automàtich dij nòm d'archivi a marcia mach për dj'archivi carià an local.",
+	"back-to-home": "André a l'intrada",
+	"my-language": "Mia lenga",
+	"button-save": "Argistré",
+	"button-cancel": "Anulé",
+	"error": "Cheicòs a l'é andà mal!",
+	"no-javascript": "Ël letor ëd lìber a l'ha damanca che JavaScript a sia ativà. Për piasì, ch'a contròla che sò navigador a resa JavaScript e che cost-sì a sia ativà ant ij paràmeter dël navigador.",
+	"embebed-not-supported": "Ël còdes anclus a l'é nen mantnù ant ël letor ëd lìber."
+}

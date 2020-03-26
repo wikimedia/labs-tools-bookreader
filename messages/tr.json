@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"bookreader-name": "Kitap Okuyucu - Wikimedia",
+	"bookreader-desc": "KitapOkuyucu, Wikimedia sitelerinden kitap formatta PDF/DjVu okumak için bir araçtır.",
+	"bookreader-heading": "Kitap Okuyucu",
+	"changelanguage": "Dili Değiştir",
+	"byurl-placeholder": "Wikimedia projesinden bir PDF/DjVu URL'si girin",
+	"form-submit": "Gönder",
+	"or-text": "Veya",
+	"wiki-projects": "Vikikaynak profesi:",
+	"lang-as": "Assam dili",
+	"lang-bn": "Bengalce",
+	"lang-gu": "Guceratça",
+	"lang-hi": "Hitnçe",
+	"lang-kn": "Kannada dili",
+	"lang-ml": "Malayalamca",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya Dili",
+	"lang-pa": "Pencapça",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamilce",
+	"lang-te": "Teluguca",
+	"label-filename": "Dosya adı:",
+	"filename-placeholder": "Bir dosya adı girin",
+	"localfile-notice": "Dosya adının otomatik tamamlanması yalnızca yerel yüklenen dosya için çalışır.",
+	"back-to-home": "Başa Dön",
+	"my-language": "Dilim",
+	"button-save": "Kaydet",
+	"button-cancel": "İptal",
+	"error": "Bir şeyler yanlış gitti!",
+	"no-javascript": "KitapOkuyucu, JavaScript'in etkinleştirilmesini gerektirir. Lütfen tarayıcınızın JavaScript'i desteklediğinden ve tarayıcı ayarlarında etkinleştirildiğinden emin olun.",
+	"embebed-not-supported": "Yerleştirme kodu kitap okuyucuda desteklenmiyor."
+}

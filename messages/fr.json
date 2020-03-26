@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"bookreader-name": "Lecteur de livre — Wikimédia",
+	"bookreader-desc": "BookReader est un outil pour lire des PDF/DjVu au format livre depuis des sites wikimédia.",
+	"bookreader-heading": "Lecteur de livre",
+	"changelanguage": "Changer de langue",
+	"byurl-placeholder": "Saisir une URL de PDF/DjVu d’un projet Wikimédia",
+	"form-submit": "Soumettre",
+	"or-text": "Ou",
+	"wiki-projects": "Projet Wikisource :",
+	"lang-as": "Assamais",
+	"lang-bn": "Bengali",
+	"lang-gu": "Gujarâtî",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannara",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Odiya",
+	"lang-pa": "Pendjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamoul",
+	"lang-te": "Télougou",
+	"label-filename": "Nom de fichier :",
+	"filename-placeholder": "Saisir un nom de fichier",
+	"localfile-notice": "La complétude automatique des noms de fichier ne fonctionne que pour un fichier téléchargé localement.",
+	"back-to-home": "Retour à l’accueil",
+	"my-language": "Ma langue",
+	"button-save": "Enregistrer",
+	"button-cancel": "Annuler",
+	"error": "Quelque chose s’est mal passé !",
+	"no-javascript": "BookReader nécessite JavaScript activé. Veuillez vérifier que votre navigateur supporte JavaScript et qu’il est activé dans les paramètres.",
+	"embebed-not-supported": "Le code inclus n’est pas supporté dans BookReader."
+}
