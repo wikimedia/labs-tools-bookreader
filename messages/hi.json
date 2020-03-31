@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abijeet Patro",
+			"Jayprakash12345"
+		]
+	},
+	"bookreader-name": "पुस्तक पाठक - विकिमीडिया",
+	"bookreader-desc": "पुस्तकपाठक विकिमीडिया साइटों से PDF/DjVu को पुस्तक प्रारूप में पढ़ने के लिए एक उपकरण है।",
+	"bookreader-heading": "पुस्तक पाठक",
+	"changelanguage": "भाषा बदलें",
+	"byurl-placeholder": "विकिमीडिया परियोजना से PDF/DjVu का URL दर्ज करें",
+	"form-submit": "जमा करें",
+	"or-text": "या",
+	"wiki-projects": "विकिस्रोत परियोजना:",
+	"lang-as": "असमी",
+	"lang-bn": "बंगाली",
+	"lang-gu": "गुजराती",
+	"lang-hi": "हिंदी",
+	"lang-kn": "कन्नड़",
+	"lang-ml": "मलयालम",
+	"lang-mr": "मराठी",
+	"lang-or": "उड़िया",
+	"lang-pa": "पंजाबी",
+	"lang-sa": "संस्कृत",
+	"lang-ta": "तमिल",
+	"lang-te": "तेलूगू",
+	"label-filename": "फ़ाइल का नाम:",
+	"filename-placeholder": "फ़ाइल का नाम दर्ज करें",
+	"localfile-notice": "फ़ाइलनाम का स्वत: पूर्ण केवल स्थानीय अपलोड की गई फ़ाइल के लिए काम करता है।",
+	"back-to-home": "वापस जाएँ",
+	"my-language": "मेरी भाषा",
+	"button-save": "सहेजें",
+	"button-cancel": "रद्द करें",
+	"error": "कुछ गलत हुआ है!",
+	"no-javascript": "पुस्तकपाठक के जावास्क्रिप्ट सक्षम करने की आवश्यकता है।कृपया जांचें कि आपका ब्राउज़र जावास्क्रिप्ट का समर्थन करता है और यह ब्राउज़र सेटिंग्स में सक्षम है।",
+	"embebed-not-supported": "पुस्तकपाठक में एंबेड कोड समर्थित नहीं है।"
+}

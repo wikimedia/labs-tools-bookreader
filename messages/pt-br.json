@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"bookreader-name": "Leitor de livros - Wikimedia",
+	"bookreader-desc": "O leitor de livros é uma ferramenta para ler PDF/DjVu em formato de livro nos sites da wikimedia.",
+	"bookreader-heading": "Leitor de livros",
+	"changelanguage": "Mudar idioma",
+	"byurl-placeholder": "Digite um URL do PDF/DjVu do projeto Wikimedia",
+	"form-submit": "Enviar",
+	"or-text": "Ou",
+	"wiki-projects": "Projeto Wikisource:",
+	"lang-as": "Assamês",
+	"lang-bn": "Bengali",
+	"lang-gu": "Guzerate",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canarim",
+	"lang-ml": "Malabar",
+	"lang-mr": "Marata",
+	"lang-or": "Oriá",
+	"lang-pa": "Panjábi",
+	"lang-sa": "Sânscrito",
+	"lang-ta": "Tâmil",
+	"lang-te": "Telugo",
+	"label-filename": "Nome do arquivo:",
+	"filename-placeholder": "Digite um nome de arquivo",
+	"localfile-notice": "O preenchimento automático do nome do arquivo funciona apenas para o arquivo carregado local.",
+	"back-to-home": "Voltar ao Início",
+	"my-language": "Meu idioma",
+	"button-save": "Salvar",
+	"button-cancel": "Cancelar",
+	"error": "Algo deu errado!",
+	"no-javascript": "O leitor de livros requer que o JavaScript esteja ativado. Verifique se o seu navegador suporta JavaScript e se está ativado nas configurações do navegador.",
+	"embebed-not-supported": "Código de incorporação não suportado no leitor de livros."
+}

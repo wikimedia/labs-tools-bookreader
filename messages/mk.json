@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"bookreader-name": "Книгочитач — Викимедија",
+	"bookreader-desc": "Книгочитач е алатка за читање на PDF/DjVu од Викимедиините викија во книжен формат.",
+	"bookreader-heading": "Книгочитач",
+	"changelanguage": "Смени јазик",
+	"byurl-placeholder": "Внесете URL на PDF/DjVu од Викимедиин проект",
+	"form-submit": "Поднеси",
+	"or-text": "Или",
+	"wiki-projects": "Викиизворен проект:",
+	"lang-as": "асамски",
+	"lang-bn": "бенгалски",
+	"lang-gu": "гуџаратски",
+	"lang-hi": "хинди",
+	"lang-kn": "канадски",
+	"lang-ml": "малајалски",
+	"lang-mr": "маратски",
+	"lang-or": "одиски",
+	"lang-pa": "пенџапски",
+	"lang-sa": "санскрит",
+	"lang-ta": "тамилски",
+	"lang-te": "телушки",
+	"label-filename": "Име на податотеката:",
+	"filename-placeholder": "Внесете име на податотеката:",
+	"localfile-notice": "Самодополнувањето на податотечни имиња работи само за месно подигнати податотеки.",
+	"back-to-home": "Назад на Почетна",
+	"my-language": "Мој јазик",
+	"button-save": "Зачувај",
+	"button-cancel": "Откажи",
+	"error": "Нешто не е во ред!",
+	"no-javascript": "Книгочитачот бара JavaScript за да се вклучи. Проверете дали прелистувачот ви поддржува JavaScript и дека е овозможен во неговите нагодувања.",
+	"embebed-not-supported": "Вметнувањето на код не е поддржано во книгочитачот."
+}

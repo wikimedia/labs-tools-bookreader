@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Neptune, the Mystic"
+		]
+	},
+	"changelanguage": "Promijeni jezik",
+	"or-text": "Ili",
+	"wiki-projects": "Projekt Wikizvora:",
+	"lang-bn": "bengalski",
+	"lang-gu": "gudžaratski",
+	"lang-hi": "hindski",
+	"lang-ta": "tamilski",
+	"lang-te": "telugu",
+	"label-filename": "Ime datoteke:",
+	"filename-placeholder": "Navedite ime datoteke",
+	"my-language": "Moj jezik",
+	"button-save": "Spremi",
+	"button-cancel": "Odustani",
+	"error": "Nešto nije u redu!"
+}

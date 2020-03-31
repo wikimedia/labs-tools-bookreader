@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"bookreader-name": "Lector de libros • Wikimedia",
+	"bookreader-desc": "El lector de libros es una herramienta para abrir libros en PDF y DjVu desde los sitios de Wikimedia.",
+	"bookreader-heading": "Lector de libros",
+	"changelanguage": "Cambiar idioma",
+	"byurl-placeholder": "Proporciona el URL de un PDF/DjVu de un proyecto de Wikimedia",
+	"form-submit": "Enviar",
+	"or-text": "O bien",
+	"wiki-projects": "Proyecto de Wikisource:",
+	"lang-as": "Asamés",
+	"lang-bn": "Bengalí",
+	"lang-gu": "Guyaratí",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canarés",
+	"lang-ml": "Malabar",
+	"lang-mr": "Maratí",
+	"lang-or": "Oriya",
+	"lang-pa": "Panyabí",
+	"lang-sa": "Sánscrito",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nombre de archivo:",
+	"filename-placeholder": "Proporciona el nombre de un archivo",
+	"localfile-notice": "La compleción automática del nombre de archivo funciona solo para archivos cargados localmente.",
+	"back-to-home": "Volver al inicio",
+	"my-language": "Mi idioma",
+	"button-save": "Guardar",
+	"button-cancel": "Cancelar",
+	"error": "Se produjo un error.",
+	"no-javascript": "El lector de libros necesita JavaScript. Cerciórate de que el navegador admita esta tecnología y de que esté activada en la configuración.",
+	"embebed-not-supported": "El lector de libros no admite el código de incrustación."
+}

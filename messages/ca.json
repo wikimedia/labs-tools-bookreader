@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"bookreader-name": "Lector de llibres • Wikimedia",
+	"bookreader-desc": "El lector de llibres és una eina per a llegir llibres en format PDF o DjVu des dels llocs de Wikimedia.",
+	"bookreader-heading": "Lector de llibres",
+	"changelanguage": "Canvia la llengua",
+	"form-submit": "Tramet",
+	"or-text": "O bé",
+	"label-filename": "Nom del fitxer:",
+	"filename-placeholder": "Introduïu un nom de fitxer",
+	"localfile-notice": "La compleció automàtica del nom del fitxer només funciona amb els fitxers pujats localment.",
+	"back-to-home": "Torna a l’inici",
+	"my-language": "La meva llengua",
+	"button-save": "Desa",
+	"button-cancel": "Cancel·la",
+	"error": "S’ha produït un error.",
+	"embebed-not-supported": "El lector de llibres no admet el codi d’incrustació."
+}

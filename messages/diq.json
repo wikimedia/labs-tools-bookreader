@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Orbot707"
+		]
+	},
+	"bookreader-name": "Kıtabe waniyoğ - Wikimedia",
+	"bookreader-desc": "Bookreader, siteyanê Wikimedia de formatê PDF/DjVu kıtaba wendışi rê yew haceto.",
+	"bookreader-heading": "Kıtab Waniyoğ",
+	"changelanguage": "Zıwani bıvurnê",
+	"byurl-placeholder": "Proceyê Wikimedia  ra yew Url'y PDF/DjVu ilawe kerê",
+	"form-submit": "Bırışê",
+	"or-text": "Ya zi",
+	"wiki-projects": "Procey Wikiçımey:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bengalki",
+	"lang-gu": "Gujaratki",
+	"lang-hi": "Hindki",
+	"lang-kn": "Kannadaki",
+	"lang-ml": "Malayalamki",
+	"lang-mr": "Marathiki",
+	"lang-or": "Oriyaki",
+	"lang-pa": "Pencabki",
+	"lang-sa": "Sanskritki",
+	"lang-ta": "Tamilki",
+	"lang-te": "Teluguki",
+	"label-filename": "Nameydosya:",
+	"filename-placeholder": "Namey dosya cı kerê",
+	"localfile-notice": "Otomatik temam bıyayışê namey dosya teyna lokal bar bıyaye dosyayan dê raşt guriyeno",
+	"back-to-home": "Ageyrê serni",
+	"my-language": "Zıwanê Mı",
+	"button-save": "Qeyd kerê",
+	"button-cancel": "Bıtexelne",
+	"error": "Tay çi çewt şı!",
+	"no-javascript": "Bookreader, lazımo ke JavaScript aktiv bo. Kerem kerê pheşti dayışê JavaScripti u sazanê rovıteri kontrol kerê",
+	"embebed-not-supported": "Cakerdena kodi Bookreader de pheşti nêvineno."
+}

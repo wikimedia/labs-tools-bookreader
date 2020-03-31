@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Piramidion"
+		]
+	},
+	"bookreader-name": "Книгочитач — Вікімедіа",
+	"bookreader-desc": "BookReader — це інструмент для читання файлів PDF/DjVu у книжковому форматі із сайтів Вікімедіа.",
+	"bookreader-heading": "Книгочитач",
+	"changelanguage": "Змінити мову",
+	"byurl-placeholder": "Введіть URL-адресу файлу PDF/DjVu на проекті Вікімедіа",
+	"form-submit": "Надіслати",
+	"or-text": "Або",
+	"wiki-projects": "Проект Вікіджерел:",
+	"lang-as": "Ассамська",
+	"lang-bn": "Бенгальська",
+	"lang-gu": "Гуджараті",
+	"lang-hi": "Гінді",
+	"lang-kn": "Каннада",
+	"lang-ml": "Малаялам",
+	"lang-mr": "Маратхі",
+	"lang-or": "Орія",
+	"lang-pa": "Пенджабі",
+	"lang-sa": "Санскрит",
+	"lang-ta": "Тамільська",
+	"lang-te": "Телугу",
+	"label-filename": "Назва файлу:",
+	"filename-placeholder": "Введіть назву файлу",
+	"localfile-notice": "Автозаповнення назви файлу працює лише для локально завантажених файлів.",
+	"back-to-home": "Повернутись на головну",
+	"my-language": "Моя мова",
+	"button-save": "Зберегти",
+	"button-cancel": "Скасувати",
+	"error": "Щось пішло не так!",
+	"no-javascript": "Книгочитач потребує увімкненого JavaScript. Будь ласка, переконайтесь, що ваш браузер підтримує JavaScript, і що JavaScript увімкнений у його налаштуваннях.",
+	"embebed-not-supported": "Вбудовування коду не підтримується в книгочитачі."
+}

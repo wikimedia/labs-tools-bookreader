@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jayprakash12345"
+			"Jayprakash12345",
+			"Robby"
 		]
 	},
 	"bookreader-name": "Site title",
@@ -29,8 +30,8 @@
 	"localfile-notice": "Notice for Local Files",
 	"back-to-home": "Text of Back to Home",
 	"my-language": "Text of My Language",
-	"button-save": "Text of Save button",
-	"button-cancel": "Text of Cancel button",
+	"button-save": "Text of Save button\n{{identical|Save}}",
+	"button-cancel": "Text of Cancel button\n{{Identical|Cancel}}",
 	"error": "Error message",
 	"no-javascript": "Error messeage when javascript is not available in browser.",
 	"embebed-not-supported": "Error messeage when Embed code not supported in bookreader."

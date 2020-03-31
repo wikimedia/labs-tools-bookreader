@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"changelanguage": "언어 바꾸기",
+	"form-submit": "제출",
+	"label-filename": "파일 이름:",
+	"filename-placeholder": "파일 이름 입력",
+	"my-language": "내 언어",
+	"button-save": "저장",
+	"button-cancel": "취소",
+	"error": "무언가가 잘못되었습니다!"
+}
