@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac"
+		]
+	},
+	"or-text": "Կամ",
+	"wiki-projects": "Վիքիդարանի նախագիծ՝",
+	"lang-as": "Ասսամերեն",
+	"lang-bn": "Բենգալերեն",
+	"lang-gu": "Գուջարաթի",
+	"lang-hi": "Հինդի",
+	"lang-kn": "Կաննադա",
+	"lang-ml": "Մալայալամ",
+	"lang-mr": "Մարաթհի",
+	"lang-pa": "Փանջաբերեն",
+	"lang-sa": "Սանսկրիտ",
+	"lang-te": "Տելուգու",
+	"label-filename": "Նիշքի անվանում",
+	"my-language": "Իմ լեզուն",
+	"button-save": "Հիշել",
+	"button-cancel": "Չեղարկել",
+	"error": "Ինչ-որ սխալ է տեղի ունեցել"
+}

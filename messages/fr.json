@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Thibaut120094"
 		]
 	},
 	"bookreader-name": "Lecteur de livre — Wikimédia",
@@ -31,7 +32,7 @@
 	"my-language": "Ma langue",
 	"button-save": "Enregistrer",
 	"button-cancel": "Annuler",
-	"error": "Quelque chose s’est mal passé !",
+	"error": "Quelque chose s’est mal passé !",
 	"no-javascript": "BookReader nécessite JavaScript activé. Veuillez vérifier que votre navigateur supporte JavaScript et qu’il est activé dans les paramètres.",
 	"embebed-not-supported": "Le code inclus n’est pas supporté dans BookReader."
 }

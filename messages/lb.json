@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"bookreader-name": "Buch-Lieser - Wikimedia",
+	"bookreader-heading": "Buch-Lieser",
+	"changelanguage": "Sprooch wiesselen",
+	"form-submit": "Schécken",
+	"or-text": "Oder",
+	"wiki-projects": "Projet Wikisource:",
+	"lang-hi": "Hindi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamilesch",
+	"label-filename": "Numm vum Fichier:",
+	"filename-placeholder": "Gitt en Numm vun engem Fichier an",
+	"localfile-notice": "Automatescht Ausfëlle vum Numm vum Fichier funktionéiert nëmme fir lokal eropgeluede Fichieren.",
+	"back-to-home": "Zréck op d'Haaptsäit",
+	"my-language": "Meng Sprooch",
+	"button-save": "Späicheren",
+	"button-cancel": "Ofbriechen",
+	"error": "Et ass eppes schif gaangen!",
+	"no-javascript": "De Buch-Lieser brauch JavaScript. Kuckt wgl. no ob Äre Browser JavaScript ënnerstëtzt an datt JavaScript an Äre Browser-Astellungen aktivéiert ass."
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"FF11"
+		]
+	},
+	"changelanguage": "Sprache ändern",
+	"or-text": "Oder",
+	"label-filename": "Dateiname:",
+	"filename-placeholder": "Gib einen Dateinamen an",
+	"my-language": "meine Sprache",
+	"button-save": "Speichern",
+	"button-cancel": "Abbrechen",
+	"error": "Etwas ist schief gelaufen!"
+}
