@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"500000000006城"
+		]
+	},
+	"bookreader-name": "图书阅读器-Wikimedia",
+	"bookreader-desc": "BookReader是一种从Wikimedia站点以图书格式读取PDF/DjVu的工具。",
+	"bookreader-heading": "图书阅读器",
+	"changelanguage": "更改语言",
+	"byurl-placeholder": "从Wikimedia项目中输入PDF/DjVu的URL",
+	"form-submit": "提交",
+	"or-text": "或",
+	"wiki-projects": "维基文库项目",
+	"lang-as": "阿萨姆文",
+	"lang-bn": "孟加拉语",
+	"lang-gu": "古吉拉特语",
+	"lang-hi": "印地语",
+	"lang-kn": "卡纳拉语",
+	"lang-ml": "马拉雅拉姆语",
+	"lang-mr": "马拉塔语",
+	"lang-or": "奥里雅语",
+	"lang-pa": "旁遮普文",
+	"lang-sa": "梵语",
+	"lang-ta": "泰米尔文",
+	"lang-te": "泰卢固语",
+	"label-filename": "文件名：",
+	"filename-placeholder": "输入文件的名称",
+	"localfile-notice": "文件名的自动完成仅适用于本地上载的文件。",
+	"back-to-home": "返回顶部",
+	"my-language": "我的语言",
+	"button-save": "保存",
+	"button-cancel": "取消",
+	"error": "发生了一些错误",
+	"no-javascript": "BookReader需要启用JavaScript。请检查您的浏览器是否支持JavaScript并在浏览器设置中启用它。",
+	"embebed-not-supported": "图书阅读器不支持嵌入代码。"
+}

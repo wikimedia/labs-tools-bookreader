@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader är ett verktyg för att läsa PDF/DjVu i bokformat från Wikimedias webbplatser.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Byt språk",
+	"byurl-placeholder": "Ange en webbadress till en PDF/DjVu från Wikimedia-projeket",
+	"form-submit": "Skicka",
+	"or-text": "Eller",
+	"wiki-projects": "Wikisource-projekt:",
+	"lang-as": "Assamesiska",
+	"lang-bn": "Bengali",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Filnamn:",
+	"filename-placeholder": "Ange ett filnamn",
+	"localfile-notice": "Automatisk komplettering för filnamn fungerar bara för lokalt uppladdade filer.",
+	"back-to-home": "Tillbaka till hemsidan",
+	"my-language": "Mitt språk",
+	"button-save": "Spara",
+	"button-cancel": "\nAvbryt",
+	"error": "Någonting gick fel!",
+	"no-javascript": "BookReader kräver JavaScript för att fungera. Kontrollera att din webbläsare har stöd för JavaScript och att det är aktiverat i webbläsarinställningarna.",
+	"embebed-not-supported": "Inbäddad kod stöds inte i BookReader."
+}

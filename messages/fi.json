@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"changelanguage": "Vaihda kieli",
+	"form-submit": "Lähetä",
+	"or-text": "Tai",
+	"label-filename": "Tiedostonimi:",
+	"my-language": "Oma kieli",
+	"button-save": "Tallenna",
+	"button-cancel": "Peruuta",
+	"error": "Jotain meni vikaan!"
+}
