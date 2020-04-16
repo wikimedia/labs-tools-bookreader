@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"PonkoSasuke"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader is een tool om PDF/DjVu te lezen in boek formaat van wikimedia sites.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Taal wijzigen",
+	"byurl-placeholder": "Geen een URL of PDF/DjVu van Wikimedia project in",
+	"form-submit": "Opslaan",
+	"or-text": "Of",
+	"wiki-projects": "Wikisource project:",
+	"lang-as": "Assamees",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskriet",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Bestandsnaam:",
+	"filename-placeholder": "Geef een bestandsnaam in",
+	"localfile-notice": "Autocompleteren van bestandsnaam gaat enkel bij lokaal geüploaded bestand",
+	"back-to-home": "Terug naar boven",
+	"my-language": "Mijn taal",
+	"button-save": "Opslaan",
+	"button-cancel": "Annuleren",
+	"error": "Er is iets misgegaan!",
+	"no-javascript": "De BookReader vereist JavaScript om ingeschakeld te worden. Kijk na of je browser JavaScript ondersteund en dat het ingeschakeld is in de browserinstellingen.",
+	"embebed-not-supported": "Embed code niet ondersteund in bookreader."
+}
