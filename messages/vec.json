@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fierodelveneto"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader el xé on instrumento par lèxare PDF / DjVu in forma de libro dai siti Wikimedia.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Canbia łéngua",
+	"byurl-placeholder": "Scrivi on URL de PDF/DjVu da on projeto Wikimedia",
+	"form-submit": "Manda",
+	"or-text": "O",
+	"wiki-projects": "Projeto Wikisource:",
+	"lang-as": "Asamexe",
+	"lang-bn": "Bengałexe",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nome del file:",
+	"filename-placeholder": "Scrivi el nome del file",
+	"localfile-notice": "El conpletamento automatego del nome file el funsiona soło par i file locałi cargai",
+	"back-to-home": "Torna a ła pàjina prinçipałe",
+	"my-language": "Ła me łéngua",
+	"button-save": "Salva",
+	"button-cancel": "Descançełare",
+	"error": "Calcosa el xé ndà roverso.",
+	"no-javascript": "El BookReader el domanda JavaScript ativà par ndare. Par favore, controła che el to navegadore web el suportee JavaScript e/o controła se el xé ativo in te łe inpostasion.",
+	"embebed-not-supported": "Còdaxe incorporà no suportà in tel BookReader"
+}
