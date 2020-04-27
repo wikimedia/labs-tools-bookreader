@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"bookreader-name": "Llector de llibros - Wikimedia",
+	"bookreader-desc": "El llector de llibros ye una ferramienta pa lleer  PDF y DjVu en formatu de llibru dende los sitios de Wikimedia.",
+	"bookreader-heading": "Llector de llibros",
+	"changelanguage": "Camudar llingua",
+	"byurl-placeholder": "Escribi la URL d'un PDF/DjVu d'un proyectu de Wikimedia",
+	"form-submit": "Unviar",
+	"or-text": "O bien",
+	"wiki-projects": "Proyeutu de Wikisource:",
+	"lang-as": "Asamés",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canarés",
+	"lang-ml": "Malabar",
+	"lang-mr": "Maratí",
+	"lang-or": "Oriya",
+	"lang-pa": "Punyabín",
+	"lang-sa": "Sánscritu",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nome del ficheru:",
+	"filename-placeholder": "Escribe'l nome d'un ficheru",
+	"localfile-notice": "El completáu automáticu del nome de ficheru funciona solo pa ficheros cargaos en llocal.",
+	"back-to-home": "Volver al entamu",
+	"my-language": "La mio Llingua",
+	"button-save": "Guardar",
+	"button-cancel": "Encaboxar",
+	"error": "¡Daqué funcionó mal!",
+	"no-javascript": "El llector de llibros precisa que JavaScript te activáu. Comprueba que'l navegador almita JavaScript y qu'esti tea activáu na configuración.",
+	"embebed-not-supported": "El llector de llibros nun tien encontu pa códigu d'incrustación."
+}

@@ -1,11 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"FF11"
+			"FF11",
+			"ImaCow"
 		]
 	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-heading": "Book Reader",
 	"changelanguage": "Sprache ändern",
+	"form-submit": "Speichern",
 	"or-text": "Oder",
+	"lang-as": "Assamese",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
 	"label-filename": "Dateiname:",
 	"filename-placeholder": "Gib einen Dateinamen an",
 	"my-language": "meine Sprache",
