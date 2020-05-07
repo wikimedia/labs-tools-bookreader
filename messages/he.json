@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"YaronSh"
+		]
+	},
+	"bookreader-name": "קורא ספרים - ויקימדיה",
+	"bookreader-desc": "קורא הסרפים הוא כלי לקריאת PDF/DjVu בתצורת ספר מאתרי ויקימדיה.",
+	"bookreader-heading": "קורא ספרים",
+	"changelanguage": "החלפת שפה",
+	"byurl-placeholder": "נא למלא כתובת של PDF/DjVu ממיזם של ויקימדיה",
+	"form-submit": "הגשה",
+	"or-text": "או",
+	"wiki-projects": "מיזם ויקיטקסט",
+	"lang-as": "אסאמית",
+	"lang-bn": "בנגלית",
+	"lang-gu": "גוג׳רטית",
+	"lang-hi": "הינדי",
+	"lang-kn": "קאנדה",
+	"lang-ml": "מלאיאלאם",
+	"lang-mr": "מרטהי",
+	"lang-or": "אורייה",
+	"lang-pa": "פנג׳אבי",
+	"lang-sa": "סנסקריט",
+	"lang-ta": "טמילית",
+	"lang-te": "טלוגו",
+	"label-filename": "שם קובץ:",
+	"filename-placeholder": "נא למלא שם לקובץ",
+	"localfile-notice": "השלמה אוטומטית לשם קובץ עובדת רק לקבצים שהועלו מקומית.",
+	"back-to-home": "חזרה לבית",
+	"my-language": "השפה שלי",
+	"button-save": "שמירה",
+	"button-cancel": "ביטול",
+	"error": "משהו השתבש!",
+	"no-javascript": "קורא הספרים דורש JavaScript פעיל אצלך. נא לבדוק שהדפדפן שלך תומך ב־JavaScript ושהוא מופעל בהגדרות הדפדפן.",
+	"embebed-not-supported": "אין תמיכה בהטמעת קוד בקורא הספרים."
+}

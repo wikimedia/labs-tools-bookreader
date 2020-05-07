@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac",
+			"Okras"
+		]
+	},
+	"changelanguage": "Изменить язык",
+	"byurl-placeholder": "Введите URL-адрес PDF/DjVu из проекта Викимедиа",
+	"form-submit": "Отправить",
+	"or-text": "Или",
+	"lang-hi": "Хинди",
+	"lang-mr": "Маратхи",
+	"lang-pa": "Панджаби",
+	"lang-sa": "Санскрит",
+	"lang-ta": "Тамильский",
+	"lang-te": "Телугу",
+	"label-filename": "Имя файла:",
+	"filename-placeholder": "Введите имя файла",
+	"my-language": "Мой язык",
+	"button-save": "Сохранить",
+	"button-cancel": "Отменить",
+	"error": "Что-то пошло не так!"
+}
