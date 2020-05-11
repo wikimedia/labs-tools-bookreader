@@ -1,15 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
+			"DraconicDark",
 			"FF11",
 			"ImaCow"
 		]
 	},
 	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader ist ein Werkzeug zum Lesen von PDF/DjVu im Buchformat von Wikimedia-Seiten.",
 	"bookreader-heading": "Book Reader",
 	"changelanguage": "Sprache ändern",
+	"byurl-placeholder": "Eine URL vom PDF/DjVu aus dem Wikimedia-Projekt eingeben",
 	"form-submit": "Speichern",
 	"or-text": "Oder",
+	"wiki-projects": "Wikisource-Projekt:",
 	"lang-as": "Assamese",
 	"lang-bn": "Bangla",
 	"lang-gu": "Gujarati",
@@ -18,10 +22,18 @@
 	"lang-ml": "Malayalam",
 	"lang-mr": "Marathi",
 	"lang-or": "Oriya",
+	"lang-pa": "Panjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
 	"label-filename": "Dateiname:",
 	"filename-placeholder": "Gib einen Dateinamen an",
+	"localfile-notice": "Die Autovervollständigung des Dateinamens funktioniert nur für lokal hochgeladene Dateien.",
+	"back-to-home": "Zurück zur Startseite",
 	"my-language": "meine Sprache",
 	"button-save": "Speichern",
 	"button-cancel": "Abbrechen",
-	"error": "Etwas ist schief gelaufen!"
+	"error": "Etwas ist schief gelaufen!",
+	"no-javascript": "Für den BookReader muss JavaScript aktiviert sein. Bitte überprüfen Sie, ob Ihr Browser JavaScript unterstützt und ob es in den Browsereinstellungen aktiviert ist.",
+	"embebed-not-supported": "In Bookreader nicht unterstützter Einbettungscode."
 }
