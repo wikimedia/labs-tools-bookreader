@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tala Ali"
+		]
+	},
+	"bookreader-name": "قارئ الكتاب - ويكيميديا",
+	"bookreader-desc": "قارئ الكتاب هي أداة لقرائة البي دي إف/ دي جا ڤو في شكل كتاب من مواقع ويكيميديا",
+	"bookreader-heading": "قارئ الكتاب",
+	"changelanguage": "تغيير اللغة",
+	"form-submit": "تسليم",
+	"or-text": "أو",
+	"label-filename": "اسم الملف",
+	"filename-placeholder": "أدخل اسم الملف",
+	"back-to-home": "العودة إلى أعلى",
+	"my-language": "اللغة",
+	"button-save": "حفظ",
+	"button-cancel": "إلغاء",
+	"error": "حدث خطأ ما"
+}

@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Kareyac",
-			"Okras"
+			"Okras",
+			"Pacha Tchernof"
 		]
 	},
 	"changelanguage": "Изменить язык",
-	"byurl-placeholder": "Введите URL-адрес PDF/DjVu из проекта Викимедиа",
+	"byurl-placeholder": "Введите URL-адрес файла в формате PDF/DjVu из проекта Викимедиа",
 	"form-submit": "Отправить",
-	"or-text": "Или",
+	"or-text": "или",
 	"lang-gu": "Гуджарати",
 	"lang-hi": "Хинди",
 	"lang-mr": "Маратхи",

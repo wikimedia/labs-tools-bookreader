@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emiko"
+		]
+	},
+	"bookreader-name": "Könyv olvasó - Wikimedia",
+	"bookreader-desc": "A BookReader olyan eszköz, mellyel PDF/DjVu könyvet olvashatsz a wikimédia oldalakról.",
+	"bookreader-heading": "Könyv Olvasó",
+	"changelanguage": "Nyelv megváltoztatása",
+	"byurl-placeholder": "Adj meg egy PDF/DjVu URL-t a Wikimedia projektből",
+	"form-submit": "Elküldés",
+	"or-text": "Vagy",
+	"wiki-projects": "Wikisource projekt:",
+	"lang-as": "Asszámi",
+	"lang-bn": "Bengáli",
+	"lang-gu": "Gudzsaráti",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Pandzsábi",
+	"lang-sa": "Szanszkrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Fájlnév:",
+	"filename-placeholder": "Írd be a fájl nevét",
+	"localfile-notice": "A fájlnév automatikus kiegészítése csak a helyi feltöltött fájloknál működik.",
+	"back-to-home": "Vissza a tetejére",
+	"my-language": "Saját nyelv",
+	"button-save": "Mentés",
+	"button-cancel": "Mégsem",
+	"error": "Valami elromlott!",
+	"no-javascript": "A BookReadernek engedélyeznie kell a JavaScriptet. Ellenőrizd, hogy a böngésződ támogatja-e a JavaScriptet, és engedélyezve van-e a böngésző beállításaiban.",
+	"embebed-not-supported": "A beágyazási kód nem támogatott a könyvolvasóban."
+}
