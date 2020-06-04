@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Norhorn"
+		]
+	},
+	"bookreader-name": "Αναγνώστης βιβλίων - Wikimedia",
+	"bookreader-desc": "Το BookReader είναι ένα εργαλείο για την ανάγνωση PDF/DjVu σε μορφή βιβλίου από ιστότοπους της wikimedia.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Αλλαγή γλώσσας",
+	"byurl-placeholder": "Προσθέστε διεύθυνση URL αρχείου PDF/DjVu από τα έργα της Wikimedia",
+	"form-submit": "Υποβολή",
+	"or-text": "Ή",
+	"wiki-projects": "Βικιπηγή του έργου:",
+	"lang-as": "Ασσαμέζικα",
+	"lang-bn": "Bangla",
+	"lang-gu": "Γκουτζαράτι",
+	"lang-hi": "Χίντι",
+	"lang-kn": "Kannada",
+	"lang-ml": "Μαλαγιάλαμ",
+	"lang-mr": "Μαράτι",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Σανσκριτικά",
+	"lang-ta": "Ταμίλ",
+	"lang-te": "Telugu",
+	"label-filename": "Όνομα αρχείου:",
+	"filename-placeholder": "Εισάγετε όνομα αρχείου",
+	"localfile-notice": "Η αυτόματη συμπλήρωση του ονόματος αρχείου λειτουργεί μόνο για τοπικά μεταφορτωμένο αρχείο.",
+	"back-to-home": "Επιστροφή στην αρχική",
+	"my-language": "Η γλώσσα μου",
+	"button-save": "Αποθήκευση",
+	"button-cancel": "Ακύρωση",
+	"error": "Κάτι πήγε στραβά!",
+	"no-javascript": "Το BookReader απαιτεί ενεργοποίηση της JavaScript. Ελέγξτε το πρόγραμμα περιήγησης πως υποστηρίζει την JavaScript και ότι είναι ενεργοποιημένη στις ρυθμίσεις του.",
+	"embebed-not-supported": "Ο ενσωματωμένος κώδικας δεν υποστηρίζεται στο bookreader."
+}
