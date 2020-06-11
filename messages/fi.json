@@ -1,13 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"Muovipullo",
 			"Pyscowicz"
 		]
 	},
 	"changelanguage": "Vaihda kieli",
 	"form-submit": "Lähetä",
 	"or-text": "Tai",
+	"lang-hi": "Hindi",
 	"label-filename": "Tiedostonimi:",
+	"back-to-home": "Takaisin alkuun",
 	"my-language": "Oma kieli",
 	"button-save": "Tallenna",
 	"button-cancel": "Peruuta",

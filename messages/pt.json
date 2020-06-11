@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mansil alfalb"
+		]
+	},
+	"bookreader-name": "Leitor de Livros - Wikimedia",
+	"bookreader-desc": "BookReader é uma ferramenta para ler livros no formato PDF / DjVu dos ''sites'' da Wikimedia.",
+	"bookreader-heading": "Leitor de Livros",
+	"changelanguage": "Alterar Idioma",
+	"byurl-placeholder": "Insira um URL de PDF / DjVu do projeto da Wikimedia",
+	"form-submit": "Submeter",
+	"or-text": "Ou",
+	"wiki-projects": "Projeto de Wikisource:",
+	"label-filename": "Nome do ficheiro:",
+	"filename-placeholder": "insira um nome do ficheiro",
+	"back-to-home": "Voltar para Início",
+	"my-language": "O Meu Idioma",
+	"button-save": "Guardar",
+	"button-cancel": "Cancelar",
+	"error": "Ocorreu algo de errado!"
+}
