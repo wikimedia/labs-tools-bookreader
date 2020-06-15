@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"WaldiSt"
+		]
+	},
+	"changelanguage": "Zmień język",
+	"byurl-placeholder": "Wpisz adres URL pliku PDF/DjVu z projektu Wikimedia",
+	"or-text": "Lub",
+	"wiki-projects": "Projekt Wikiźródła:",
+	"label-filename": "Nazwa pliku:",
+	"filename-placeholder": "Wpisz nazwę pliku",
+	"localfile-notice": "Autouzupełnianie nazwy pliku działa tylko w przypadku przesłanego pliku lokalnego.",
+	"my-language": "Mój język",
+	"button-save": "Zapisz",
+	"button-cancel": "Anuluj",
+	"error": "Coś poszło nie tak!",
+	"no-javascript": "BookReader wymaga włączonej obsługi JavaScript. Sprawdź, czy Twoja przeglądarka obsługuje JavaScript i czy jest włączona w ustawieniach przeglądarki.",
+	"embebed-not-supported": "Kod do osadzania nie jest obsługiwany w czytniku książek."
+}
