@@ -4,6 +4,8 @@
 			"WaldiSt"
 		]
 	},
+	"bookreader-name": "Czytnik książek - Wikimedia",
+	"bookreader-desc": "BookReader to narzędzie do czytania plików PDF/DjVu w formie książek ze stron wikimedia.",
 	"changelanguage": "Zmień język",
 	"byurl-placeholder": "Wpisz adres URL pliku PDF/DjVu z projektu Wikimedia",
 	"or-text": "Lub",
