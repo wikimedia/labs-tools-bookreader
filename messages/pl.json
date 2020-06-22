@@ -1,18 +1,35 @@
 {
 	"@metadata": {
 		"authors": [
-			"WaldiSt"
+			"Rainbow P",
+			"WaldiSt",
+			"Woytecr"
 		]
 	},
 	"bookreader-name": "Czytnik książek - Wikimedia",
 	"bookreader-desc": "BookReader to narzędzie do czytania plików PDF/DjVu w formie książek ze stron wikimedia.",
+	"bookreader-heading": "Book Reader",
 	"changelanguage": "Zmień język",
 	"byurl-placeholder": "Wpisz adres URL pliku PDF/DjVu z projektu Wikimedia",
+	"form-submit": "Wyślij",
 	"or-text": "Lub",
 	"wiki-projects": "Projekt Wikiźródła:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gudźarackie",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamilski",
+	"lang-te": "Telugu",
 	"label-filename": "Nazwa pliku:",
 	"filename-placeholder": "Wpisz nazwę pliku",
 	"localfile-notice": "Autouzupełnianie nazwy pliku działa tylko w przypadku przesłanego pliku lokalnego.",
+	"back-to-home": "Wróć do strony głównej",
 	"my-language": "Mój język",
 	"button-save": "Zapisz",
 	"button-cancel": "Anuluj",
