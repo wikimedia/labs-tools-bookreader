@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nguyễn Mạnh An"
+		]
+	},
+	"bookreader-name": "Trình đọc sách - Wikimedia",
+	"bookreader-desc": "BookReader là một công cụ để đọc PDF / DjVu ở định dạng sách từ các trang wikidia.",
+	"bookreader-heading": "Trình đọc sách",
+	"changelanguage": "Thay đổi ngôn ngữ",
+	"byurl-placeholder": "Nhập URL của PDF / DjVu từ dự án Wikimedia",
+	"form-submit": "Gửi",
+	"or-text": "Hoặc",
+	"wiki-projects": "Dự án Wikisource:",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarat",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canada",
+	"lang-ml": "Malaysia",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-ta": "Tamil",
+	"lang-te": "Tenlugu",
+	"label-filename": "Tên tệp tin:",
+	"filename-placeholder": "Nhập tên tập tin",
+	"localfile-notice": "Tự động hoàn thành tên tệp chỉ hoạt động đối với tệp được tải lên cục bộ.",
+	"back-to-home": "Trở về đầu trang",
+	"my-language": "Ngôn ngữ của tôi",
+	"button-save": "Lưu",
+	"button-cancel": "Hủy bỏ",
+	"error": "Có thứ gì đó bị lỗi…",
+	"no-javascript": "BookReader yêu cầu JavaScript được kích hoạt. Vui lòng kiểm tra xem trình duyệt của bạn có hỗ trợ JavaScript hay không và nó có được bật trong cài đặt trình duyệt không.",
+	"embebed-not-supported": "Mã nhúng không được hỗ trợ trong trình đọc sách."
+}
