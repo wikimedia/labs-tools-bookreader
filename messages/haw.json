@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"bookreader-name": "Ka Heluhelu Puke -Wikimedia",
+	"bookreader-desc": "ʻO BookReader he hāmeʻa no ka heluhelu ʻana o ka palapala PDF/DjVu e like me ka puke mai nā kahua pūnaewele wikimedia.",
+	"bookreader-heading": "Ka Heluhelu Puke",
+	"changelanguage": "Hoʻololi ʻŌlelo",
+	"byurl-placeholder": "E kikokiko i ka loulou a ke PDF/DjVu mai ka papahana Wikimedia",
+	"form-submit": "Waiho",
+	"or-text": "a i ʻole",
+	"wiki-projects": "Papahana Wikisource:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Inoa waihona:",
+	"filename-placeholder": "E kikokiko i ka inoa o ka waihona",
+	"localfile-notice": "ʻO ka piha pono ʻakomi o ka inoa waihona, hana ʻia no nā waihona hoʻouka ʻia ma ʻaneʻi.",
+	"back-to-home": "Hoʻi i ka Papakuhikuhi",
+	"my-language": "Koʻu ʻŌlelo",
+	"button-save": "Mālama",
+	"button-cancel": "Hoʻōki",
+	"error": "Loaʻa i ka pilikia!",
+	"no-javascript": "Koi ʻO BookReader i ka hoʻā ʻana iā JavaScript. E ʻoluʻolu, e nānā pono i ke kākoʻo ʻana o Javascript i ka polokalamu kele pūnaewele a hoʻā i ka makemake polokalamu kele pūnaewele.",
+	"embebed-not-supported": "ʻAʻole kākoʻo ʻia ka pāʻālua hoʻokomo iā bookreader."
+}
