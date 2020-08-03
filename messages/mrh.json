@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kiathy"
+		]
+	},
+	"bookreader-name": "Châbu reihtuhpa - Wikipedia",
+	"bookreader-desc": "ChâbuReihtuhpa cha wikipedia sitezy tawhta PDF/DjVu he châbu hawhpa lâta reina chhaichhi sâkha a châ.",
+	"bookreader-heading": "Châbu Reihtuhpa",
+	"changelanguage": "Reihchâ pathlai",
+	"byurl-placeholder": "Wikipedia parawche tawhta PDF/DjVu URL sâkha roh teih",
+	"form-submit": "Pangia",
+	"or-text": "Acv",
+	"wiki-projects": "Wikihnawh parawche:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Faih moh:",
+	"filename-placeholder": "Faih sâkha moh roh teih",
+	"localfile-notice": "Khâ hawpa faih châta deita anotata faih moh piena rai a hria aw.",
+	"back-to-home": "O lâ kua",
+	"my-language": "Keima Reihchâ",
+	"button-save": "Pachô",
+	"button-cancel": "Châvei",
+	"error": "Sâkhakha ado vei!",
+	"no-javascript": "ChâbuReihtuhpa cha JavaScript pahypa awpa â ngiah. Na browser kha JavaScript a pahnie ma tahpa nata taopathinazy liata chacha na pahy maw tahpa moh tua bei teih.",
+	"embebed-not-supported": "Embed code cha châbureihtuhpa liata deichhy vei."
+}

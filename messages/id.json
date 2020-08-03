@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sonic Speedy"
+		]
+	},
+	"bookreader-name": "Pembaca Buku - Wikimedia",
+	"bookreader-desc": "PembacaBuku adalah alat untuk membaca PDF / DjVu dalam format buku dari situs wikimedia.",
+	"bookreader-heading": "Pembaca Buku",
+	"changelanguage": "Ganti Bahasa",
+	"byurl-placeholder": "Masukkan URL dari PDF/DjVu dari proyek Wikimedia",
+	"form-submit": "Kirimkan",
+	"or-text": "Atau",
+	"wiki-projects": "Proyek Wikisource:",
+	"lang-as": "Orang Assam",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sansekerta",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nama file:",
+	"filename-placeholder": "Masukkan nama file",
+	"localfile-notice": "Isi nama file secara otomatis hanya berfungsi untuk file yang diunggah lokal.",
+	"back-to-home": "Kembali ke Halaman Utama",
+	"my-language": "Bahasa Saya",
+	"button-save": "Simpan",
+	"button-cancel": "Batalkan",
+	"error": "Ada kesalahan!",
+	"no-javascript": "PembacaBuku membutuhkan JavaScript untuk diaktifkan.  Harap periksa apakah browser Anda mendukung JavaScript dan diaktifkan di pengaturan browser.",
+	"embebed-not-supported": "Kode sematan tidak didukung di pembaca buku."
+}

@@ -1,15 +1,30 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Mguix"
 		]
 	},
 	"bookreader-name": "Lector de llibres • Wikimedia",
 	"bookreader-desc": "El lector de llibres és una eina per a llegir llibres en format PDF o DjVu des dels llocs de Wikimedia.",
 	"bookreader-heading": "Lector de llibres",
 	"changelanguage": "Canvia la llengua",
+	"byurl-placeholder": "Entrar a un URL de PDF/DjVu del projecte Wikimedia",
 	"form-submit": "Tramet",
 	"or-text": "O bé",
+	"wiki-projects": "Projecte  Wikisource:",
+	"lang-as": "Assamès",
+	"lang-bn": "Bengalí",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kanarès",
+	"lang-ml": "Malaiàlam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Panjabi",
+	"lang-sa": "Sànscrit",
+	"lang-ta": "Tàmil",
+	"lang-te": "Telugu",
 	"label-filename": "Nom del fitxer:",
 	"filename-placeholder": "Introduïu un nom de fitxer",
 	"localfile-notice": "La compleció automàtica del nom del fitxer només funciona amb els fitxers pujats localment.",
@@ -18,5 +33,6 @@
 	"button-save": "Desa",
 	"button-cancel": "Cancel·la",
 	"error": "S’ha produït un error.",
+	"no-javascript": "El lector de llibres requereix que s'habiliti el Javascript. Si us plau, comprova que el teu navegador suporta Javascript i que està activat en la configuració del navegador.",
 	"embebed-not-supported": "El lector de llibres no admet el codi d’incrustació."
 }
