@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -30,8 +31,8 @@
 	"back-to-home": "Tillbaka till hemsidan",
 	"my-language": "Mitt språk",
 	"button-save": "Spara",
-	"button-cancel": "\nAvbryt",
-	"error": "Någonting gick fel!",
+	"button-cancel": "Avbryt",
+	"error": "Någonting blev fel!",
 	"no-javascript": "BookReader kräver JavaScript för att fungera. Kontrollera att din webbläsare har stöd för JavaScript och att det är aktiverat i webbläsarinställningarna.",
-	"embebed-not-supported": "Inbäddad kod stöds inte i BookReader."
+	"embebed-not-supported": "Inbäddad kod stöds inte i bookreader."
 }
