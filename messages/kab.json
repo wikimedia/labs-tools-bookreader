@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"K Messaoudi"
+		]
+	},
+	"bookreader-name": "Imeɣṛi n udlis - Wikimedia",
+	"bookreader-desc": "BookReader d afecku i tɣuṛi n PDF/DjVu s umasal n udlis seg yismal n Wikimedia.",
+	"bookreader-heading": "Imeɣṛi n udlis",
+	"changelanguage": "Beddel tutlayt",
+	"byurl-placeholder": "Sekcem aseɣwen URL n PDF/DjVu seg usenfar Wikimedia",
+	"form-submit": "Azen",
+	"or-text": "Neɣ",
+	"wiki-projects": "Asenfar Wikisource:",
+	"lang-as": "Tassamit",
+	"lang-bn": "Tabengalit",
+	"lang-gu": "Tagujaratit",
+	"lang-hi": "Tahendit",
+	"lang-kn": "Takannadat",
+	"lang-ml": "Tamalayalamt",
+	"lang-mr": "Tamaratit",
+	"lang-or": "Turiyat",
+	"lang-pa": "Tapunǧabit",
+	"lang-sa": "Tasanskrit",
+	"lang-ta": "Tatamilit",
+	"lang-te": "Tilugut",
+	"label-filename": "Isem n ufaylu:",
+	"filename-placeholder": "Sekcem isem n ufaylu",
+	"localfile-notice": "Asmad awurman n yismawen n yifuyla yetteddu kan i yifuyla n usader adigan.",
+	"back-to-home": "Uɣal ɣer usebter agejdan",
+	"my-language": "Tutlayt-iw",
+	"button-save": "Sekles",
+	"button-cancel": "Sefsex",
+	"error": "Yella wugur!",
+	"no-javascript": "BookReader yesra ad irmed JavaScript. Ttxil Senqed iminig-ik/im ma yessefrak JavaScript yerna yermed deg yiɣewwaren.",
+	"embebed-not-supported": "Tangalt i d-yeddan ur tettwasefrak ara deg BookReader."
+}
