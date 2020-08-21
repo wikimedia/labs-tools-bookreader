@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luklos"
+		]
+	},
+	"bookreader-name": "Čtečka knih - Wikimedia",
+	"bookreader-desc": "BookReader je nástroj ke čtení PDF/DjVu v knižním formátu z Wikipedia stránek.",
+	"bookreader-heading": "Čtečka knih",
+	"changelanguage": "Změnit jazyk",
+	"byurl-placeholder": "Zadejte URL souboru PDF / DjVu z projektu Wikimedia",
+	"form-submit": "Odeslat",
+	"or-text": "Nebo",
+	"wiki-projects": "Wikisource projekt:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bengla",
+	"lang-gu": "Gudžarádské písmo",
+	"lang-hi": "Hindština",
+	"lang-kn": "Kannadština",
+	"lang-ml": "Malajálamština",
+	"lang-mr": "Maráthština",
+	"lang-or": "Urijština",
+	"lang-pa": "Paňžábština",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamilština",
+	"lang-te": "Telugština",
+	"label-filename": "Jméno souboru:",
+	"filename-placeholder": "Zadejte název souboru",
+	"localfile-notice": "Automatické doplňování názvu souboru funguje pouze pro místní nahraný soubor.",
+	"back-to-home": "Zpátky domů",
+	"my-language": "Můj jazyk",
+	"button-save": "Uložit",
+	"button-cancel": "Zrušit",
+	"error": "Něco se pokazilo!",
+	"no-javascript": "BookReader vyžaduje, aby byl povolen JavaScript.  Zkontrolujte, zda váš prohlížeč podporuje JavaScript a zda je povolen v nastaveních prohlížeče.",
+	"embebed-not-supported": "Vložený kód není podporován BookReaderem."
+}
