@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luklos"
+			"Luklos",
+			"Robins7"
 		]
 	},
-	"bookreader-name": "Čtečka knih - Wikimedia",
+	"bookreader-name": "Čtečka knih – Wikimedia",
 	"bookreader-desc": "BookReader je nástroj ke čtení PDF/DjVu v knižním formátu z Wikipedia stránek.",
 	"bookreader-heading": "Čtečka knih",
 	"changelanguage": "Změnit jazyk",
@@ -32,6 +33,6 @@
 	"button-save": "Uložit",
 	"button-cancel": "Zrušit",
 	"error": "Něco se pokazilo!",
-	"no-javascript": "BookReader vyžaduje, aby byl povolen JavaScript.  Zkontrolujte, zda váš prohlížeč podporuje JavaScript a zda je povolen v nastaveních prohlížeče.",
+	"no-javascript": "BookReader vyžaduje, aby byl povolen JavaScript. Zkontrolujte, zda váš prohlížeč podporuje JavaScript a zda je povolen v nastaveních prohlížeče.",
 	"embebed-not-supported": "Vložený kód není podporován BookReaderem."
 }
