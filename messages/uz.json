@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asadbek Botirqulov"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader - PDF / DjVu-ni wikimedia saytlaridan kitob formatida oʻqish vositasi.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Tilni oʻzgartirish",
+	"byurl-placeholder": "Vikimedia loyihasidan PDF / DjVu manzilini kiriting",
+	"form-submit": "Yuborish",
+	"or-text": "Yoki",
+	"wiki-projects": "Vikimanba loyiha:",
+	"lang-as": "Assam",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hind",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Panjob",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Fayl nomi:",
+	"filename-placeholder": "Fayl nomini kiriting",
+	"localfile-notice": "Fayl nomini avtomatik toʻldirish faqat mahalliy yuklangan fayl uchun ishlaydi.",
+	"back-to-home": "Asosiy sahifaga qaytish",
+	"my-language": "Mening tilim",
+	"button-save": "Saqlash",
+	"button-cancel": "Bekor qilish",
+	"error": "Nimadir notoʻgʻri bajarildi!",
+	"no-javascript": "Book Reader JavaScriptni yoqishni talab qiladi. Sizning brauzeringiz JavaScriptni qoʻllab-quvvatlayotganligini va brauzer sozlamalarida yoqilganligini tekshiring.",
+	"embebed-not-supported": "Ichki kod book readerda qoʻllab-quvvatlanmaydi."
+}
