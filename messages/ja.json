@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Linuxmetel",
+			"Omotecho"
+		]
+	},
+	"bookreader-name": "ブックリーダー - ウィキメディア",
+	"bookreader-desc": "BookReader（ブックリーダー）はウィキメディアのサイト群にある PDFやDjVu 形式のファイルを書籍風に表示するツールです。",
+	"changelanguage": "他の言語で読む",
+	"byurl-placeholder": "ウィキメディアのプロジェクトにある PDF/DjVu の URL を指定",
+	"form-submit": "送信",
+	"or-text": "または",
+	"wiki-projects": "ウィキソースにある URL を入力：",
+	"label-filename": "ファイル名:",
+	"filename-placeholder": "ファイル名を指定",
+	"localfile-notice": "ファイル名の自動補完はローカルにアップロードしたファイルのみ対象です。",
+	"back-to-home": "トップに戻る",
+	"my-language": "自分の言語",
+	"button-save": "保存",
+	"button-cancel": "キャンセル",
+	"error": "エラーが発生しました",
+	"no-javascript": "BookReader の使用には JavaScript を有効にします。 ご利用のブラウザーで JavaScript が 利用できるか、有効に設定してあるかご確認ください。",
+	"embebed-not-supported": "埋め込みコードはこのツールでサポート外です。"
+}
