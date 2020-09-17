@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hakim1bal"
+		]
+	},
+	"bookreader-name": "ⵉⵎⵖⵔⵉ ⵏ ⵓⴷⵍⵉⵙ - ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
+	"bookreader-desc": "ⴱⵓⴽⵔⵉⴷⵔ ⴷ ⵉⵎⵉⵙ ⵏ ⵜⵖⵓⵔⵉ ⵏ ⵜⵍⵖⴰ ⵏ ⵉⴷⵍⵉⵙⵏ PDF/DjVu ⵙⴳ ⵡⴰⵙⵉⵜⵏ ⵏ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ.",
+	"bookreader-heading": "ⵉⵎⵖⵔⵉ ⵏ ⵓⴷⵍⵉⵙ",
+	"changelanguage": "ⵙⵏⴼⵍ ⵜⵓⵜⵍⴰⵢⵜ",
+	"byurl-placeholder": "ⵙⴽⵛⵎ ⵢⴰⵏ ⵓⵙⵖⵍ URL ⵏ PDF/DjVu ⵙⴳ ⵓⵙⵏⵜⵉ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
+	"form-submit": "ⴰⵣⵏ",
+	"or-text": "ⵏⵖ",
+	"wiki-projects": "ⴰⵙⵏⵜⵉ ⵡⵉⴽⵉⵖⴱⴰⵍⵓ:",
+	"lang-as": "ⵜⴰⵙⵙⴰⵎⵉⵜ",
+	"lang-bn": "ⵜⴰⴱⴰⵏⴳⴰⵍⵉⵜ",
+	"lang-gu": "ⵜⴰⴳⵓⵊⴰⵔⵜⵉⵜ",
+	"lang-hi": "ⵜⴰⵀⵉⵏⴷⵉⵜ",
+	"lang-kn": "ⵜⴰⴽⴰⵏⵏⴰⴷⴰⵜ",
+	"lang-ml": "ⵜⴰⵎⴰⵍⴰⵢⴰⵍⴰⵎⵜ",
+	"lang-mr": "ⵜⴰⵎⴰⵔⴰⵜⵉⵜ",
+	"lang-or": "ⵜⵓⵔⵉⵢⴰⵜ",
+	"lang-pa": "ⵜⴰⴱⵓⵏⴷⵊⴰⴱⵉⵜ",
+	"lang-sa": "ⵜⴰⵙⴰⵏⵙⴽⵔⵉⵜ",
+	"lang-ta": "ⵜⴰⵜⴰⵎⵉⵍⵉⵜ",
+	"lang-te": "ⵜⴰⵜⵉⵍⴳⵓⵜ",
+	"label-filename": "ⵉⵙⵎ ⵏ ⵓⴼⴰⵍⵢⵓ:",
+	"filename-placeholder": "ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵓⴼⴰⵢⵍⵓ",
+	"back-to-home": "ⴰⵖⵓⵍ ⵙ ⵓⵙⵏⵓⴱⴳ",
+	"my-language": "ⵜⵓⵜⵍⴰⵢⵜ ⵉⵏⵓ",
+	"button-save": "ⵃⴹⵓ",
+	"button-cancel": "ⵙⵔ",
+	"error": "ⵉⵍⵍⴰ ⴽⵔⴰ ⵏ ⵓⵎⵓⴽⵔⵉⵙ!"
+}
