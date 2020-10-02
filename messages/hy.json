@@ -4,6 +4,9 @@
 			"Kareyac"
 		]
 	},
+	"bookreader-name": "Book Reader — Վիքիմեդիա",
+	"changelanguage": "Փոխել լեզուն",
+	"form-submit": "Ուղարկել",
 	"or-text": "Կամ",
 	"wiki-projects": "Վիքիդարանի նախագիծ՝",
 	"lang-as": "Ասսամերեն",
@@ -19,6 +22,7 @@
 	"lang-ta": "Թամիլերեն",
 	"lang-te": "Տելուգու",
 	"label-filename": "Նիշքի անվանում",
+	"filename-placeholder": "Մուտքագրեք նիշքի անունը",
 	"my-language": "Իմ լեզուն",
 	"button-save": "Հիշել",
 	"button-cancel": "Չեղարկել",
