@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nargizhasanli",
+			"Şeyx Şamil"
+		]
+	},
+	"bookreader-name": "Kitab oxuyucusu- Vikimedia",
+	"bookreader-desc": "BookReader, PDF / DjVu-nu wikimedia saytlarından kitab formatında oxumaq üçün bir vasitədir.",
+	"bookreader-heading": "Kitab Oxuyucusu",
+	"changelanguage": "Dili dəyiş",
+	"byurl-placeholder": "Wikimedia layihəsindən PDF / DjVu bir URL daxil edin",
+	"form-submit": "Təsdiq et",
+	"or-text": "ya da",
+	"wiki-projects": "Vikimənbə layihəsi",
+	"lang-as": "Assam",
+	"lang-bn": "Benqal",
+	"lang-gu": "Qucarat",
+	"lang-hi": "Hind",
+	"lang-kn": "Kanadalı",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marati",
+	"lang-or": "Oriya",
+	"lang-pa": "Pəncab",
+	"lang-sa": "Sanskrit dili",
+	"lang-ta": "Tamil",
+	"lang-te": "Telequ",
+	"label-filename": "Fayl adı:",
+	"filename-placeholder": "Fayl adı daxil et",
+	"localfile-notice": "Fayl adının avtomatik tamamlanması yalnız yerli yüklənmiş fayl üçün işləyir.",
+	"back-to-home": "Evə geri dön",
+	"my-language": "Mənim dilim",
+	"button-save": "Saxla",
+	"button-cancel": "Ləğv et",
+	"error": "Nəsə düzgün işləmir!",
+	"no-javascript": "BookReader JavaScript'in aktiv olmasını tələb edir. Xahiş edirəm brauzerinizin JavaScript-i dəstəklədiyini və brauzer parametrlərində aktiv olub olmadığını yoxlayın.",
+	"embebed-not-supported": "Yerləşdirmə kodu kitab oxuyucusunda dəstəklənmir."
+}

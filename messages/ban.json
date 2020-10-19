@@ -4,7 +4,9 @@
 			"Joseagush"
 		]
 	},
+	"bookreader-heading": "Pawacén pustaka",
 	"changelanguage": "Uah basa",
+	"form-submit": "Kumpulang",
 	"or-text": "Utawi",
 	"wiki-projects": "Proyek Wikisumber:",
 	"lang-as": "Assamese",
@@ -20,6 +22,8 @@
 	"lang-ta": "Tamil",
 	"lang-te": "Telugu",
 	"label-filename": "Aran berkas:",
+	"back-to-home": "Matulak ka kaca utama",
+	"my-language": "Basa titiang",
 	"button-save": "Raksa",
 	"button-cancel": "Wangdé",
 	"error": "Wénten sané iwang"
