@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Andriy.v",
 			"Piramidion"
 		]
 	},
@@ -11,7 +12,7 @@
 	"byurl-placeholder": "Введіть URL-адресу файлу PDF/DjVu на проекті Вікімедіа",
 	"form-submit": "Надіслати",
 	"or-text": "Або",
-	"wiki-projects": "Проект Вікіджерел:",
+	"wiki-projects": "Проєкт Вікіджерел:",
 	"lang-as": "Ассамська",
 	"lang-bn": "Бенгальська",
 	"lang-gu": "Гуджараті",
