@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Obaid Raza"
+			"Obaid Raza",
+			"Rizwan"
 		]
 	},
 	"bookreader-name": "مطالعہ - ویکیمیڈیا",
 	"bookreader-desc": "مطالعہ ایک آلہ ہے جو ویکیمیڈیا سائیٹوں کو پی ڈی ایف/ڈی جے وی یو طرز کتاب میں  دکھاتا ہے۔",
-	"bookreader-heading": "مطالعہ",
+	"bookreader-heading": "کتاب پڑھنے والا",
 	"changelanguage": "تبدیلی زبان",
 	"byurl-placeholder": "ویکیمیڈیا منصوبے سے پی ڈی ایف/ڈی جے وی یو کا ربط داخل کریں",
-	"form-submit": "بھیج دیں",
+	"form-submit": "جمع کرائیں",
 	"or-text": "یا",
 	"wiki-projects": "منصوبہ ویکی مآخذ:",
 	"lang-as": "آسامی",

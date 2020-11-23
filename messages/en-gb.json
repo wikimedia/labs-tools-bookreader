@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rizwan"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader is a tool to read PDF/DjVu in book format from wikimedia sites.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Change Language",
+	"byurl-placeholder": "Enter a URL of PDF/DjVu from Wikimedia project",
+	"form-submit": "Submit",
+	"or-text": "or",
+	"wiki-projects": "Wikisource project:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujrati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Filename:",
+	"filename-placeholder": "Enter the name of the file",
+	"localfile-notice": "Autocomplete of filename works only for locally uploaded files.",
+	"back-to-home": "Back to Home",
+	"my-language": "My Language",
+	"button-save": "Save",
+	"button-cancel": "Cancel",
+	"error": "Something went wrong!",
+	"no-javascript": "The BookReader requires JavaScript to be enabled. Please check that your browser supports JavaScript and that it is enabled in the browser settings.",
+	"embebed-not-supported": "Embed code not supported in bookreader."
+}
