@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ranveig"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader er eit verktøy for å lesa PDF/DjVu i bokformat frå Wikimedia-nettstader.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Endra språk",
+	"byurl-placeholder": "Oppgje ein URL til ein PDF/DjVu frå Wikimedia-prosjektet",
+	"form-submit": "Send",
+	"or-text": "Eller",
+	"wiki-projects": "Wikisource-prosjekt:",
+	"lang-hi": "Hindi",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Filnamn:",
+	"filename-placeholder": "Oppgje eit filnamn",
+	"localfile-notice": "Automatisk fullføring av filnamn verker berre for lokalt opplasta filer.",
+	"back-to-home": "Tilbake til startsida",
+	"my-language": "Mitt språk",
+	"button-save": "Lagra",
+	"button-cancel": "Bryt av",
+	"error": "Noko gjekk gale!",
+	"no-javascript": "BookReader krev JavaScript for å fungera. Kontroller at nettlesaren din støttar JavaScript og at det er aktivert i nettlesarinnstillingane."
+}
