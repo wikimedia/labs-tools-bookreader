@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abbas dhothar"
+		]
+	},
+	"bookreader-name": "بک ریڈر - وکی میڈیا",
+	"bookreader-heading": "بک ریڈر",
+	"changelanguage": "بولی بدلو",
+	"form-submit": "بھیجو",
+	"or-text": "یاں",
+	"lang-bn": "بنگالی",
+	"lang-gu": "گجراتی",
+	"lang-hi": "ہندی",
+	"lang-kn": "کناڈا",
+	"lang-ml": "ملیالم",
+	"lang-mr": "مراٹھی",
+	"lang-or": "اڑیا",
+	"lang-pa": "پنجابی",
+	"lang-sa": "سنسکرت",
+	"lang-ta": "تامل",
+	"lang-te": "تلیگو",
+	"label-filename": "فائل ناں:",
+	"filename-placeholder": "فائل دا ناں درج کرو",
+	"my-language": "میری بولی",
+	"button-save": "بچاؤ",
+	"button-cancel": "ختم",
+	"error": "کوئی رپھڑ پے گیا اے۔"
+}
