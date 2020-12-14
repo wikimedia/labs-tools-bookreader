@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bikarhêner"
+		]
+	},
+	"bookreader-name": "Kitêb Xwîner - Wîkîmedya",
+	"bookreader-desc": "KitêbXwîner amûreke ji bo xwendina PDF/DjVu-yan bi formata kitêban ji malperên Wîkîmedyayê ye.",
+	"bookreader-heading": "Kitêb Xwîner",
+	"changelanguage": "Zimanê Biguherîne",
+	"byurl-placeholder": "URLyeke PDF/DjVu-yê ji projeya Wîkîmedyayê têkeve",
+	"form-submit": "Bişîne",
+	"or-text": "An",
+	"wiki-projects": "Projeya Wîkîçavkaniyê:",
+	"lang-as": "Asamî",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gucaratî",
+	"lang-hi": "Hindî",
+	"lang-kn": "Kannadayî",
+	"lang-ml": "Malayalamî",
+	"lang-mr": "Maratî",
+	"lang-or": "Oriyayî",
+	"lang-pa": "Puncabî",
+	"lang-sa": "Sanskrîtî",
+	"lang-ta": "Tamîlî",
+	"lang-te": "Telûgû",
+	"label-filename": "Navê pelê:",
+	"filename-placeholder": "Naveke pelê têkeve",
+	"localfile-notice": "Temamkirina navê dosyeyê tenê ji bo dosyeyên lokal-hilbarkirî dixebite.",
+	"back-to-home": "Vegere Destpêkê",
+	"my-language": "Zimanê min",
+	"button-save": "Qeyd bike",
+	"button-cancel": "Betal bike",
+	"error": "Tişteke şaş çêbû!",
+	"no-javascript": "Ji bo KitêbXwînerê divê JavaScript aktîv be. Ji kerema xwe kontrol bike ku geroka te piştgiriyê dide JavaScriptê û di mîhengên gerokê de aktîvkirî ye an na.",
+	"embebed-not-supported": "Kodên hedimandî di kitêbxwînerê de nayê piştgirîkirin."
+}
