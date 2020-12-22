@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"YaronSh"
 		]
 	},
 	"bookreader-name": "קורא ספרים - ויקימדיה",
-	"bookreader-desc": "קורא הסרפים הוא כלי לקריאת PDF/DjVu בתצורת ספר מאתרי ויקימדיה.",
+	"bookreader-desc": "קורא הספרים הוא כלי לקריאת PDF/DjVu בצורת ספר מאתרי ויקימדיה.",
 	"bookreader-heading": "קורא ספרים",
 	"changelanguage": "החלפת שפה",
 	"byurl-placeholder": "נא למלא כתובת של PDF/DjVu ממיזם של ויקימדיה",
