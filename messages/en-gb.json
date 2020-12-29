@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alefar",
 			"Rizwan"
 		]
 	},
@@ -13,7 +14,7 @@
 	"or-text": "or",
 	"wiki-projects": "Wikisource project:",
 	"lang-as": "Assamese",
-	"lang-bn": "Bangla",
+	"lang-bn": "Bengali",
 	"lang-gu": "Gujrati",
 	"lang-hi": "Hindi",
 	"lang-kn": "Kannada",
