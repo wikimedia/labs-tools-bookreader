@@ -7,7 +7,7 @@
 		]
 	},
 	"bookreader-name": "Lecteur de livres – Wikimedia",
-	"bookreader-desc": "BookReader est un outil pour lire des PDF/DjVu au format livre depuis des sites Wikimedia.",
+	"bookreader-desc": "''BookReader'' est un outil pour lire des PDF/DjVu au format livre depuis des sites Wikimedia.",
 	"bookreader-heading": "Lecteur de livres",
 	"changelanguage": "Changer de langue",
 	"byurl-placeholder": "Saisir une URL de PDF/DjVu d’un projet Wikimedia",
@@ -28,12 +28,12 @@
 	"lang-te": "télougou",
 	"label-filename": "Nom de fichier :",
 	"filename-placeholder": "Saisir un nom de fichier",
-	"localfile-notice": "La complétude automatique des noms de fichier ne fonctionne que pour un fichier téléchargé localement.",
+	"localfile-notice": "La complétion automatique des noms de fichier ne fonctionne que pour un fichier téléchargé localement.",
 	"back-to-home": "Retour à l’accueil",
 	"my-language": "Ma langue",
 	"button-save": "Enregistrer",
 	"button-cancel": "Annuler",
 	"error": "Quelque chose s’est mal passé !",
-	"no-javascript": "BookReader nécessite que JavaScript soit activé. Veuillez vérifier que votre navigateur prend en charge JavaScript et qu’il est activé dans ses paramètres.",
-	"embebed-not-supported": "Le code encapsulé n’est pas pris en charge dans BookReader."
+	"no-javascript": "Le Lecteur de livres nécessite que JavaScript soit activé. Veuillez vérifier que votre navigateur prend en charge JavaScript et qu’il est activé dans ses paramètres.",
+	"embebed-not-supported": "Le code encapsulé n’est pas pris en charge dans le lecteur de livres."
 }
