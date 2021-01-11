@@ -28,7 +28,7 @@
 	"lang-te": "télougou",
 	"label-filename": "Nom de fichier :",
 	"filename-placeholder": "Saisir un nom de fichier",
-	"localfile-notice": "La complétion automatique des noms de fichier ne fonctionne que pour un fichier téléchargé localement.",
+	"localfile-notice": "La complétion automatique des noms de fichier ne fonctionne que pour un fichier téléversé localement.",
 	"back-to-home": "Retour à l’accueil",
 	"my-language": "Ma langue",
 	"button-save": "Enregistrer",
