@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jakub Fabijan"
+		]
+	},
+	"bookreader-name": "Libra ligilo - Wikimedia",
+	"bookreader-heading": "Libra ligilo",
+	"changelanguage": "Ŝanĝi lingvon",
+	"form-submit": "Sendi",
+	"or-text": "aŭ",
+	"wiki-projects": "Vikifontara projekto:",
+	"lang-as": "Asama",
+	"lang-bn": "Bengala",
+	"lang-gu": "Guĝarata",
+	"lang-hi": "Hindia",
+	"lang-kn": "Kanara",
+	"lang-ml": "Malajala",
+	"lang-mr": "Marata",
+	"lang-or": "Orija",
+	"lang-pa": "Panĝaba",
+	"lang-sa": "Sanskrito",
+	"lang-ta": "Tamila",
+	"lang-te": "Telegua",
+	"label-filename": "Dosiernomo:",
+	"filename-placeholder": "Eniru nomon de dosiero",
+	"back-to-home": "Reiri al ĉefpaĝo",
+	"my-language": "Mia lingvo",
+	"button-save": "Konservi",
+	"button-cancel": "Nuligi",
+	"error": "Io misokazis!",
+	"embebed-not-supported": "Enkorpigita kodo ne estas subtenata en libra ligilo."
+}
