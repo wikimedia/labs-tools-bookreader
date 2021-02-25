@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaroslav.micek"
+		]
+	},
+	"bookreader-name": "Čítačka kníh - Wikimedia",
+	"bookreader-desc": "BookReader je nástroj na čítanie PDF/DjVu vo formáte knihy zo stránok wikimedia.",
+	"bookreader-heading": "Čítačka kníh",
+	"changelanguage": "Zmeniť jazyk",
+	"byurl-placeholder": "Zadajte URL súboru PDF/DjVu z projektu Wikimedia",
+	"form-submit": "Odoslať",
+	"or-text": "Alebo",
+	"wiki-projects": "Wikisource projekt:",
+	"lang-as": "Assamese",
+	"lang-bn": "Bengálčina",
+	"lang-gu": "Gudžarátčina",
+	"lang-hi": "Hindština",
+	"lang-kn": "Kannadština",
+	"lang-ml": "Malajština",
+	"lang-mr": "Maráthština",
+	"lang-or": "Urijština",
+	"lang-pa": "Pandžábština",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamilčina",
+	"lang-te": "Telugčina",
+	"label-filename": "Názov súboru:",
+	"filename-placeholder": "Zadajte názov súboru",
+	"localfile-notice": "Automatické doplňovanie názvu súboru funguje len pre miestne nahraný súbor.",
+	"back-to-home": "Späť na začiatok",
+	"my-language": "Môj jazyk",
+	"button-save": "Uložiť",
+	"button-cancel": "Zrušiť",
+	"error": "Niečo sa pokazilo!",
+	"no-javascript": "BookReader vyžaduje povolený JavaScript. Prosím skontrolujte či váš prehliadač podporuje JavaScript a či je povolený v nastaveniach.",
+	"embebed-not-supported": "Vložený kód nieje v čítačke podporovaný."
+}
