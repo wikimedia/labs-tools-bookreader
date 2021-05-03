@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahrada2016"
+		]
+	},
+	"bookreader-name": "Dubbisaa Kitaabaa- Wikimixiyaa",
+	"bookreader-desc": "DubbisniKitaabaa mi'a bifunka kitaabaa PDF/DjVu'n dubbisuuf dirree wikimedia irraati.",
+	"bookreader-heading": "Dubbisaa Kitaabaa",
+	"changelanguage": "Qooqa Jijjiiri",
+	"byurl-placeholder": "Pirojektii Wikimidiyaa irraa URL PDF/DjVu galchi",
+	"form-submit": "Galchuu",
+	"or-text": "Ykn",
+	"wiki-projects": "Piroojektii Maddawiki",
+	"lang-as": "Asaamessi",
+	"lang-bn": "Afaan Baangilaa",
+	"lang-gu": "Afaan Gujarat",
+	"lang-hi": "Afaan Hindii",
+	"lang-kn": "Afaan Kanaadaa",
+	"lang-ml": "Afaan Malayalaam",
+	"lang-mr": "Afaan Marati",
+	"lang-or": "Afaan Oriyaa",
+	"lang-pa": "Afaan Punjabi",
+	"lang-sa": "Afaan Saaniskiriit",
+	"lang-ta": "Afaan Tamil",
+	"lang-te": "Afaan Telugu",
+	"label-filename": "Maqa Faayilaa:",
+	"filename-placeholder": "Maqaa Faayilaa galchi",
+	"localfile-notice": "Ufmaagoolabaan maqaa Faayilaa olfe'a naannoo qofaa irratti dalaga.",
+	"back-to-home": "Gara Manaatti Deebi'i",
+	"my-language": "Afaan Kiyya",
+	"button-save": "Olkaayi",
+	"button-cancel": "Haqi",
+	"error": "Wanti ta'e dogoggora!",
+	"no-javascript": "Dubbisnikitaabaa tajaajiluuf JavaScript dalaguu barbaada. Maaloo sakatta'i bantuun kee akka JavaScript hojjetu fi akka dalaguu sirranoo isaa ilaali.",
+	"embebed-not-supported": "Lakkadni Embed dubbisakitaabaaf hin hojjetu."
+}
