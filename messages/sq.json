@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Besnik b"
+		]
+	},
+	"bookreader-name": "Lexues Librash - Wikimedia",
+	"bookreader-desc": "BookReader është një mjet për të lexuar që nga sajte wikimedia PDF/DjVu në format libri.",
+	"bookreader-heading": "Lexues Librash",
+	"changelanguage": "Ndryshoni Gjuhën",
+	"byurl-placeholder": "Jepni një URL të PDF/DjVu prej projekti Wikimedia",
+	"form-submit": "Parashtroje",
+	"or-text": "Ose",
+	"wiki-projects": "Projekt Wikisource:",
+	"lang-as": "Asameze",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujaratase",
+	"lang-hi": "Hindish",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malajalamase",
+	"lang-mr": "Marati",
+	"lang-or": "Orija",
+	"lang-pa": "Panxhabe",
+	"lang-sa": "Sanskritisht",
+	"lang-ta": "Tamile",
+	"lang-te": "Telugu",
+	"label-filename": "Emër kartele:",
+	"filename-placeholder": "Jepni një emër kartele",
+	"localfile-notice": "Vetëplotësimi i emrit të kartelës funksionon vetëm për kartelën tuaj vendore të ngarkuar",
+	"back-to-home": "Mbrapsht te Kreu",
+	"my-language": "Gjuha Ime",
+	"button-save": "Ruaje",
+	"button-cancel": "Anuloje",
+	"error": "Diç shkoi ters!",
+	"no-javascript": "BookReader-i lyp që JavaScript-i të jetë aktivizuar. Ju lutemi, kontrolloni se shfletuesi e mbulon JavaScript-i dhe se është e aktivizuar te rregullimet e shfletuesit.",
+	"embebed-not-supported": "Kodi i trupëzimit nuk mbulohet te lexuesi i librave."
+}
