@@ -5,13 +5,14 @@
 			"Joseagush"
 		]
 	},
-	"bookreader-name": "Pewacen Buku - Wikimedia",
-	"bookreader-desc": "PewacenBuku inggih punika piranti anggen ngawacen PDF/DjVu ring format pustaka saking situs-situs wikimedia.",
+	"bookreader-name": "Pawacén Buku - Wikimédia",
+	"bookreader-desc": "PawacénBuku inggih punika piranti anggén ngawacen PDF/DjVu ring format pustaka saking situs-situs wikimédia.",
 	"bookreader-heading": "Pawacén pustaka",
 	"changelanguage": "Uah basa",
+	"byurl-placeholder": "Manjingang URL PDF/DjVu saking proyék Wikimédia",
 	"form-submit": "Kumpulang",
 	"or-text": "Utawi",
-	"wiki-projects": "Proyek Wikisumber:",
+	"wiki-projects": "Proyek Wikipustaka:",
 	"lang-as": "Assamese",
 	"lang-bn": "Bangla",
 	"lang-gu": "Gujarati",
@@ -25,9 +26,13 @@
 	"lang-ta": "Tamil",
 	"lang-te": "Telugu",
 	"label-filename": "Aran berkas:",
-	"back-to-home": "Matulak ka kaca utama",
+	"filename-placeholder": "Manjingang aran berkas",
+	"localfile-notice": "Pamuputan manjingang otomatis wantah mawiguna antuk berkas sané kaunggah lokal.",
+	"back-to-home": "Mawali ka Kaca Utama",
 	"my-language": "Basa titiang",
 	"button-save": "Raksa",
 	"button-cancel": "Wangdé",
-	"error": "Wénten sané iwang"
+	"error": "Wénten sané iwang",
+	"no-javascript": "PawacénBuku perlu JavaScript antuk kauripang.  Durus turéksa napiké peramban ragané ngadukung JavaScript miwah kauripang ring pangaturan peramban.",
+	"embebed-not-supported": "Kode leketan tan kadukung ring pawacén buku."
 }
