@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"L2212"
+		]
+	},
+	"bookreader-name": "Letore de libros • Wikimedia",
+	"bookreader-desc": "Su letore de libros est un'aina pro lèghere libros in formadu PDF o DjVu dae sos sitos de Wikimedia.",
+	"bookreader-heading": "Letore de libros",
+	"changelanguage": "Càmbia sa limba",
+	"byurl-placeholder": "Inserta un'URL de unu PDF/DjVu dae unu progetu Wikimedia",
+	"form-submit": "Imbia",
+	"or-text": "O",
+	"wiki-projects": "Progetu Wikisource:",
+	"lang-as": "Assamesu",
+	"lang-bn": "Bengalesu",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sànscritu",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nùmene documentu:",
+	"filename-placeholder": "Inserta unu nùmene de unu documentu",
+	"localfile-notice": "Sa cumpridura automàtica de su nùmene de su documentu funtzionat petzi cun sos archìvios carigados a livellu locale.",
+	"back-to-home": "Torra a su cumintzu",
+	"my-language": "Sa limba mea",
+	"button-save": "Sarva",
+	"button-cancel": "Annulla",
+	"error": "B'at àpidu carchi problema!",
+	"no-javascript": "Su letore de libros tenet bisòngiu chi s'abilitet su Javascript. Verìfica chi su navigadore tuo suportet Javascript e chi siat ativadu in sas impostatziones suas.",
+	"embebed-not-supported": "Su letore de libros non suportat su còdighe integradu."
+}
