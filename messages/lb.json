@@ -7,6 +7,7 @@
 	"bookreader-name": "Buch-Lieser - Wikimedia",
 	"bookreader-heading": "Buch-Lieser",
 	"changelanguage": "Sprooch wiesselen",
+	"byurl-placeholder": "Gitt eng URL vum  PDF/DjVu vum Wikimedia Projet",
 	"form-submit": "Schécken",
 	"or-text": "Oder",
 	"wiki-projects": "Projet Wikisource:",
@@ -21,5 +22,6 @@
 	"button-save": "Späicheren",
 	"button-cancel": "Ofbriechen",
 	"error": "Et ass eppes schif gaangen!",
-	"no-javascript": "De Buch-Lieser brauch JavaScript. Kuckt wgl. no ob Äre Browser JavaScript ënnerstëtzt an datt JavaScript an Äre Browser-Astellungen aktivéiert ass."
+	"no-javascript": "De Buch-Lieser brauch JavaScript. Kuckt wgl. no ob Äre Browser JavaScript ënnerstëtzt an datt JavaScript an Äre Browser-Astellungen aktivéiert ass.",
+	"embebed-not-supported": "Am Bookreader net ënnerstëtzten agebaute Code"
 }

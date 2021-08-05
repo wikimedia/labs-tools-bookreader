@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Izington"
+		]
+	},
+	"bookreader-name": "Pembaca Buku - Wikimedia",
+	"bookreader-heading": "Pembaca Buku",
+	"changelanguage": "Tukar Bahasa",
+	"form-submit": "Hantar",
+	"or-text": "Atau",
+	"wiki-projects": "Projek Wikisource:",
+	"lang-as": "Orang Assam",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marathi",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sansekerta",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nama fail:",
+	"filename-placeholder": "Masukkan nama fail",
+	"back-to-home": "Kembali ke Halaman Utama",
+	"my-language": "Bahasa Saya",
+	"button-save": "Simpan",
+	"button-cancel": "Batal"
+}
