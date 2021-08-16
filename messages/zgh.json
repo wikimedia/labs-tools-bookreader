@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Brahim-essaidi",
 			"Hakim1bal"
 		]
 	},
@@ -8,7 +9,7 @@
 	"bookreader-desc": "ⴱⵓⴽⵔⵉⴷⵔ ⴷ ⵉⵎⵉⵙ ⵏ ⵜⵖⵓⵔⵉ ⵏ ⵜⵍⵖⴰ ⵏ ⵉⴷⵍⵉⵙⵏ PDF/DjVu ⵙⴳ ⵡⴰⵙⵉⵜⵏ ⵏ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ.",
 	"bookreader-heading": "ⵉⵎⵖⵔⵉ ⵏ ⵓⴷⵍⵉⵙ",
 	"changelanguage": "ⵙⵏⴼⵍ ⵜⵓⵜⵍⴰⵢⵜ",
-	"byurl-placeholder": "ⵙⴽⵛⵎ ⵢⴰⵏ ⵓⵙⵖⵏ URL ⵏ PDF/DjVu ⵙⴳ ⵓⵙⵏⴼⴰⵕ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
+	"byurl-placeholder": "ⵙⴽⵛⵎ ⴽⵔⴰ ⵏ URL ⵏ PDF/DjVu ⵙⴳ ⵓⵙⵏⴼⴰⵕ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
 	"form-submit": "ⴰⵣⵏ",
 	"or-text": "ⵏⵖ",
 	"wiki-projects": "ⴰⵙⵏⴼⴰⵕ ⵡⵉⴽⵉⵖⴱⴰⵍⵓ:",
