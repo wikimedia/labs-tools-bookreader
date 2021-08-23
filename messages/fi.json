@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"MITO",
 			"Muovipullo",
 			"Pyscowicz"
 		]
 	},
 	"changelanguage": "Vaihda kieli",
+	"byurl-placeholder": "Syötä URL-osoite tai PDF-tiedosto Wikimedian projektista",
 	"form-submit": "Lähetä",
 	"or-text": "Tai",
 	"wiki-projects": "Wikiaineisto-hanke:",
@@ -27,5 +29,6 @@
 	"my-language": "Oma kieli",
 	"button-save": "Tallenna",
 	"button-cancel": "Peruuta",
-	"error": "Jotain meni vikaan!"
+	"error": "Jotain meni vikaan!",
+	"embebed-not-supported": "Upotuskoodia ei tueta kirjanlukuohjelmassa."
 }
