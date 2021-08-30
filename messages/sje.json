@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Olve Utne"
+		]
+	},
+	"bookreader-name": "Book Reader - Wikimedia",
+	"bookreader-desc": "BookReader lä räjjdo PDF/DjVu'av Wikimedia sijijst girrjehamen låhkåt.",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Målso gielav",
+	"byurl-placeholder": "Tjále URL'av PDF/DjVu'ast Wikimedia prosjiekta rájest",
+	"form-submit": "Säddi",
+	"or-text": "Jala",
+	"wiki-projects": "Wikigálldo-prosjäkkta:",
+	"label-filename": "Fijjlanamma:",
+	"back-to-home": "Ruptujt åjjvebielláj",
+	"my-language": "Muv giella",
+	"button-save": "Vurrki",
+	"button-cancel": "Buŧŧki"
+}
