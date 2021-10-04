@@ -2,12 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
-			"Beta16"
+			"Beta16",
+			"ElisaPaglia"
 		]
 	},
+	"bookreader-name": "BookReader • Wikimedia",
+	"bookreader-desc": "BookReader è uno strumento per leggere file PDF/DjVu come se fossero dei libri dai siti Wikimedia.",
+	"bookreader-heading": "BookReader",
 	"changelanguage": "Cambia lingua",
+	"byurl-placeholder": "Inserisci la URL del file PDF/DjVu da un progetto Wikimedia",
 	"form-submit": "Invia",
 	"or-text": "O",
+	"wiki-projects": "Proietto di Wikisource:",
 	"lang-as": "Assamese",
 	"lang-bn": "Bengalese",
 	"lang-gu": "Gujarati",
@@ -21,8 +27,13 @@
 	"lang-ta": "Tamil",
 	"lang-te": "Telugu",
 	"label-filename": "Nome file:",
+	"filename-placeholder": "Inserisci il nome del file",
+	"localfile-notice": "La funzione di autocompletamento per il campo \"nome file\" è disponibile solo per quelli caricati localmente.",
+	"back-to-home": "Ritorna alla Homepage",
 	"my-language": "La mia lingua",
 	"button-save": "Salva",
 	"button-cancel": "Annulla",
-	"error": "Qualcosa è andato storto!"
+	"error": "Qualcosa è andato storto!",
+	"no-javascript": "Per poter attivare BookReader devi avere Javascript. Verifica che il tuo browser supporti Javasscript e che sia attivato nelle impostazioni del browser.",
+	"embebed-not-supported": "Codice integrato non supportato in BookReader."
 }
