@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"or-text": "O",
+	"lang-as": "Assamisi",
+	"lang-bn": "Bengalisi",
+	"lang-gu": "Gujarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Canarisi",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marattu",
+	"lang-or": "Oriya",
+	"lang-pa": "Punjabi",
+	"lang-sa": "Sànscritu",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Nomu dû file:",
+	"filename-placeholder": "Nzirisci nu nomu dû file",
+	"my-language": "La mè lingua",
+	"button-save": "Sarva",
+	"button-cancel": "Annulla"
+}
