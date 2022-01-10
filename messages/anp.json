@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Angpradesh"
+		]
+	},
+	"bookreader-name": "बुक रीडर - विकिमीडिया",
+	"bookreader-desc": "BookReader विकिमीडिया साइट सब सँ PDF/DjVu क पोथी प्रारूप मँ पढ़ऐ के एगो उपकरण छेकै।",
+	"bookreader-heading": "बुक रीडर",
+	"changelanguage": "भाषा बदलौ",
+	"byurl-placeholder": "विकिमीडिया परियोजना सँ PDF/DjVu केरौ URL दर्ज करौ",
+	"form-submit": "जमा करौ",
+	"or-text": "या",
+	"wiki-projects": "विकिस्रोत परियोजना:",
+	"lang-as": "असमी",
+	"lang-bn": "बंगाली",
+	"lang-gu": "गुजराती",
+	"lang-hi": "हिंदी",
+	"lang-kn": "कन्नड़",
+	"lang-ml": "मलयालम",
+	"lang-mr": "मराठी",
+	"lang-or": "उड़िया",
+	"lang-pa": "पंजाबी",
+	"lang-sa": "संस्कृत",
+	"lang-ta": "तमिल",
+	"lang-te": "तेलूगू",
+	"label-filename": "फ़ाइल नाँव :",
+	"filename-placeholder": "फ़ाइल के नाँव दर्ज करौ",
+	"localfile-notice": "फ़ाइल नाँव केरौ स्वतः पूर्ण नाँव, खाली स्थानीय अपलोड करलो गेलो फ़ाइल लेली काम करै छै ।",
+	"back-to-home": "मुखपृष्ठ दन्नें लौटो",
+	"my-language": "हमरौ भाषा",
+	"button-save": "सहेजौ",
+	"button-cancel": "रद्द करौ",
+	"error": "कुछ गलत होलो छै !",
+	"no-javascript": "बुकरीडर क जावास्क्रिप्ट सक्षम करै के आवश्यकता छै। कृपा करी क जाँचौ कि आपनै के ब्राउज़र जावास्क्रिप्ट के समर्थन करै छै आरू ई ब्राउज़र सेटिंग्स मँ सक्षम छै।",
+	"embebed-not-supported": "एम्बेड कोड बुकरीडर मँ समर्थित नै छै।"
+}
