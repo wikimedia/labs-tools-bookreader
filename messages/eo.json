@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jakub Fabijan"
+			"Jakub Fabijan",
+			"Spenĉjo"
 		]
 	},
 	"bookreader-name": "Libra ligilo - Wikimedia",
@@ -23,7 +24,7 @@
 	"lang-ta": "Tamila",
 	"lang-te": "Telegua",
 	"label-filename": "Dosiernomo:",
-	"filename-placeholder": "Eniru nomon de dosiero",
+	"filename-placeholder": "Entajpu nomon de dosiero",
 	"back-to-home": "Reiri al ĉefpaĝo",
 	"my-language": "Mia lingvo",
 	"button-save": "Konservi",
