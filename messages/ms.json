@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Izington"
+			"Izington",
+			"Tofeiku"
 		]
 	},
 	"bookreader-name": "Pembaca Buku - Wikimedia",
+	"bookreader-desc": "PembacaBuku ialah alat membaca PDF/DjVu dalam format buku daripada tapak wikimedia",
 	"bookreader-heading": "Pembaca Buku",
 	"changelanguage": "Tukar Bahasa",
+	"byurl-placeholder": "Masukkan URL PDF/DjVu daripada projek Wikimedia",
 	"form-submit": "Hantar",
 	"or-text": "Atau",
 	"wiki-projects": "Projek Wikisource:",
@@ -24,8 +27,12 @@
 	"lang-te": "Telugu",
 	"label-filename": "Nama fail:",
 	"filename-placeholder": "Masukkan nama fail",
+	"localfile-notice": "Lengkap automatik nama fail hanya berfungsi untuk fail yang dimuat naik tempatan.",
 	"back-to-home": "Kembali ke Halaman Utama",
 	"my-language": "Bahasa Saya",
 	"button-save": "Simpan",
-	"button-cancel": "Batal"
+	"button-cancel": "Batal",
+	"error": "Ada yang tidak kena!",
+	"no-javascript": "PembacaBuku memerlukan JavaScript dibolehkan. Sila periksa pelayar anda menyokong JavaScript dan dibolehkan dalam tetapan pelayar.",
+	"embebed-not-supported": "Kod benam tidak disokong dalam pembaca buku."
 }
