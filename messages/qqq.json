@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ex-Diktator",
 			"Jayprakash12345",
 			"Norhorn",
 			"Robby",
@@ -12,7 +13,7 @@
 	"bookreader-heading": "Book Reader Heading",
 	"changelanguage": "Αλλαγή γλώσσας κειμένου",
 	"byurl-placeholder": "Input box placeholder",
-	"form-submit": "Κείμενο του κουμπιού Υποβολή",
+	"form-submit": "Text of Submit button",
 	"or-text": "Or text",
 	"wiki-projects": "Κείμενο επικεφαλίδας του έργου Βικιπηγής",
 	"lang-as": "This is a common language name, not a script name or an ethnonym.",

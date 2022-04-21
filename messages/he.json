@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"Ex-Diktator",
 			"YaronSh"
 		]
 	},
@@ -10,7 +11,7 @@
 	"bookreader-heading": "קורא ספרים",
 	"changelanguage": "החלפת שפה",
 	"byurl-placeholder": "נא למלא כתובת של PDF/DjVu ממיזם של ויקימדיה",
-	"form-submit": "הגשה",
+	"form-submit": "שליחה",
 	"or-text": "או",
 	"wiki-projects": "מיזם ויקיטקסט",
 	"lang-as": "אסאמית",
