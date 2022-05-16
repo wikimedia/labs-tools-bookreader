@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"TayfunEt."
+		]
+	},
+	"bookreader-name": "Kitap Oquvcı - Vikimediya",
+	"bookreader-desc": "KitapOquvcı, Vikimediya saytlarında tapılğan PDF/DjVu şeylerni kitap kibi oqumağa yaray.",
+	"bookreader-heading": "Kitap Oquvcı",
+	"changelanguage": "Tildi deñiştir",
+	"byurl-placeholder": "Vikimediya leyhalarından bir PDF/DjVu'nıñ URL'nı yazıñız.",
+	"form-submit": "Yiber",
+	"or-text": "Ya da",
+	"wiki-projects": "Vikimenba leyhası:",
+	"lang-as": "Assam",
+	"lang-bn": "Bangla",
+	"lang-gu": "Gucarati",
+	"lang-hi": "Hindi",
+	"lang-kn": "Kannada",
+	"lang-ml": "Malayalam",
+	"lang-mr": "Marati",
+	"lang-or": "Oriya",
+	"lang-pa": "Pencab",
+	"lang-sa": "Sanskrit",
+	"lang-ta": "Tamil",
+	"lang-te": "Telugu",
+	"label-filename": "Fayl adı:",
+	"filename-placeholder": "Bir faylnıñ adını yazıñız",
+	"localfile-notice": "Fayl adını otomatik tamamlamaq sadece yerel olaraq yüklengen faylarda ola.",
+	"back-to-home": "Hanege keri qayt",
+	"my-language": "Menim Tilim",
+	"button-save": "Saqla",
+	"button-cancel": "Lâğu",
+	"error": "Birşey yañlış ketti!",
+	"no-javascript": "KitapOquvcı JavaScript'nin etkinleştirilmesini kerektirir. Lütfen tarayıcıñıznıñ JavaScript'ni destekledigini ve tarayıcı sazlamalarında etkinleştirildigini kontrol etiñiz.",
+	"embebed-not-supported": "Kitapoquvcıda yerleştirme kodu desteklenmey."
+}
