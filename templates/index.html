@@ -63,9 +63,12 @@
     </style>
 </head>
 <body>
-    <a class="btn btn-secondary" href="{{ url_for('changelang') }}" style="float: right;"> {{ _('changelanguage') }}</a>
-    <h2 class="text-center">{{ _('bookreader-heading') }}</h2>
-
+    <nav class="navbar navbar-dark bg-dark">
+        <span class="navbar-brand mb-0 h1">{{ _('bookreader-heading') }}</span>
+        <div class="my-2 my-lg-0">
+            <a class="btn btn-secondary" href="{{ url_for('changelang') }}" style="float: right;"> {{ _('changelanguage') }}</a>
+        </div>
+    </nav>
     <div class="container col-lg-6 p-3 bg-white shadow rounded">
         <form action="{{ url_for('read') }}" method="GET">
             <div class="form-group">
