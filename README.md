@@ -1,7 +1,7 @@
 Book Reader
 =======================
 
-* Production tool: https://tools.wmflabs.org/bookreader/
+* Production tool: https://bookreader.toolforge.org/
 * Issue tracker: https://phabricator.wikimedia.org/tag/indic-techcom/
 
 ## Installation
