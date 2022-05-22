@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <title> {{ _('bookreader-name') }} </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BookReader-favicon.svg/48px-BookReader-favicon.svg.png">
+    {% endblock %}
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <span class="navbar-brand mb-0 h1">{{ _('bookreader-heading') }}</span>
+        <div class="my-2 my-lg-0">
+            <a class="btn btn-secondary" href="{{ url_for('changelang') }}" style="float: right;"> {{ _('changelanguage') }}</a>
+        </div>
+    </nav>
+    {% block content %}
+    {% endblock %}
+</body>
+</html>

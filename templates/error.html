@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> {{ _('bookreader-name') }} </title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BookReader-favicon.svg/48px-BookReader-favicon.svg.png">
-
+{% extends 'base.html' %}
+{% block head %}
+    {{ super() }}
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-    <nav class="navbar navbar-dark bg-dark">
-        <span class="navbar-brand mb-0 h1">{{ _('bookreader-heading') }}</span>
-        <div class="my-2 my-lg-0">
-            <a class="btn btn-secondary" href="{{ url_for('changelang') }}" style="float: right;"> {{ _('changelanguage') }}</a>
-        </div>
-    </nav>
+{% endblock %}
+
+{% block content %}
     <div class="container col-lg-6 p-3 bg-white shadow rounded">
         <div class="alert alert-danger" role="alert">
           {{ _('error') }} {{ msg }} :-/
@@ -29,5 +18,4 @@
             <a href="https://github.com/internetarchive/bookreader">Internet Archive BookReader</a> </small>
         </p>
     </footer>
-</body>
-</html>
+{% endblock %}
