@@ -6,8 +6,8 @@
 		]
 	},
 	"or-text": "or",
-	"lang-bn": "Bengali",
 	"lang-gu": "Gujrati",
+	"lang-bn": "Bengali",
 	"filename-placeholder": "Enter the name of the file",
 	"localfile-notice": "Autocomplete of filename works only for locally uploaded files."
 }

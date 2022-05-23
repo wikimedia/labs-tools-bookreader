@@ -5,16 +5,16 @@
 		]
 	},
 	"changelanguage": "ભાષા બદલો",
-	"lang-bn": "બંગાળી",
 	"lang-gu": "ગુજરાતી",
-	"lang-hi": "હિન્દી",
-	"lang-kn": "કન્નડ",
+	"lang-bn": "બંગાળી",
 	"lang-ml": "મલયાલમ",
-	"lang-mr": "મરાઠી",
-	"lang-or": "ઓરિયા",
-	"lang-pa": "પંજાબી",
 	"lang-sa": "સંસ્કૃત",
 	"lang-ta": "તમિલ",
 	"lang-te": "તેલુગુ",
+	"lang-kn": "કન્નડ",
+	"lang-hi": "હિન્દી",
+	"lang-mr": "મરાઠી",
+	"lang-pa": "પંજાબી",
+	"lang-or": "ઓરિયા",
 	"my-language": "મારી ભાષા"
 }
