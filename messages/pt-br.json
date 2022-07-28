@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Duke of Wikipädia",
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad"
 		]
@@ -13,7 +14,22 @@
 	"form-submit": "Enviar",
 	"or-text": "Ou",
 	"wiki-projects": "Projeto Wikisource:",
+	"lang-pl": "Polonês",
+	"lang-en": "Inglês",
+	"lang-ru": "Russo",
+	"lang-de": "Alemão",
+	"lang-fr": "Francês",
+	"lang-zh": "Chinês",
+	"lang-he": "Hebraico",
+	"lang-it": "Italiano",
+	"lang-es": "Espanhol",
+	"lang-ar": "Árabe",
+	"lang-uk": "Ucraniano",
+	"lang-cs": "Checo",
 	"lang-gu": "Guzerate",
+	"lang-sr": "Sérvio",
+	"lang-pt": "Português",
+	"lang-fa": "Persa",
 	"lang-bn": "Bengali",
 	"lang-ml": "Malabar",
 	"lang-sa": "Sânscrito",
