@@ -8,23 +8,23 @@
             <v-row>
               <v-col cols="12" md="8">
                 <v-text-field
-                  label="Enter a URL of PDF/DjVu from Wikimedia project"
+                  :label="$t('byurl-placeholder')"
                   type="url" v-model="form1.url" outlined required
                 ></v-text-field>
-                <v-btn type="submit" color="primary" elevation="2" outlined>Submit</v-btn>
+                <v-btn type="submit" color="primary" elevation="2" outlined>{{ $t('form-submit') }}</v-btn>
               </v-col>
             </v-row>
           </v-form>
           <br/>
           <br/>
-          <div class="center-separator">OR</div>
+          <div class="center-separator">{{ $t('or-text') }}</div>
           <br/>
           <br/>
           <v-form @submit.prevent="readByName">
             <v-row>
               <v-col vcols="12" md="4">
                 <v-select
-                  :items="wsprojects" label="Wikisource project:"
+                  :items="wsprojects" :label="$t('wiki-projects')"
                   outlined v-model="form2.project" dense
                 ></v-select>
               </v-col>
@@ -32,10 +32,10 @@
             <v-row>
               <v-col cols="12" md="6">
                 <v-text-field
-                  label="Filename:" placeholder="Enter a name of file"
+                  :label="$t('label-filename')" :placeholder="$t('filename-placeholder')"
                   outlined v-model="form2.name" required
                 ></v-text-field>
-                <v-btn type="submit" elevation="2" outlined>Submit</v-btn>
+                <v-btn type="submit" elevation="2" outlined>{{ $t('form-submit') }}</v-btn>
               </v-col>
             </v-row>
           </v-form>

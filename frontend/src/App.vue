@@ -10,26 +10,26 @@
           transition="scale-transition"
           width="50"
         />
-        <v-toolbar-title size="large">Book Reader</v-toolbar-title>
+        <v-toolbar-title size="large">{{ $t('bookreader-heading') }}</v-toolbar-title>
 
         <v-btn href="#" text plain :ripple="false" to="/">
-          <span class="mr-2">Home</span>
+          <span class="mr-2">{{ $t('home-text') }}</span>
         </v-btn>
 
         <v-btn href="#" text plain :ripple="false" to="/books">
-          <span class="mr-2">Books</span>
+          <span class="mr-2">{{ $t('books-text') }}</span>
         </v-btn>
 
         <v-btn href="#" text plain :ripple="false" to="/about">
-          <span class="mr-2">About</span>
+          <span class="mr-2">{{ $t('about-text') }}</span>
         </v-btn>
       </div>
-      <!-- <v-spacer></v-spacer>
+      <v-spacer></v-spacer>
 
       <v-btn href="#" text :ripple="false" to="/changelang">
-        <span class="mr-2">Change lanuage</span>
+        <span class="mr-2">{{ $t('changelanguage') }}</span>
         <v-icon>mdi-translate</v-icon>
-      </v-btn> -->
+      </v-btn>
     </v-app-bar>
     <v-main class="grey lighten-3">
       <v-container>

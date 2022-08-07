@@ -4,7 +4,7 @@
       <v-col cols="8"></v-col>
       <v-col cols="4">
           <v-select
-            :items="wsprojects" label="Wikisource project:"
+            :items="wsprojects" :label="$t('wiki-projects')"
             outlined v-model="selectedproject" dense @change="loadProject"
           ></v-select>
       </v-col>
