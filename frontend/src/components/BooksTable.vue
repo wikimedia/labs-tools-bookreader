@@ -4,10 +4,10 @@
       <thead>
         <tr>
           <th class="text-left">
-            S. No.
+            #
           </th>
           <th class="text-left">
-            Book
+            {{ $t('book-text') }}
           </th>
         </tr>
       </thead>
@@ -18,9 +18,9 @@
         >
           <td>{{ index+1 }}</td>
           <td>
-            <a 
-              :href="'https://' + project + '.wikisource.org/wiki/' + item.title"
+            <a
               target="__blank"
+              :href="getHrefLink(item)"
             >
               {{ item.title }}
             </a>
@@ -37,7 +37,11 @@ export default {
   props: [ 'books', 'project' ],
   data: function() {
     return {
-      
+    }
+  },
+  methods: {
+    getHrefLink: function(item){
+      return window.location.origin + '/' + this.project + '/' + item.title.split(":")[1]
     }
   }
 }
