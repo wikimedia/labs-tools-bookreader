@@ -75,5 +75,11 @@
 	"button-cancel": "キャンセル",
 	"error": "エラーが発生しました",
 	"no-javascript": "BookReader の使用には JavaScript を有効にします。 ご利用のブラウザーで JavaScript が 利用できるか、有効に設定してあるかご確認ください。",
-	"embebed-not-supported": "埋め込みコードはこのツールでサポート外です。"
+	"embebed-not-supported": "埋め込みコードはこのツールでサポート外です。",
+	"home-text": "ホーム",
+	"books-text": "書籍",
+	"book-text": "書籍",
+	"selected-language": "選択された言語",
+	"success-text": "成功",
+	"preference-saved": "個人設定を保存しました。"
 }

@@ -11,6 +11,7 @@
 	"byurl-placeholder": "Buté n'URL ëd PDF/DjVu d'un proget Wikimedia",
 	"form-submit": "Mandé",
 	"or-text": "O",
+	"and-text": "e",
 	"wiki-projects": "Proget Wikisorgiss:",
 	"lang-pl": "Polonèis",
 	"lang-en": "Anglèis",
@@ -91,9 +92,15 @@
 	"localfile-notice": "Ël completament automàtich dij nòm d'archivi a marcia mach për dj'archivi carià an local.",
 	"back-to-home": "André a l'intrada",
 	"my-language": "Mia lenga",
-	"button-save": "Argistré",
+	"button-save": "Argistré për l'avnì",
 	"button-cancel": "Anulé",
 	"error": "Cheicòs a l'é andà mal!",
 	"no-javascript": "Ël letor ëd lìber a l'ha damanca che JavaScript a sia ativà. Për piasì, ch'a contròla che sò navigador a resa JavaScript e che cost-sì a sia ativà ant ij paràmeter dël navigador.",
-	"embebed-not-supported": "Ël còdes anclus a l'é nen mantnù ant ël letor ëd lìber."
+	"embebed-not-supported": "Ël còdes anclus a l'é nen mantnù ant ël letor ëd lìber.",
+	"home-text": "Pàgina d'intrada",
+	"books-text": "Lìber",
+	"book-text": "Lìber",
+	"about-text": "A propòsit",
+	"context-text": "Për ël contest:",
+	"createby-heading": "Creà e mantnù da:"
 }
