@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Emiko"
+			"Emiko",
+			"Tacsipacsi"
 		]
 	},
 	"bookreader-name": "Könyv olvasó - Wikimedia",
@@ -29,7 +30,7 @@
 	"localfile-notice": "A fájlnév automatikus kiegészítése csak a helyi feltöltött fájloknál működik.",
 	"back-to-home": "Vissza a tetejére",
 	"my-language": "Saját nyelv",
-	"button-save": "Mentés",
+	"button-save": "Mentés későbbre",
 	"button-cancel": "Mégsem",
 	"error": "Valami elromlott!",
 	"no-javascript": "A BookReadernek engedélyeznie kell a JavaScriptet. Ellenőrizd, hogy a böngésződ támogatja-e a JavaScriptet, és engedélyezve van-e a böngésző beállításaiban.",

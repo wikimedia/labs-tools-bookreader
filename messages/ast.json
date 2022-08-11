@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tokvo",
 			"Xuacu"
 		]
 	},
@@ -11,6 +12,7 @@
 	"byurl-placeholder": "Escribi la URL d'un PDF/DjVu d'un proyectu de Wikimedia",
 	"form-submit": "Unviar",
 	"or-text": "O bien",
+	"and-text": "y",
 	"wiki-projects": "Proyeutu de Wikisource:",
 	"lang-gu": "Gujarati",
 	"lang-bn": "Bangla",
@@ -33,5 +35,6 @@
 	"button-cancel": "Encaboxar",
 	"error": "¡Daqué funcionó mal!",
 	"no-javascript": "El llector de llibros precisa que JavaScript te activáu. Comprueba que'l navegador almita JavaScript y qu'esti tea activáu na configuración.",
-	"embebed-not-supported": "El llector de llibros nun tien encontu pa códigu d'incrustación."
+	"embebed-not-supported": "El llector de llibros nun tien encontu pa códigu d'incrustación.",
+	"books-text": "Llibros"
 }
