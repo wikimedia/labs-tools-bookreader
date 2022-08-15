@@ -93,9 +93,14 @@
 	"localfile-notice": "파일 이름 자동 완성은 로컬에서 업로드된 파일에서만 작동합니다.",
 	"back-to-home": "홈으로 돌아가기",
 	"my-language": "내 언어",
-	"button-save": "저장",
+	"button-save": "나중을 위해 저장",
 	"button-cancel": "취소",
 	"error": "무언가가 잘못되었습니다!",
 	"no-javascript": "BookReader을 작동시키려면 JavaScript를 활성화해야 합니다. 브라우저가 JavaScript를 지원하는지, 또 브라우저 설정에서 활성화되어 있는지 확인해 주십시오.",
-	"embebed-not-supported": "BookReader는 임베드 코드를 지원하지 않습니다."
+	"embebed-not-supported": "BookReader는 임베드 코드를 지원하지 않습니다.",
+	"home-text": "홈",
+	"book-text": "책",
+	"selected-language": "선택한 언어",
+	"success-text": "성공",
+	"preference-saved": "환경 설정을 저장했습니다!"
 }

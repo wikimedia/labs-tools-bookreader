@@ -5,6 +5,7 @@
 			"Okras",
 			"Pacha Tchernof",
 			"Teretalexev",
+			"Vlad5250",
 			"Артём 13327"
 		]
 	},
@@ -15,6 +16,7 @@
 	"byurl-placeholder": "Введите URL-адрес PDF/DjVu файла из проекта Викимедиа",
 	"form-submit": "Отправить",
 	"or-text": "Или",
+	"and-text": "и",
 	"wiki-projects": "Проект на Викитеке:",
 	"lang-pl": "Польский",
 	"lang-en": "Английский",
@@ -95,9 +97,15 @@
 	"localfile-notice": "Автозаполнение имени файла работает только для локально загруженного файла.",
 	"back-to-home": "Вернуться в начало",
 	"my-language": "Мой язык",
-	"button-save": "Сохранить",
+	"button-save": "Сохранить на будущее",
 	"button-cancel": "Отменить",
 	"error": "Что-то пошло не так!",
 	"no-javascript": "Для работы BookReader требуется, чтобы был включен JavaScript. Пожалуйста, убедитесь, что ваш браузер поддерживает JavaScript и что он включен в настройках браузера.",
-	"embebed-not-supported": "Встроенный код не поддерживается в BookReader."
+	"embebed-not-supported": "Встроенный код не поддерживается в BookReader.",
+	"home-text": "Главная",
+	"books-text": "Книги",
+	"book-text": "Книга",
+	"context-text": "Для контекста:",
+	"selected-language": "Выбранный язык",
+	"success-text": "Успешно"
 }
