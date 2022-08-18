@@ -105,7 +105,10 @@
 	"home-text": "Главная",
 	"books-text": "Книги",
 	"book-text": "Книга",
+	"about-text": "О проекте",
 	"context-text": "Для контекста:",
+	"createby-heading": "Создано и поддерживается:",
 	"selected-language": "Выбранный язык",
-	"success-text": "Успешно"
+	"success-text": "Успешно",
+	"preference-saved": "Ваши настройки сохранены!"
 }

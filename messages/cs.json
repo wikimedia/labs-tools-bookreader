@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kareyac",
 			"Luklos",
 			"Robins7"
 		]
@@ -12,6 +13,7 @@
 	"byurl-placeholder": "Zadejte URL souboru PDF / DjVu z projektu Wikimedia",
 	"form-submit": "Odeslat",
 	"or-text": "Nebo",
+	"and-text": "a",
 	"wiki-projects": "Wikisource projekt:",
 	"lang-gu": "Gudžarádské písmo",
 	"lang-bn": "Bengla",
@@ -30,9 +32,13 @@
 	"localfile-notice": "Automatické doplňování názvu souboru funguje pouze pro místní nahraný soubor.",
 	"back-to-home": "Zpátky domů",
 	"my-language": "Můj jazyk",
-	"button-save": "Uložit",
+	"button-save": "Uložit pro budoucnost",
 	"button-cancel": "Zrušit",
 	"error": "Něco se pokazilo!",
 	"no-javascript": "BookReader vyžaduje, aby byl povolen JavaScript. Zkontrolujte, zda váš prohlížeč podporuje JavaScript a zda je povolen v nastaveních prohlížeče.",
-	"embebed-not-supported": "Vložený kód není podporován BookReaderem."
+	"embebed-not-supported": "Vložený kód není podporován BookReaderem.",
+	"books-text": "Knihy",
+	"book-text": "Kniha",
+	"selected-language": "Vybraný jazyk",
+	"success-text": "Úspěch"
 }
