@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Asma",
-			"Tala Ali"
+			"Tala Ali",
+			"محمد أحمد عبد الفتاح"
 		]
 	},
 	"bookreader-name": "قارئ الكتاب - ويكيميديا",
@@ -11,6 +12,7 @@
 	"changelanguage": "تغيير اللغة",
 	"form-submit": "تسليم",
 	"or-text": "أو",
+	"and-text": "و",
 	"lang-pl": "البولندية",
 	"lang-en": "الإنجليزية",
 	"lang-ru": "الروسية",
@@ -67,5 +69,6 @@
 	"my-language": "اللغة",
 	"button-save": "حفظ",
 	"button-cancel": "إلغاء",
-	"error": "حدث خطأ ما"
+	"error": "حدث خطأ ما",
+	"books-text": "كتب"
 }

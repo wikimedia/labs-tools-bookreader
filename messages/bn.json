@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bodhisattwa",
 			"Meghmollar2017",
 			"আজিজ",
 			"আফতাবুজ্জামান"
@@ -48,6 +49,7 @@
 	"lang-ja": "জাপানি",
 	"lang-ro": "রোমানীয়",
 	"lang-fi": "ফিনীয়",
+	"lang-nap": "নেপোলিটান",
 	"lang-nl": "ওলন্দাজ",
 	"lang-az": "আজারবাইজানি",
 	"lang-ca": "কাতালান",
@@ -62,7 +64,9 @@
 	"lang-hi": "হিন্দি",
 	"lang-is": "আইসল্যান্ডীয়",
 	"lang-vec": "ভেনেতীয়",
+	"lang-pms": "পিডমন্টিজ",
 	"lang-ban": "বালিনীয়",
+	"lang-lij": "লিগুরীয়",
 	"lang-da": "ডেনীয়",
 	"lang-et": "এস্তোনীয়",
 	"lang-mr": "মারাঠি",
@@ -80,6 +84,9 @@
 	"lang-gl": "গ্যালিসীয়",
 	"lang-bs": "বসনীয়",
 	"lang-sk": "স্লোভাক",
+	"lang-zh-min-nan": "মিন নান",
+	"lang-ht": "হাইতীয়",
+	"lang-fo": "ফারো",
 	"lang-ang": "অ্যাংলো-স্যাক্সন",
 	"label-filename": "ফাইলের নাম:",
 	"filename-placeholder": "একটি ফাইলের নাম লিখুন",

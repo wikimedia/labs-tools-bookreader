@@ -3,6 +3,7 @@
 		"authors": [
 			"Gomoko",
 			"Thibaut120094",
+			"VIGNERON",
 			"Verdy p"
 		]
 	},
@@ -27,7 +28,7 @@
 	"lang-ar": "arabe",
 	"lang-uk": "ukrainien",
 	"lang-cs": "tchèque",
-	"lang-gu": "gujarâtî",
+	"lang-gu": "goudjarâtî",
 	"lang-sr": "serbe",
 	"lang-pt": "portugais",
 	"lang-sv": "suédois",
@@ -68,7 +69,7 @@
 	"lang-lij": "ligure",
 	"lang-da": "danois",
 	"lang-et": "estonien",
-	"lang-mr": "marathe",
+	"lang-mr": "marathi",
 	"lang-mk": "macédonien",
 	"lang-cy": "gallois",
 	"lang-yi": "yiddish",
@@ -97,7 +98,7 @@
 	"button-save": "Enregistrer pour plus tard",
 	"button-cancel": "Annuler",
 	"error": "Quelque chose s’est mal passé !",
-	"no-javascript": "Le Lecteur de livres nécessite que JavaScript soit activé. Veuillez vérifier que votre navigateur prend en charge JavaScript et qu’il est activé dans ses paramètres.",
+	"no-javascript": "Le lecteur de livres nécessite que JavaScript soit activé. Veuillez vérifier que votre navigateur prend en charge JavaScript et qu’il est activé dans ses paramètres.",
 	"embebed-not-supported": "Le code encapsulé n’est pas pris en charge dans le lecteur de livres.",
 	"home-text": "Accueil",
 	"books-text": "Livres",
