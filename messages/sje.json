@@ -33,6 +33,7 @@
 	"lang-vi": "vietnámgiella",
 	"lang-ja": "jáhpángiella",
 	"lang-fi": "suomagiella",
+	"lang-no": "Vuonagiella (girrjegiella)",
 	"lang-th": "tájgiella",
 	"lang-be": "vellgisrussegiella",
 	"lang-hi": "hindigiella",
@@ -49,5 +50,6 @@
 	"books-text": "Girje",
 	"book-text": "Girrje",
 	"about-text": "Birra",
-	"selected-language": "Välljiduvvum giella"
+	"selected-language": "Välljiduvvum giella",
+	"success-text": "Dahkam"
 }
