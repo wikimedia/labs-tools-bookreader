@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Emiko",
+			"Hanna Tardos",
 			"Tacsipacsi"
 		]
 	},
@@ -12,6 +13,7 @@
 	"byurl-placeholder": "Adj meg egy PDF/DjVu URL-t a Wikimedia projektből",
 	"form-submit": "Elküldés",
 	"or-text": "Vagy",
+	"and-text": "és",
 	"wiki-projects": "Wikisource projekt:",
 	"lang-gu": "Gudzsaráti",
 	"lang-bn": "Bengáli",
@@ -34,5 +36,12 @@
 	"button-cancel": "Mégsem",
 	"error": "Valami elromlott!",
 	"no-javascript": "A BookReadernek engedélyeznie kell a JavaScriptet. Ellenőrizd, hogy a böngésződ támogatja-e a JavaScriptet, és engedélyezve van-e a böngésző beállításaiban.",
-	"embebed-not-supported": "A beágyazási kód nem támogatott a könyvolvasóban."
+	"embebed-not-supported": "A beágyazási kód nem támogatott a könyvolvasóban.",
+	"home-text": "Főoldal",
+	"books-text": "Könyvek",
+	"book-text": "Könyv",
+	"about-text": "Névjegy",
+	"selected-language": "Kiválasztott nyelv",
+	"success-text": "Sikeres",
+	"preference-saved": "Beállítások mentve!"
 }
