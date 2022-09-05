@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"DarkGames26",
 			"Fitoschido",
 			"Francodiaz7"
 		]
@@ -12,6 +13,7 @@
 	"byurl-placeholder": "Proporciona el URL de un PDF/DjVu de un proyecto de Wikimedia",
 	"form-submit": "Enviar",
 	"or-text": "O bien",
+	"and-text": "y",
 	"wiki-projects": "Proyecto de Wikisource:",
 	"lang-pl": "Polaco",
 	"lang-en": "Inglés",
@@ -92,9 +94,19 @@
 	"localfile-notice": "La compleción automática del nombre de archivo funciona solo para archivos cargados localmente.",
 	"back-to-home": "Volver al inicio",
 	"my-language": "Mi idioma",
-	"button-save": "Guardar",
+	"button-save": "Guardar para el futuro",
 	"button-cancel": "Cancelar",
 	"error": "Se produjo un error.",
 	"no-javascript": "El lector de libros necesita JavaScript. Cerciórate de que el navegador admita esta tecnología y de que esté activada en la configuración.",
-	"embebed-not-supported": "El lector de libros no admite el código de incrustación."
+	"embebed-not-supported": "El lector de libros no admite el código de incrustación.",
+	"home-text": "Inicio",
+	"books-text": "Libros",
+	"book-text": "Libro",
+	"about-text": "Sobre",
+	"context-text": "Para el contexto:",
+	"createby-heading": "Creado y mantenido por:",
+	"poweredby-heading": "Visor impulsado por:",
+	"selected-language": "Idioma seleccionado",
+	"success-text": "Éxito",
+	"preference-saved": "¡Su preferencia ha sido guardada!"
 }
