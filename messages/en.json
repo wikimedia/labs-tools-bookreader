@@ -108,5 +108,8 @@
     "selected-language": "Selected language",
     "success-text": "Success",
     "preference-saved": "Your preference has been saved!",
-    "source-code": "Source code"
+    "source-code": "Source code",
+    "integration-heading": "Integration in Wikisources",
+    "integration-text": "You can add this tool shortcut icon on Wikisource's Index pages which can open the Index's PDF/DjVu in this tool directly.",
+    "see-here": "See here"
 }

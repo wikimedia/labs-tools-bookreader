@@ -10,6 +10,12 @@
           <a target="__blank" href="https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2016/Categories/Commons#Implement_Internet_Archive_BookReader_in_Commons_&_Wikisource">Implement Internet Archive BookReader in Commons & Wikisource</a>.
         </p>
         <br/>
+        <h3>{{ $t('integration-heading') }}</h3>
+        <p>
+          {{ $t('integration-text') }}
+          <a target="__blank" href="https://meta.wikimedia.org/wiki/BookReader#Integration_in_Wikisources">{{ $t('see-here') }}</a>.
+        </p>
+        <br/>
         <h3>{{ $t('createby-heading') }}</h3>
         <p>
           <a target="__blank" href="https://meta.wikimedia.org/wiki/User:Jayprakash12345">Jayprakash</a>
