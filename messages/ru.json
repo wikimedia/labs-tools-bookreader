@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Deltaspace",
 			"Kareyac",
 			"Okras",
 			"Pacha Tchernof",
@@ -111,5 +112,9 @@
 	"poweredby-heading": "Программа просмотра при поддержке:",
 	"selected-language": "Выбранный язык",
 	"success-text": "Успешно",
-	"preference-saved": "Ваши настройки сохранены!"
+	"preference-saved": "Ваши настройки сохранены!",
+	"source-code": "Исходный код",
+	"integration-heading": "Интеграция в Wikisources",
+	"integration-text": "Вы можете добавить значок ярлыка этого инструмента на страницы указателя Wikisource, который может напрямую открывать PDF/DjVu указателя в этом инструменте.",
+	"see-here": "Посмотрите здесь"
 }

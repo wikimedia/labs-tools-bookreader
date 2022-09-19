@@ -3,7 +3,8 @@
 		"authors": [
 			"Andriy.v",
 			"Ice bulldog",
-			"Piramidion"
+			"Piramidion",
+			"Пан Хаунд"
 		]
 	},
 	"bookreader-name": "Книгочитач — Вікімедіа",
@@ -108,5 +109,6 @@
 	"poweredby-heading": "Переглядач працює від:",
 	"selected-language": "Вибрана мова",
 	"success-text": "Успіх",
-	"preference-saved": "Ваше налаштування збережено."
+	"preference-saved": "Ваше налаштування збережено.",
+	"see-here": "Дивіться тут"
 }

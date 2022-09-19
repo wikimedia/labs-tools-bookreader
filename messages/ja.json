@@ -81,5 +81,7 @@
 	"book-text": "書籍",
 	"selected-language": "選択された言語",
 	"success-text": "成功",
-	"preference-saved": "個人設定を保存しました。"
+	"preference-saved": "個人設定を保存しました。",
+	"source-code": "ソースコード",
+	"see-here": "こちらをご覧ください"
 }

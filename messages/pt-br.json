@@ -50,5 +50,6 @@
 	"button-cancel": "Cancelar",
 	"error": "Algo deu errado!",
 	"no-javascript": "O leitor de livros requer que o JavaScript esteja ativado. Verifique se o seu navegador suporta JavaScript e se está ativado nas configurações do navegador.",
-	"embebed-not-supported": "Código de incorporação não suportado no leitor de livros."
+	"embebed-not-supported": "Código de incorporação não suportado no leitor de livros.",
+	"source-code": "Código-fonte"
 }

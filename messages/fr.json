@@ -109,5 +109,9 @@
 	"poweredby-heading": "Visionneuse propulsée par :",
 	"selected-language": "Langue sélectionnée",
 	"success-text": "Succès",
-	"preference-saved": "Vos préférences ont été enregistrées !"
+	"preference-saved": "Vos préférences ont été enregistrées !",
+	"source-code": "Code source",
+	"integration-heading": "Intégration dans Wikisources",
+	"integration-text": "Vous pouvez ajouter cette icône de raccourci d’outil sur les pages d’index de Wikisource afin d’ouvrir directement le PDF/DjVu de l’index dans cet outil.",
+	"see-here": "Voir ici"
 }

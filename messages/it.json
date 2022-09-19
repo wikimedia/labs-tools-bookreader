@@ -35,5 +35,6 @@
 	"button-cancel": "Annulla",
 	"error": "Qualcosa è andato storto!",
 	"no-javascript": "Per poter attivare BookReader devi avere JavaScript. Verifica che il tuo browser supporti JavaScript e che sia attivato nelle impostazioni del browser.",
-	"embebed-not-supported": "Codice integrato non supportato in BookReader."
+	"embebed-not-supported": "Codice integrato non supportato in BookReader.",
+	"source-code": "Codice sorgente"
 }

@@ -102,5 +102,6 @@
 	"book-text": "책",
 	"selected-language": "선택한 언어",
 	"success-text": "성공",
-	"preference-saved": "환경 설정을 저장했습니다!"
+	"preference-saved": "환경 설정을 저장했습니다!",
+	"source-code": "소스 코드"
 }
