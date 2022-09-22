@@ -29,9 +29,13 @@
 	"localfile-notice": "Samodopolnitev imena datoteke deluje samo za lokalno naložene datoteke.",
 	"back-to-home": "Nazaj na začetno stran",
 	"my-language": "Moj jezik",
-	"button-save": "Shrani",
+	"button-save": "Shrani za v prihodnje",
 	"button-cancel": "Prekliči",
 	"error": "Nekaj je šlo narobe!",
 	"no-javascript": "Za delovanje Bralnika knjig mora biti omogočen JavaScript. Prosimo, prepričajte se, da vaš brskalnik podpira JavaScript in da je ta omogočen v nastavitvah brskalnika.",
-	"embebed-not-supported": "Bralnik knjige ne podpira kode za vključitev."
+	"embebed-not-supported": "Bralnik knjige ne podpira kode za vključitev.",
+	"source-code": "Izvorna koda",
+	"integration-heading": "Vključitev v Wikivir",
+	"integration-text": "To ikono bližnjice do orodja lahko dodate na strani kazala Wikivira, ki lahko v tem orodju neposredno odpre PDF/DjVu kazala.",
+	"see-here": "Glej tukaj"
 }

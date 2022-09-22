@@ -34,5 +34,9 @@
 	"button-cancel": "Annuleren",
 	"error": "Er is iets misgegaan!",
 	"no-javascript": "De BookReader vereist JavaScript om ingeschakeld te worden. Kijk na of je browser JavaScript ondersteund en dat het ingeschakeld is in de browserinstellingen.",
-	"embebed-not-supported": "Embed code niet ondersteund in bookreader."
+	"embebed-not-supported": "Embed code niet ondersteund in bookreader.",
+	"source-code": "Broncode",
+	"integration-heading": "Integratie in Wikisources",
+	"integration-text": "U kunt deze tool als koppeling op de indexpagina's van Wikisource invoegen, om het PDF/DjVu-bestand met de index direct in deze tool te openen.",
+	"see-here": "Kijk hier"
 }

@@ -6,6 +6,7 @@
 			"FF-11",
 			"FF11",
 			"ImaCow",
+			"Justman10000",
 			"ThisCarthing"
 		]
 	},
@@ -100,5 +101,9 @@
 	"button-cancel": "Abbrechen",
 	"error": "Etwas ist schiefgelaufen!",
 	"no-javascript": "Für den BookReader muss JavaScript aktiviert sein. Bitte überprüfen Sie, ob Ihr Browser JavaScript unterstützt und ob es in den Browsereinstellungen aktiviert ist.",
-	"embebed-not-supported": "In Bookreader nicht unterstützter Einbettungscode."
+	"embebed-not-supported": "In Bookreader nicht unterstützter Einbettungscode.",
+	"source-code": "Quellcode",
+	"integration-heading": "Integration in Wikisourcen",
+	"integration-text": "Du kannst dieses Tool als Verknüpfung auf den Indexseiten von Wikisource einfügen, um das PDF/DjVu des Index direkt in diesem Tool zu öffnen.",
+	"see-here": "Siehe hier"
 }
