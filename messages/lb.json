@@ -44,5 +44,7 @@
 	"button-cancel": "Ofbriechen",
 	"error": "Et ass eppes schif gaangen!",
 	"no-javascript": "De Buch-Lieser brauch JavaScript. Kuckt wgl. no ob Äre Browser JavaScript ënnerstëtzt an datt JavaScript an Äre Browser-Astellungen aktivéiert ass.",
-	"embebed-not-supported": "Am Bookreader net ënnerstëtzten agebaute Code"
+	"embebed-not-supported": "Am Bookreader net ënnerstëtzten agebaute Code",
+	"source-code": "Quellcode",
+	"see-here": "Kuckt hei"
 }
