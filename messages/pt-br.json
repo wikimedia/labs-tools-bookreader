@@ -51,5 +51,8 @@
 	"error": "Algo deu errado!",
 	"no-javascript": "O leitor de livros requer que o JavaScript esteja ativado. Verifique se o seu navegador suporta JavaScript e se está ativado nas configurações do navegador.",
 	"embebed-not-supported": "Código de incorporação não suportado no leitor de livros.",
-	"source-code": "Código-fonte"
+	"source-code": "Código-fonte",
+	"integration-heading": "Integração na wiki Wikisources",
+	"integration-text": "Pode adicionar este ícone de atalho de ferramentas nas páginas de índice da wiki Wikisource, que poderão abrir o PDF/DjVu do índice diretamente nesta ferramenta.",
+	"see-here": "Ver aqui"
 }
