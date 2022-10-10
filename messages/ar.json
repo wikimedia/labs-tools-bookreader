@@ -3,6 +3,7 @@
 		"authors": [
 			"Asma",
 			"Dr-Taher",
+			"Meno25",
 			"Tala Ali",
 			"محمد أحمد عبد الفتاح"
 		]
@@ -110,5 +111,7 @@
 	"selected-language": "اللغة المختارة",
 	"success-text": "نجاح",
 	"preference-saved": "جرى حفظ تفضيلاتك!",
+	"source-code": "الكود المصدري",
+	"integration-heading": "التكامل في ويكيات المصدر",
 	"see-here": "انظر هنا"
 }
