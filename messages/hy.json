@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Armenoid",
 			"Kareyac"
 		]
 	},
@@ -9,6 +10,7 @@
 	"form-submit": "Ուղարկել",
 	"or-text": "Կամ",
 	"wiki-projects": "Վիքիդարանի նախագիծ՝",
+	"lang-en": "Անգլերեն",
 	"lang-gu": "Գուջարաթի",
 	"lang-bn": "Բենգալերեն",
 	"lang-ml": "Մալայալամ",
