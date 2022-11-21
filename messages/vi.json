@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Minh Nguyen",
 			"Nguyễn Mạnh An"
 		]
 	},
@@ -24,9 +25,9 @@
 	"lang-as": "Tiếng Assam",
 	"lang-pa": "Punjabi",
 	"lang-or": "Oriya",
-	"label-filename": "Tên tệp tin:",
+	"label-filename": "Tên tập tin:",
 	"filename-placeholder": "Nhập tên tập tin",
-	"localfile-notice": "Tự động hoàn thành tên tệp chỉ hoạt động đối với tệp được tải lên cục bộ.",
+	"localfile-notice": "Tự động hoàn thành tên tập tin chỉ hoạt động đối với tập tin được tải lên cục bộ.",
 	"back-to-home": "Trở về đầu trang",
 	"my-language": "Ngôn ngữ của tôi",
 	"button-save": "Lưu",

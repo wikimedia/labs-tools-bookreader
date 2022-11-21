@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abbas dhothar"
+			"Abbas dhothar",
+			"Bgo eiu"
 		]
 	},
 	"bookreader-name": "بک ریڈر - وکی میڈیا",
@@ -18,12 +19,27 @@
 	"lang-kn": "کناڈا",
 	"lang-hi": "ہندی",
 	"lang-mr": "مراٹھی",
+	"lang-jv": "جوانی",
 	"lang-pa": "پنجابی",
 	"lang-or": "اڑیا",
+	"lang-zh-min-nan": "مِن نان",
+	"lang-ht": "ہاشیائی",
+	"lang-fo": "فیروئی",
+	"lang-ang": "انگل سیکسن",
 	"label-filename": "فائل ناں:",
 	"filename-placeholder": "فائل دا ناں درج کرو",
+	"back-to-home": "گھردو فیر جاؤ",
 	"my-language": "میری بولی",
-	"button-save": "بچاؤ",
+	"button-save": "فیر لئی رکھو",
 	"button-cancel": "ختم",
-	"error": "کوئی رپھڑ پے گیا اے۔"
+	"error": "کوئی رپھڑ پے گیا اے۔",
+	"home-text": "گھر",
+	"books-text": "کتاباں",
+	"book-text": "کتاب",
+	"about-text": "بارے",
+	"selected-language": "چݨی بولی",
+	"success-text": "کیتا گیا",
+	"preference-saved": "تہاڈیاں ترجیح سامبھی گئی۔",
+	"source-code": "سروت دا کوڈ",
+	"see-here": "اِتھے ویکھو"
 }
