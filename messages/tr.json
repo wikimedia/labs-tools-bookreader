@@ -108,5 +108,9 @@
 	"poweredby-heading": "Görüntüleyiciyi Destekleyen:",
 	"selected-language": "Seçilen dil",
 	"success-text": "Başarılı",
-	"preference-saved": "Tercihiniz kaydedildi!"
+	"preference-saved": "Tercihiniz kaydedildi!",
+	"source-code": "Kaynak kodu",
+	"integration-heading": "Vikikaynak entegrasyonu",
+	"integration-text": "Bu araç kısayol simgesini, doğrudan bu araçta Dizin PDF/DjVu'sunu açabilen Vikikaynak'ın Dizin sayfalarına ekleyebilirsiniz.",
+	"see-here": "Buraya bakın"
 }
