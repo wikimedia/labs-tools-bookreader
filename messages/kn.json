@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nayvik"
+			"Nayvik",
+			"ಮಲ್ನಾಡಾಚ್ ಕೊಂಕ್ಣೊ"
 		]
 	},
 	"form-submit": "ಸಲ್ಲಿಸಿ",
 	"or-text": "ಅಥವಾ",
 	"wiki-projects": "ವಿಕಿಸೋರ್ಸ್ ಯೋಜನೆ:",
 	"lang-gu": "ಗುಜರಾತಿ",
-	"lang-bn": "ಬಾಂಗ್ಲಾ",
+	"lang-bn": "ಬಂಗಾಳಿ",
 	"lang-ml": "ಮಲಯಾಳಂ",
 	"lang-sa": "ಸಂಸ್ಕೃತ",
 	"lang-ta": "ತಮಿಳು",
@@ -22,6 +23,6 @@
 	"label-filename": "ಕಡತದ ಹೆಸರು:",
 	"filename-placeholder": "ಕಡತದ ಹೆಸರು ನಮೂದಿಸಿ",
 	"my-language": "ನನ್ನ ಭಾಷೆ",
-	"button-save": "ಉಳಿಸು",
+	"button-save": "ಭವಿಷ್ಯಕ್ಕಾಗಿ ಉಳಿಸಿ",
 	"button-cancel": "ರದ್ದುಮಾಡು"
 }
