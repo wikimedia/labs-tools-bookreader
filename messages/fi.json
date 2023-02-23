@@ -3,13 +3,15 @@
 		"authors": [
 			"MITO",
 			"Muovipullo",
-			"Pyscowicz"
+			"Pyscowicz",
+			"Silvonen"
 		]
 	},
 	"changelanguage": "Vaihda kieli",
 	"byurl-placeholder": "Syötä URL-osoite tai PDF-tiedosto Wikimedian projektista",
 	"form-submit": "Lähetä",
 	"or-text": "Tai",
+	"and-text": "ja",
 	"wiki-projects": "Wikiaineisto-hanke:",
 	"lang-pl": "Puola",
 	"lang-en": "Englanti",
@@ -68,5 +70,7 @@
 	"button-save": "Tallenna",
 	"button-cancel": "Peruuta",
 	"error": "Jotain meni vikaan!",
-	"embebed-not-supported": "Upotuskoodia ei tueta kirjanlukuohjelmassa."
+	"embebed-not-supported": "Upotuskoodia ei tueta kirjanlukuohjelmassa.",
+	"book-text": "Kirja",
+	"source-code": "Lähdekoodi"
 }
