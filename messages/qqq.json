@@ -3,6 +3,7 @@
 		"authors": [
 			"Ex-Diktator",
 			"Jayprakash12345",
+			"McDutchie",
 			"Norhorn",
 			"Robby",
 			"Verdy p"
@@ -11,11 +12,11 @@
 	"bookreader-name": "Site title",
 	"bookreader-desc": "Description of the WebApp",
 	"bookreader-heading": "Book Reader Heading",
-	"changelanguage": "Αλλαγή γλώσσας κειμένου",
+	"changelanguage": "Change Language text",
 	"byurl-placeholder": "Input box placeholder",
 	"form-submit": "Text of Submit button",
 	"or-text": "Or text",
-	"wiki-projects": "Κείμενο επικεφαλίδας του έργου Βικιπηγής",
+	"wiki-projects": "Heading text of Wikisource project",
 	"lang-gu": "This is a common language name, not a script name or an ethnonym.",
 	"lang-bn": "This is a common language name, not a script name or an ethnonym.",
 	"lang-ml": "This is a common language name, not a script name or an ethnonym.",
@@ -36,6 +37,6 @@
 	"button-save": "Text of Save button\n{{identical|Save}}",
 	"button-cancel": "Text of Cancel button\n{{Identical|Cancel}}",
 	"error": "Error message",
-	"no-javascript": "Error messeage when javascript is not available in browser.",
-	"embebed-not-supported": "Error messeage when Embed code not supported in bookreader."
+	"no-javascript": "Error message when JavaScript is not available in the browser.",
+	"embebed-not-supported": "Error message."
 }
