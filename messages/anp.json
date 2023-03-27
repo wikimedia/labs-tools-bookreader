@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Angpradesh",
+			"IND-ANP",
 			"Proabscorp!"
 		]
 	},
@@ -34,7 +35,7 @@
 	"lang-hu": "हंगरीयाई",
 	"lang-ko": "कोरयाई",
 	"lang-bn": "बांग्ला",
-	"lang-ml": "मलयालम",
+	"lang-ml": "मलयाली",
 	"lang-sa": "संस्कृत",
 	"lang-ta": "तमिल",
 	"lang-te": "तेलूगू",
@@ -76,7 +77,7 @@
 	"home-text": "मुखपृष्ठ",
 	"books-text": "पुस्तक सिनी",
 	"book-text": "पुस्तक",
-	"about-text": "हमरा बारै मँ",
+	"about-text": "बारै मँ",
 	"context-text": "संदर्भ लेली:",
 	"createby-heading": "द्वारा निर्मित आरो अनुरक्षित:",
 	"poweredby-heading": "दर्शक द्वारा संचालित:",
