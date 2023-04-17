@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kly"
+			"Kly",
+			"Winston Sung"
 		]
 	},
 	"bookreader-name": "書籍閱讀器 - 維基多媒體",
 	"bookreader-desc": "書籍閱讀器是能閱讀來自維基多媒體站台書籍格式 PDF/DjVu 的工具。",
 	"bookreader-heading": "書籍閱讀器",
-	"changelanguage": "更改語言",
+	"changelanguage": "變更語言",
 	"byurl-placeholder": "輸入維基多媒體專案的 PDF/DjVu 網址",
 	"form-submit": "提交",
 	"or-text": "或",
