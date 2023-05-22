@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AZISS",
 			"Nargizhasanli",
 			"Şeyx Şamil"
 		]
@@ -12,7 +13,11 @@
 	"byurl-placeholder": "Wikimedia layihəsindən PDF / DjVu bir URL daxil edin",
 	"form-submit": "Təsdiq et",
 	"or-text": "ya da",
+	"and-text": "və",
 	"wiki-projects": "Vikimənbə layihəsi",
+	"lang-pl": "Polyakca",
+	"lang-en": "İngiliscə",
+	"lang-ru": "Rusca",
 	"lang-gu": "Qucarat",
 	"lang-bn": "Benqal",
 	"lang-ml": "Malayalam",
@@ -30,9 +35,21 @@
 	"localfile-notice": "Fayl adının avtomatik tamamlanması yalnız yerli yüklənmiş fayl üçün işləyir.",
 	"back-to-home": "Evə geri dön",
 	"my-language": "Mənim dilim",
-	"button-save": "Saxla",
+	"button-save": "Gələcək üçün saxla",
 	"button-cancel": "Ləğv et",
 	"error": "Nəsə düzgün işləmir!",
 	"no-javascript": "BookReader JavaScript'in aktiv olmasını tələb edir. Xahiş edirəm brauzerinizin JavaScript-i dəstəklədiyini və brauzer parametrlərində aktiv olub olmadığını yoxlayın.",
-	"embebed-not-supported": "Yerləşdirmə kodu kitab oxuyucusunda dəstəklənmir."
+	"embebed-not-supported": "Yerləşdirmə kodu kitab oxuyucusunda dəstəklənmir.",
+	"home-text": "Ana səhifə",
+	"books-text": "Kitablar",
+	"book-text": "Kitab",
+	"about-text": "Haqqında",
+	"context-text": "Kontekst üçün:",
+	"createby-heading": "Yaradıb və dəstəkləyən:",
+	"selected-language": "Seçdiyiniz dil",
+	"success-text": "Uğurli",
+	"preference-saved": "Seçiminiz yadda saxlanıldı!",
+	"source-code": "Mənbə kodu",
+	"integration-heading": "Wikisources-ə inteqrasiya",
+	"see-here": "Bura baxın"
 }
