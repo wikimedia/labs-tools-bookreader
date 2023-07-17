@@ -107,5 +107,9 @@
 	"poweredby-heading": "查看器技术支持：",
 	"selected-language": "选择的语言",
 	"success-text": "成功",
-	"preference-saved": "已保存您的参数设置！"
+	"preference-saved": "已保存您的参数设置！",
+	"source-code": "源代码",
+	"integration-heading": "在维基文库整合",
+	"integration-text": "您可以在维基文库的索引页面上添加此工具的快捷方式图标，这可以直接开启此工具里索引的 PDF/DjVu。",
+	"see-here": "在此查看"
 }
