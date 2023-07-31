@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Caden99",
 			"CptViraj"
 		]
 	},
 	"changelanguage": "ભાષા બદલો",
+	"lang-en": "અંગ્રેજી",
 	"lang-gu": "ગુજરાતી",
 	"lang-bn": "બંગાળી",
 	"lang-ml": "મલયાલમ",
@@ -12,6 +14,8 @@
 	"lang-ta": "તમિલ",
 	"lang-te": "તેલુગુ",
 	"lang-kn": "કન્નડ",
+	"lang-no": "નોર્વેજીયન (બોકમાલ)",
+	"lang-th": "થાઈ",
 	"lang-hi": "હિન્દી",
 	"lang-mr": "મરાઠી",
 	"lang-pa": "પંજાબી",
