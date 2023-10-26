@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Tokvo",
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"bookreader-name": "Llector de llibros - Wikimedia",
@@ -32,7 +33,7 @@
 	"back-to-home": "Volver al entamu",
 	"my-language": "La mio Llingua",
 	"button-save": "Guardar",
-	"button-cancel": "Encaboxar",
+	"button-cancel": "Zarrar",
 	"error": "¡Daqué funcionó mal!",
 	"no-javascript": "El llector de llibros precisa que JavaScript te activáu. Comprueba que'l navegador almita JavaScript y qu'esti tea activáu na configuración.",
 	"embebed-not-supported": "El llector de llibros nun tien encontu pa códigu d'incrustación.",
