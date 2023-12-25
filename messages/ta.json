@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswn"
+			"Aswn",
+			"Fahimrazick"
 		]
 	},
 	"bookreader-name": "புத்தக வாசகர் - விக்கிமீடியா",
@@ -27,7 +28,7 @@
 	"label-filename": "கோப்பின் பெயர்:",
 	"filename-placeholder": "கோப்பின் பெயரினை இடவும்",
 	"localfile-notice": "கோப்பு பெயரின் தானியக்கமாய்நிரப்புதல் பதிவேற்றிய கோப்பிற்கு மட்டுமே செயல்படும்.",
-	"back-to-home": "பின் செல்லவும்",
+	"back-to-home": "முகப்புக்குத் திரும்பு",
 	"my-language": "என் மொழி",
 	"button-save": "சேமி",
 	"button-cancel": "கைவிடுக",
