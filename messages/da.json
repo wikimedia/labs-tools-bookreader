@@ -53,6 +53,12 @@
 	"lang-no": "Norsk (Bokmål)",
 	"lang-th": "Thai",
 	"lang-id": "Indonesisk",
+	"lang-da": "Dansk",
+	"lang-et": "estisk",
+	"lang-mr": "Marathi",
+	"lang-mk": "makedonsk",
+	"lang-cy": "walisisk",
+	"lang-yi": "Jiddisch",
 	"lang-fo": "Færøsk",
 	"label-filename": "Filnavn:",
 	"filename-placeholder": "Indtast et filnavn",
@@ -60,8 +66,12 @@
 	"button-save": "Gem til fremtiden",
 	"button-cancel": "Annullér",
 	"error": "Noget gik galt!",
+	"embebed-not-supported": "Indlejringskode understøttes ikke i bookreader.",
+	"home-text": "Hjem",
+	"about-text": "Om",
 	"success-text": "Succes",
 	"preference-saved": "Dine indstillinger er blevet gemt!",
 	"source-code": "Kildekode",
-	"integration-heading": "Integration i Wikisources"
+	"integration-heading": "Integration i Wikisources",
+	"see-here": "Se her"
 }
