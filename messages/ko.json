@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Codenstory",
+			"Rosalyn",
 			"Theshinster123",
 			"Ykhwong"
 		]
@@ -13,6 +14,7 @@
 	"byurl-placeholder": "위키미디어 프로젝트에서 PDF/DjVu 파일의 URL을 입력하세요",
 	"form-submit": "제출",
 	"or-text": "또는",
+	"and-text": "그리고",
 	"wiki-projects": "위키문헌 프로젝트:",
 	"lang-pl": "폴란드어",
 	"lang-en": "영어",
@@ -99,9 +101,17 @@
 	"no-javascript": "BookReader을 작동시키려면 JavaScript를 활성화해야 합니다. 브라우저가 JavaScript를 지원하는지, 또 브라우저 설정에서 활성화되어 있는지 확인해 주십시오.",
 	"embebed-not-supported": "BookReader는 임베드 코드를 지원하지 않습니다.",
 	"home-text": "홈",
+	"books-text": "책",
 	"book-text": "책",
+	"about-text": "정보",
+	"context-text": "문맥:",
+	"createby-heading": "작성자 및 유지관리자:",
+	"poweredby-heading": "뷰어 제공:",
 	"selected-language": "선택한 언어",
 	"success-text": "성공",
 	"preference-saved": "환경 설정을 저장했습니다!",
-	"source-code": "소스 코드"
+	"source-code": "소스 코드",
+	"integration-heading": "위키자료에 통합",
+	"integration-text": "이 도구 단축키 아이콘을 위키소스의 인덱스 페이지에 추가하여 이 도구에서 바로 인덱스의 PDF/DjVu를 열 수 있습니다.",
+	"see-here": "더 보기"
 }
