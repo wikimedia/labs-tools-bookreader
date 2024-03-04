@@ -96,7 +96,7 @@
 	"button-save": "Seba vereroce rê qeyd ke",
 	"button-cancel": "Bıtexelne",
 	"error": "Tayê çi ğelet şi",
-	"no-javascript": "Wendoğê kıtaban lazımo ke JavaScript aktif bo. Kerem kerên, pheştidayışê JavaScripti û eyaranê roviteri kontrol kerên.",
+	"no-javascript": "Wendoğê kıtaban lazımo ke JavaScript aktif bo. Kerem kerên, peştidayışê JavaScripti û eyaranê roviteri kontrol kerên.",
 	"embebed-not-supported": "Cakerdena kodi wendoğê kıtaban de pheşti nêvineno.",
 	"home-text": "Keye",
 	"books-text": "Kıtabi",
@@ -110,5 +110,6 @@
 	"preference-saved": "Tecihê şıma qeyd biy!",
 	"source-code": "Kodê çımeyi",
 	"integration-heading": "Wikiçımeyan de entegrasyon",
+	"integration-text": "Şıma şenê nê ikonê hacetê kılmi ser ripelanê Indeks'ê Wikiçımeyan zêde kerên ke şenÊ rasterast PDF/DjVu-yê Indeks'i nê hacetan de cıkerên.",
 	"see-here": "Tiya bıvêne"
 }
