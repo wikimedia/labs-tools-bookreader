@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hakimi97",
 			"Izington",
 			"Tofeiku"
 		]
@@ -12,7 +13,7 @@
 	"byurl-placeholder": "Masukkan URL PDF/DjVu daripada projek Wikimedia",
 	"form-submit": "Hantar",
 	"or-text": "Atau",
-	"wiki-projects": "Projek Wikisource:",
+	"wiki-projects": "Projek Wikisumber:",
 	"lang-gu": "Gujarati",
 	"lang-bn": "Bangla",
 	"lang-ml": "Malayalam",
