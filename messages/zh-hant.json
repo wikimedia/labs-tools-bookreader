@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Kly",
+			"Lepus",
 			"Winston Sung",
 			"Yuchenglinedu"
 		]
@@ -112,5 +113,5 @@
 	"source-code": "原始碼",
 	"integration-heading": "在維基文庫整合",
 	"integration-text": "您可以在維基文庫的索引頁面上添加此工具的捷徑圖標，這可以直接開啟此工具裡索引的 PDF/DjVu。",
-	"see-here": "查看更多"
+	"see-here": "在此查看"
 }
