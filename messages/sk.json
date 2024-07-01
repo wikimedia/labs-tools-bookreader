@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Jaroslav.micek",
+			"Oujon",
 			"Yardom78"
 		]
 	},
@@ -12,6 +13,7 @@
 	"byurl-placeholder": "Zadajte URL súboru PDF/DjVu z projektu Wikimedia",
 	"form-submit": "Odoslať",
 	"or-text": "Alebo",
+	"and-text": "a",
 	"wiki-projects": "Wikisource projekt:",
 	"lang-pl": "poľský",
 	"lang-en": "anglický",
@@ -90,11 +92,25 @@
 	"label-filename": "Názov súboru:",
 	"filename-placeholder": "Zadajte názov súboru",
 	"localfile-notice": "Automatické doplňovanie názvu súboru funguje len pre miestne nahraný súbor.",
-	"back-to-home": "Späť na začiatok",
+	"back-to-home": "Späť domov",
 	"my-language": "Môj jazyk",
-	"button-save": "Uložiť",
+	"button-save": "Uložiť pre budúcnosť",
 	"button-cancel": "Zrušiť",
 	"error": "Niečo sa pokazilo!",
 	"no-javascript": "BookReader vyžaduje povolený JavaScript. Prosím skontrolujte či váš prehliadač podporuje JavaScript a či je povolený v nastaveniach.",
-	"embebed-not-supported": "Vložený kód nieje v čítačke podporovaný."
+	"embebed-not-supported": "Vložený kód nieje v čítačke podporovaný.",
+	"home-text": "Domov",
+	"books-text": "Knihy",
+	"book-text": "Kniha",
+	"about-text": "O",
+	"context-text": "Pre kontext:",
+	"createby-heading": "Vytvorené a udržiavané podľa:",
+	"poweredby-heading": "Prehliadač Používa:",
+	"selected-language": "Vybrané jazyky:",
+	"success-text": "Úspech",
+	"preference-saved": "Vaša preferencia je uložená!",
+	"source-code": "Zdrojový kód",
+	"integration-heading": "Integrácia do Wikisources",
+	"integration-text": "Tento nástroj môžete pridať na stránky Index na stránke Wikisource, ktorá môže priamo otvoriť PDF/DjVu Index v tomto nástroji.",
+	"see-here": "Pozrite sa tu"
 }
