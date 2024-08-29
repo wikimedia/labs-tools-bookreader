@@ -92,6 +92,7 @@
 	"button-save": "Gem til fremtiden",
 	"button-cancel": "Annullér",
 	"error": "Noget gik galt!",
+	"no-javascript": "BookReader kræver, at JavaScript er aktiveret. Tjek venligst, at din browser understøtter JavaScript, og at den er aktiveret i browserindstillingerne.",
 	"embebed-not-supported": "Indlejringskode understøttes ikke i bookreader.",
 	"home-text": "Hjem",
 	"books-text": "Bøger",
@@ -105,5 +106,6 @@
 	"preference-saved": "Dine indstillinger er blevet gemt!",
 	"source-code": "Kildekode",
 	"integration-heading": "Integration i Wikisources",
+	"integration-text": "Du kan tilføje dette værktøjs genvejsikon på Wikisources indekssider, hvilket kan åbne indeksets PDF/DjVu direkte i dette værktøj.",
 	"see-here": "Se her"
 }
