@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Faian36"
+			"Faian36",
+			"Juwan",
+			"Ookap"
 		]
 	},
-	"bookreader-name": "ilo lipu - lipu Wikimetija",
-	"bookreader-desc": "ilo lipu la sina ken lukin e nasin PDF anu nasin DjVu tan lipu Wikimetija.",
+	"bookreader-name": "ilo lipu - lipu Wikimesija",
+	"bookreader-desc": "ilo lipu la sina ken lukin e nasin PDF e nasin DjVu tan lipu Wikimetija.",
 	"bookreader-heading": "ilo lipu",
 	"changelanguage": "o ante e toki",
 	"lang-en": "toki Inli",
@@ -17,16 +19,25 @@
 	"lang-it": "toki Italija",
 	"lang-es": "toki Epanja",
 	"lang-ar": "toki Alapi",
+	"lang-uk": "toki Ukawina",
 	"lang-cs": "toki Seki",
 	"lang-sr": "toki Sopisi",
 	"lang-pt": "toki Potuke",
+	"lang-sv": "toki Sensa",
+	"lang-fa": "toki Pasi",
 	"lang-hu": "toki Mosijo",
+	"lang-ko": "toki Anku",
+	"lang-bn": "toki Panka",
+	"lang-tr": "toki Tuki",
+	"lang-hy": "toki Aja",
 	"lang-el": "toki Elena",
 	"lang-la": "toki Lasina",
+	"lang-vi": "toki Wije",
 	"lang-ja": "toki Nijon",
 	"lang-ro": "toki Lomani",
 	"lang-fi": "toki Sumi",
 	"lang-nl": "toki Netelan",
+	"lang-ca": "toki Katala",
 	"lang-br": "toki Peson",
 	"lang-hr": "toki Lowasi",
 	"lang-no": "toki Nosiki",
@@ -34,10 +45,13 @@
 	"lang-eo": "toki Epelanto",
 	"lang-hi": "toki Insi",
 	"lang-is": "toki Isilan",
+	"lang-da": "toki Tansa",
 	"lang-et": "toki Esi",
 	"lang-cy": "toki Kinla",
 	"lang-bg": "toki Pokasi",
 	"lang-eu": "toki Esuka",
+	"lang-zh-min-nan": "toki Min Nan",
+	"lang-ht": "toki Awisen",
 	"my-language": "toki mi",
 	"preference-saved": "wile sina li awen!"
 }
