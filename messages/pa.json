@@ -5,9 +5,11 @@
 			"Cabal"
 		]
 	},
-	"bookreader-desc": "ਬੁੱਕ ਰੀਡਰ ਵਿਕੀਮੀਡੀਆ ਸਾਈਟਾਂ ਤੋਂ ਕਿਤਾਬ ਦੇ ਫਾਰਮੈਟ ਵਿੱਚ PDF/DjVu ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਇੱਕ ਸਾਧਨ ਹੈ।",
-	"bookreader-heading": "ਬੁੱਕ ਰੀਡਰ",
+	"bookreader-name": "ਕਿਤਾਬੀਆ - ਵਿਕੀਮੀਡੀਆ",
+	"bookreader-desc": "ਕਤਾਬੀਆ  ਵਿਕੀਮੀਡੀਆ ਸਾਈਟਾਂ ਤੋਂ ਕਿਤਾਬ ਦੇ ਬਣਤਰ ਵਿੱਚ PDF/DjVu ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਇੱਕ ਸਾਧਨ ਹੈ।",
+	"bookreader-heading": "ਕਿਤਾਬੀਆ",
 	"changelanguage": "ਭਾਸ਼ਾ ਬਦਲੋ",
+	"byurl-placeholder": "ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ ਤੋਂ PDF/DjVu ਦਾ URL ਦਾਖਲ ਕਰੋ",
 	"form-submit": "ਭੇਜੋ",
 	"or-text": "ਜਾਂ",
 	"and-text": "ਅਤੇ",
@@ -93,6 +95,7 @@
 	"button-save": "ਭਵਿੱਖ ਲਈ ਬਚਾਓ",
 	"button-cancel": "ਰੱਦ ਕਰੋ",
 	"error": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ",
+	"home-text": "ਘਰ",
 	"books-text": "ਕਿਤਾਬਾਂ",
 	"book-text": "ਕਿਤਾਬ",
 	"about-text": "ਬਾਬਤ",
