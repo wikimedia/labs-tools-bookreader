@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
+			"GianAntonucci",
 			"Gmelfi"
 		]
 	},
@@ -98,7 +99,7 @@
 	"error": "Quarchi cosa jìu sbagghiatu!",
 	"no-javascript": "Lu Litturi di Libbri abbisogna di JavaScript pi èssiri attivatu. Cuntrullati ca lu browser supporta JavaScript e ca è attivatu ntê paràmitri dû browser.",
 	"embebed-not-supported": "Lu còdici di ncorpurazzioni nun è sustinutu ntô litturi di libbra.",
-	"home-text": "Pàggina principali",
+	"home-text": "Pàggina mastra",
 	"books-text": "Libbra",
 	"book-text": "Libbru",
 	"about-text": "A prupòsitu",
