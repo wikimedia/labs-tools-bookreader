@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Dimitris131",
+			"Geraki",
 			"Norhorn"
 		]
 	},
@@ -62,15 +63,21 @@
 	"lang-hi": "Χίντι",
 	"lang-is": "Ισλανδικά",
 	"lang-vec": "Βενετική",
+	"lang-pms": "Πιεμοντέζικα",
+	"lang-ban": "Μπαλινέζικα",
+	"lang-lij": "Λιγουριανά",
 	"lang-da": "Δανικά",
 	"lang-et": "Εσθονικά",
 	"lang-mr": "Μαράτι",
 	"lang-mk": "Σλαβομακεδονική",
 	"lang-cy": "Ουαλικά",
+	"lang-yi": "Γίντις",
 	"lang-as": "Ασσαμέζικα",
 	"lang-bg": "Βουλγαρικά",
 	"lang-li": "Λιμβουργιανά",
 	"lang-lt": "Λιθουανικά",
+	"lang-jv": "Τζαβανεζικά",
+	"lang-wa": "Βαλονικά",
 	"lang-pa": "Punjabi",
 	"lang-eu": "Βασκικά",
 	"lang-or": "Oriya",
@@ -96,6 +103,7 @@
 	"books-text": "Βιβλία",
 	"book-text": "Βιβλίο",
 	"about-text": "Σχετικά",
+	"context-text": "Για το πλαίσιο:",
 	"createby-heading": "Δημιουργήθηκε και συντηρείται από:",
 	"poweredby-heading": "Προβολέας με την υποστήριξη από:",
 	"selected-language": "Επιλέξτε γλώσσα",
