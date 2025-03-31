@@ -8,9 +8,13 @@
 		]
 	},
 	"changelanguage": "Molsso giela",
+	"or-text": "Dahje",
+	"and-text": "ja",
+	"lang-en": "Eŋgelasgiella",
 	"label-filename": "Fiilanamma:",
 	"button-save": "Vurke boahttevuođa várás",
 	"button-cancel": "Gaskkalduhte",
 	"book-text": "Girji",
+	"selected-language": "Válljejuvvon giella",
 	"source-code": "Gáldokoda"
 }
