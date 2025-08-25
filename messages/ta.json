@@ -3,7 +3,8 @@
 		"authors": [
 			"Aswn",
 			"ElangoRamanujam",
-			"Fahimrazick"
+			"Fahimrazick",
+			"Siddhan"
 		]
 	},
 	"bookreader-name": "புத்தக வாசகர் - விக்கிமீடியா",
@@ -23,7 +24,7 @@
 	"lang-zh": "சீனம்",
 	"lang-he": "ஹீப்ரு",
 	"lang-it": "இத்தாலியன்",
-	"lang-es": "இசுப்பானியம்",
+	"lang-es": "ஸ்பானிஷ்",
 	"lang-ar": "அரபு",
 	"lang-uk": "உக்ரைனியன்",
 	"lang-cs": "செக்",
@@ -48,6 +49,7 @@
 	"lang-ja": "ஜப்பானியம்",
 	"lang-ro": "ருமேனியன்",
 	"lang-fi": "ஃபின்னிஷ்",
+	"lang-nap": "நியாபோலிடன்",
 	"lang-nl": "டச்சு",
 	"lang-az": "அஜர்பைஜானி",
 	"lang-ca": "கேட்டலான்",
@@ -102,7 +104,9 @@
 	"books-text": "புத்தகங்கள்",
 	"book-text": "புத்தகம்",
 	"about-text": "இதைப் பற்றி",
+	"context-text": "சூழலுக்கு:",
 	"createby-heading": "உருவாக்கி பராமரிக்கிறது:",
+	"poweredby-heading": "பார்வையாளர் மூலம் இயக்கப்படுகிறது:",
 	"selected-language": "தேர்வு செய்யப்பட்டுள்ள மொழி",
 	"success-text": "வெற்றி",
 	"preference-saved": "உங்கள் விருப்பத்தேர்வு சேமிக்கப்பட்டுள்ளது!",
