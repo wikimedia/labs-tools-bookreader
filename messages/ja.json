@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Largestone",
 			"Linuxmetel",
 			"MathXplore",
 			"Omotecho",
@@ -103,6 +104,7 @@
 	"home-text": "ホーム",
 	"books-text": "書籍",
 	"book-text": "書籍",
+	"about-text": "このツールについて",
 	"context-text": "コンテキスト：",
 	"createby-heading": "作成および管理：",
 	"poweredby-heading": "ビューアの提供元：",
