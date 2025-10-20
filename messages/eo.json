@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Jakub Fabijan",
-			"Spenĉjo"
+			"Lisyeng",
+			"Spenĉjo",
+			"Tymewalk"
 		]
 	},
 	"bookreader-name": "Libra ligilo - Wikimedia",
@@ -10,18 +12,31 @@
 	"changelanguage": "Ŝanĝi lingvon",
 	"form-submit": "Sendi",
 	"or-text": "aŭ",
+	"and-text": "kaj",
 	"wiki-projects": "Vikifontara projekto:",
+	"lang-zh": "Ĉina",
+	"lang-it": "Itala",
+	"lang-es": "Hispana",
+	"lang-ar": "Araba",
+	"lang-cs": "Ĉeĥa",
 	"lang-gu": "Guĝarata",
+	"lang-ko": "Korea",
 	"lang-bn": "Bengala",
 	"lang-ml": "Malajala",
 	"lang-sa": "Sanskrito",
 	"lang-ta": "Tamila",
 	"lang-te": "Telegua",
+	"lang-tr": "Turka",
+	"lang-la": "Latina",
+	"lang-ja": "Japana",
 	"lang-kn": "Kanara",
+	"lang-id": "Indonezia",
+	"lang-eo": "Esperanto",
 	"lang-hi": "Hindia",
 	"lang-mr": "Marata",
 	"lang-as": "Asama",
 	"lang-pa": "Panĝaba",
+	"lang-eu": "Eŭska",
 	"lang-or": "Orija",
 	"label-filename": "Dosiernomo:",
 	"filename-placeholder": "Entajpu nomon de dosiero",
@@ -30,5 +45,9 @@
 	"button-save": "Konservi",
 	"button-cancel": "Nuligi",
 	"error": "Io misokazis!",
-	"embebed-not-supported": "Enkorpigita kodo ne estas subtenata en libra ligilo."
+	"embebed-not-supported": "Enkorpigita kodo ne estas subtenata en libra ligilo.",
+	"books-text": "Libroj",
+	"book-text": "Libro",
+	"selected-language": "Elektita lingvo",
+	"source-code": "Fontkodo"
 }
