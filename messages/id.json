@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Penyuwangi",
 			"Sonic Speedy",
 			"Veracious",
 			"William Surya Permana"
@@ -97,7 +98,7 @@
 	"button-save": "Simpan untuk nanti",
 	"button-cancel": "Batalkan",
 	"error": "Ada kesalahan!",
-	"no-javascript": "PembacaBuku membutuhkan JavaScript untuk diaktifkan.  Harap periksa apakah browser Anda mendukung JavaScript dan diaktifkan di pengaturan browser.",
+	"no-javascript": "PembacaBuku membutuhkan JavaScript untuk dinyalakan. Harap periksa apakah peramban Anda mendukung JavaScript dan dinyalakan di pengaturan peramban.",
 	"embebed-not-supported": "Kode sematan tidak didukung di pembaca buku.",
 	"home-text": "Beranda",
 	"books-text": "Buku-buku",
