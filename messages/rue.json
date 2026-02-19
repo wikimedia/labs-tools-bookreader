@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Oujon"
+		]
+	},
+	"form-submit": "Одослати",
+	"or-text": "Або",
+	"and-text": "и",
+	"lang-pl": "Польскы",
+	"lang-en": "анґліцькы",
+	"lang-ru": "Російськы",
+	"lang-de": "Нїмецькы",
+	"lang-fr": "Французькы",
+	"lang-zh": "Кітайскы",
+	"lang-he": "Гебрейскы",
+	"lang-it": "Таліянськы",
+	"lang-es": "Шпанєльскы",
+	"lang-ar": "Арабськы",
+	"lang-uk": "Україньскы",
+	"lang-cs": "Чеськы",
+	"lang-gu": "Ґуджараті",
+	"lang-sr": "Серьбскы",
+	"lang-sk": "Словеньскы",
+	"label-filename": "Файлмено:",
+	"filename-placeholder": "Придати мено фаила",
+	"back-to-home": "Назад домів",
+	"my-language": "Мой язык",
+	"button-cancel": "Зрушити",
+	"home-text": "Домів",
+	"books-text": "Книгы",
+	"book-text": "Книга",
+	"about-text": "О"
+}
