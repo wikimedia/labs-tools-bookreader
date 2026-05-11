@@ -4,7 +4,8 @@
 			"AZISS",
 			"Nargizhasanli",
 			"Nemoralis",
-			"Şeyx Şamil"
+			"Şeyx Şamil",
+			"Əkrəm"
 		]
 	},
 	"bookreader-name": "Kitab oxuyucusu - Vikimedia",
@@ -78,8 +79,18 @@
 	"lang-li": "Limburq dili",
 	"lang-lt": "Litvaca",
 	"lang-jv": "Cava dili",
+	"lang-wa": "Vallon dili",
 	"lang-pa": "Pəncab",
+	"lang-eu": "Bask dili",
 	"lang-or": "Oriya",
+	"lang-gl": "Qalisiya dili",
+	"lang-bs": "Bosniya dili",
+	"lang-sah": "Saxa dili",
+	"lang-sk": "Slovak dili",
+	"lang-zh-min-nan": "Cənubi min dili",
+	"lang-ht": "Haiti dili",
+	"lang-fo": "Farer dili",
+	"lang-ang": "Anql-saks dili",
 	"label-filename": "Fayl adı:",
 	"filename-placeholder": "Fayl adı daxil et",
 	"localfile-notice": "Fayl adının avtomatik tamamlanması yalnız yerli yüklənmiş fayl üçün işləyir.",
