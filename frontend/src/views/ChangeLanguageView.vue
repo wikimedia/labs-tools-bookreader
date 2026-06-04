@@ -25,22 +25,19 @@
 
 <script>
 import { availableLanguage } from '@/i18n';
+import languageData from '@wikimedia/language-data';
 
 export default {
   name: 'ChangeLanguageView',
   data() {
     return {
-      langs: this.getLanguagesWithNames(availableLanguage)
+      langs: availableLanguage.map(code => ({
+        code,
+        name: languageData.getAutonym(code)
+      }))
     };
   },
   methods: {
-    getLanguagesWithNames(codes) {
-      const displayNames = new Intl.DisplayNames(['en'], { type: 'language' });
-      return codes.map(code => ({
-        code,
-        name: displayNames.of(code)
-      }));
-    },
     savePreference() {
       localStorage.setItem('ws-bookread-lang', this.$i18n.locale);
       this.$alert(this.$t('preference-saved'), this.$t('success-text'), 'success');

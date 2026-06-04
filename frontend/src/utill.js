@@ -1,80 +1,22 @@
-const getWikisourcesLang = function(){
-    return {
-        "ang": "Ænglisc",
-        "ar": "العربية",
-        "as": "অসমীয়া",
-        "az": "Azərbaycanca",
-        "ban": "Bali",
-        "be": "Беларуская",
-        "bg": "Български",
-        "bn": "বাংলা",
-        "br": "Brezhoneg",
-        "bs": "Bosanski",
-        "ca": "Català",
-        "cs": "Čeština",
-        "cy": "Cymraeg",
-        "da": "Dansk",
-        "de": "Deutsch",
-        "el": "Ελληνικά",
-        "en": "English",
-        "eo": "Esperanto",
-        "es": "Español",
-        "et": "Eesti",
-        "eu": "Euskara",
-        "fa": "فارسی",
-        "fi": "Suomi",
-        "fo": "Føroyskt",
-        "fr": "Français",
-        "gl": "Galego",
-        "gu": "ગુજરાતી",
-        "he": "עברית",
-        "hi": "हिन्दी",
-        "hr": "Hrvatski",
-        "ht": "Krèyol ayisyen",
-        "hu": "Magyar",
-        "hy": "Հայերեն",
-        "id": "Bahasa Indonesia",
-        "is": "Íslenska",
-        "it": "Italiano",
-        "ja": "日本語",
-        "jv": "Basa Jawa",
-        "kn": "ಕನ್ನಡ",
-        "ko": "한국어",
-        "la": "Latina",
-        "li": "Limburgs",
-        "lij": "Lìgure",
-        "lt": "Lietuvių",
-        "mk": "Македонски",
-        "ml": "മലയാളം",
-        "mr": "मराठी",
-        "nap": "Nnapulitano",
-        "nl": "Nederlands",
-        "no": "Norsk (Bokmål)",
-        "or": "ଓଡ଼ିଆ",
-        "pa": "ਪੰਜਾਬੀ",
-        "pl": "ਪੰਜਾਬੀ",
-        "pms": "Piemontèis",
-        "pt": "Português",
-        "ro": "Română",
-        "ru": "Русский",
-        "sa": "संस्कृतम्",
-        "sah": "Саха тыла (Saxa Tyla)",
-        "sk": "Slovenčina",
-        "sl": "Slovenščina",
-        "sr": "Српски / Srpski",
-        "sv": "Svenska",
-        "ta": "தமிழ்",
-        "te": "తెలుగు",
-        "th": "ไทย",
-        "tr": "Türkçe",
-        "uk": "Українська",
-        "vec": "Vèneto",
-        "vi": "Tiếng Việt",
-        "wa": "Walon",
-        "yi": "ייִדיש",
-        "zh": "中文",
-        "zh-min-nan": "Bân-lâm-gú"
-    }
+import languageData from '@wikimedia/language-data';
+
+const wikisourceCodes = [
+    "ang", "ar", "as", "az", "ban", "be", "bg", "bn", "br", "bs",
+    "ca", "cs", "cy", "da", "de", "el", "en", "eo", "es", "et",
+    "eu", "fa", "fi", "fo", "fr", "gl", "gu", "he", "hi", "hr",
+    "ht", "hu", "hy", "id", "is", "it", "ja", "jv", "kn", "ko",
+    "la", "li", "lij", "lt", "mk", "ml", "mr", "nap", "nl", "no",
+    "or", "pa", "pl", "pms", "pt", "ro", "ru", "sa", "sah", "sk",
+    "sl", "sr", "sv", "ta", "te", "th", "tr", "uk", "vec", "vi",
+    "wa", "yi", "zh", "zh-min-nan"
+];
+
+const getWikisourcesLang = function() {
+    const result = {};
+    wikisourceCodes.forEach(code => {
+        result[code] = languageData.getAutonym(code);
+    });
+    return result;
 }
 
 export { getWikisourcesLang }
