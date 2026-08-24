@@ -3,6 +3,7 @@
 		"authors": [
 			"Emiko",
 			"Hanna Tardos",
+			"Koko1998",
 			"Tacsipacsi"
 		]
 	},
@@ -32,5 +33,7 @@
 	"createby-heading": "Létrehozta és gondozza:",
 	"selected-language": "Kiválasztott nyelv",
 	"success-text": "Sikeres",
-	"preference-saved": "Beállítások mentve!"
+	"preference-saved": "Beállítások mentve!",
+	"source-code": "Forráskód",
+	"see-here": "Lásd itt"
 }

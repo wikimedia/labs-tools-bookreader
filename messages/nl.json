@@ -7,10 +7,10 @@
 		]
 	},
 	"bookreader-name": "Boekenlezer – Wikimedia",
-	"bookreader-desc": "Boekenlezer is een hulpmiddel om PDF/DjVu-bestanden van Wikimedia-sites in boekformaat te lezen.",
+	"bookreader-desc": "Boekenlezer is een hulpmiddel om pdf/DjVu-bestanden van Wikimedia-sites in boekformaat te lezen.",
 	"bookreader-heading": "Boekenlezer",
 	"changelanguage": "Taal wijzigen",
-	"byurl-placeholder": "Voer de url in van een PDF/DjVu-bestand uit een Wikimedia-project",
+	"byurl-placeholder": "Voer de url in van een pdf/DjVu-bestand uit een Wikimedia-project",
 	"form-submit": "Verzenden",
 	"or-text": "Of",
 	"and-text": "en",
@@ -37,6 +37,6 @@
 	"preference-saved": "Uw voorkeur is opgeslagen!",
 	"source-code": "Broncode",
 	"integration-heading": "Integratie in Wikisources",
-	"integration-text": "U kunt dit hulpmiddel als koppeling op de indexpagina's van Wikisource invoegen, om het PDF/DjVu-bestand met de index direct in dit hulpmiddel te openen.",
+	"integration-text": "U kunt dit hulpmiddel als koppeling op de indexpagina's van Wikisource invoegen, om het pdf/DjVu-bestand met de index direct in dit hulpmiddel te openen.",
 	"see-here": "Kijk hier"
 }

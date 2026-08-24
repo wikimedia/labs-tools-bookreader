@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"bookreader-name": "Čitatelj knjiga — Wikimedia",
+	"bookreader-desc": "Čitatelj knjiga je alat za čitanje PDF/DjVu s Wikimedijinih vikija u formatu knjige.",
+	"bookreader-heading": "Čitatelj knjiga",
+	"changelanguage": "Promijeni jezik",
+	"byurl-placeholder": "Unesite URL-adresu PDF/DjVu iz Wikimedijinog projekta",
+	"form-submit": "Pošalji",
+	"or-text": "Ili",
+	"and-text": "i",
+	"wiki-projects": "Projekt Wikizvora:",
+	"label-filename": "Ime datoteke:",
+	"filename-placeholder": "Navedite ime datoteke",
+	"source-code": "Izvorni kôd"
+}

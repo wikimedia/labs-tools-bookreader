@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gregorynelsonmensah1"
+		]
+	},
+	"bookreader-name": "Bukuu kenkanfo - Wikimedia",
+	"bookreader-desc": "BookReader yɛ edwindadze a wɔdze kenkan PDF/DjVu dɛ mbrɛ bukuu tse fi Wikimedia site ahorow do",
+	"bookreader-heading": "Bukuu Kenkanfo",
+	"changelanguage": "Sesa kasa",
+	"byurl-placeholder": "Bɔ URL a ɔyɛ PDF/DjVu a ofi Wikimedia dwumadzi mu",
+	"form-submit": "Fa kɔ",
+	"or-text": "Anaa",
+	"and-text": "na",
+	"wiki-projects": "Wikisource dwumadzi:",
+	"label-filename": "Faeldzin:",
+	"filename-placeholder": "Bɔ file bi dzin",
+	"back-to-home": "San kɔ fie",
+	"my-language": "Me kasaa",
+	"button-save": "Fa sie ma daakye",
+	"button-cancel": "Twa mu",
+	"error": "Biribi annkɔ yie",
+	"home-text": "Fie",
+	"books-text": "Mbukuu",
+	"book-text": "Bukuu",
+	"about-text": "No ho asɛm",
+	"see-here": "Hwɛ ha"
+}
