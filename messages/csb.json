@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"Orbitminis"
+		]
+	},
+	"bookreader-name": "Czëtôrz knéżków - Wikimediô",
+	"bookreader-heading": "Book Reader",
+	"changelanguage": "Zmieni jãzëk",
+	"form-submit": "Wëslë",
+	"or-text": "Abò",
+	"and-text": "i/ë",
+	"wiki-projects": "Projekt Wikizdroja:",
+	"label-filename": "Miono lopka:",
+	"filename-placeholder": "Wpiszë mionã lopka",
+	"back-to-home": "Wrócë do przédny starnie",
+	"my-language": "Mój jãzëk",
+	"button-save": "Zapiszë na przińdnotë",
+	"button-cancel": "Anulëjë",
+	"error": "Cos nie tak pòszło!",
+	"home-text": "Przédnô starna",
+	"books-text": "Ksążczi",
+	"book-text": "Ksążka",
+	"about-text": "Wëdowiédzô",
+	"context-text": "Dlô spòdlim:",
+	"selected-language": "Wëbróny jãzëk",
+	"success-text": "Zwënéga",
+	"source-code": "Zdrojowi kòd",
+	"integration-heading": "Jintegracjô z Wikizdrojama",
+	"see-here": "Òbaczë tuwò"
+}
