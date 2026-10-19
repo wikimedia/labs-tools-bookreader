@@ -1,24 +1,41 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"bookreader-name": "کتاب پڑھݨ آلا - ویکیمیڈیا",
+	"bookreader-desc": "بک ریڈر ویکیمیڈیا سائٹاں توں PDF/DjVu کوں کتابی شکل وچ پڑھݨ دا ہک اوزار ہے۔",
+	"bookreader-heading": "کتاب پڑھݨ آلا",
+	"changelanguage": "زبان پٹاؤ",
+	"byurl-placeholder": "ویکیمیڈیا منصوبے توں PDF/DjVu دا ہک URL داخل کرو",
 	"form-submit": "جمع کرواؤ",
 	"or-text": "یا",
 	"and-text": "تے",
 	"wiki-projects": "وکی ماخذ منصوبہ:",
 	"label-filename": "فائل ناں:",
+	"filename-placeholder": "فائل دا ناں داخل کرو",
+	"localfile-notice": "فائل دے ناں دی خودکار تکمیل صرف مقامی اپلوڈ کیتی ڳئی فائل کیتے کم کریندی ہے۔",
+	"back-to-home": "واپس گھر تے ونجو",
 	"my-language": "میݙی زبان",
 	"button-save": "مستقبل کیتے محفوظ کرو",
 	"button-cancel": "منسوخ",
 	"error": "کجھ خراب تھی ڳئے!",
+	"no-javascript": "بک ریڈر کیتے جاوا اسکرپٹ چالو ہووݨ ضروری ہے۔ براہ کرم چیک کرو جو تہاݙا براؤزر جاوا اسکرپٹ کوں سپورٹ کریندا ہے تے ایہ براؤزر دی ترتیباں وچ چالو ہے۔",
+	"embebed-not-supported": "بک ریڈر وچ ایمبیڈ کوڈ سپورٹ نہیں کیتا ڳیا۔",
 	"home-text": "گھر",
 	"books-text": "کتاباں",
 	"book-text": "کتاب",
 	"about-text": "تعارف",
+	"context-text": "سیاق و سباق کیتے:",
+	"createby-heading": "بݨایا تے سنبھالیا ڳیا:",
+	"poweredby-heading": "ویوئر دی طاقت:",
+	"selected-language": "چݨی ہوئی زبان",
 	"success-text": "کامیابی",
 	"preference-saved": "تہاݙیاں ترجیحاں محفوظ تھی ڳیاں!",
 	"source-code": "سورس کوڈ",
+	"integration-heading": "ویکی ماخذاں وچ انضمام",
+	"integration-text": "تساں ایندا اوزار دے شارٹ کٹ آئیکن کوں ویکی ماخذ دے انڈیکس صفحےاں تے جوڑ سڳدے ہو جیہڑا انڈیکس دے PDF/DjVu کوں سدھا ایندا اوزار وچ کھول سڳدا ہے۔",
 	"see-here": "اتھ ݙیکھو"
 }
