@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rang Djambak"
+		]
+	},
+	"bookreader-name": "Pambaco Buku - Wikimedia",
+	"bookreader-desc": "PambacoBuku adolah alaik untuak mambaco PDF/DjVu dalam format buku dari situs wikimedia.",
+	"bookreader-heading": "Pambaco Buku",
+	"changelanguage": "Tuka bahaso",
+	"byurl-placeholder": "Masuakan URL PDF/DjVu dari proyek Wikimedia",
+	"form-submit": "Kirim",
+	"or-text": "Atau",
+	"and-text": "jo",
+	"wiki-projects": "Proyek Wikisumber:",
+	"label-filename": "Namo berkas:",
+	"filename-placeholder": "Masuakan namo berkas",
+	"localfile-notice": "Isi namo berkas sacaro otomatis hanyo bafunsi untuak berkas nan diunggah sacaro lokal.",
+	"back-to-home": "Baliak ka Laman Utamo",
+	"my-language": "Bahaso ambo",
+	"button-save": "Simpan untuak beko",
+	"button-cancel": "Batal",
+	"error": "Ado nan salah!",
+	"no-javascript": "PambacoBuku mamaraluan JavaScript untuak dinyaloan. Harok dipareso apo paramban Sanak mandukuang JavaScript jo nyaloan di pangaturan paramban.",
+	"embebed-not-supported": "Kode sematan indak didukuang di pambaco buku.",
+	"home-text": "Palanta",
+	"books-text": "Buku",
+	"book-text": "Buku",
+	"about-text": "Tantang",
+	"context-text": "Untuak konteks:",
+	"createby-heading": "Dibuek jo dipaliharo dek:",
+	"poweredby-heading": "Pambaco Didukuang dek:",
+	"selected-language": "Piliah bahaso",
+	"success-text": "Barasia",
+	"preference-saved": "Preferensi Sanak alah disimpan!",
+	"source-code": "Kode sumber",
+	"integration-heading": "Integrasi di Wikisumber",
+	"integration-text": "Sanak dapek manambahan ikon pintehan pakakeh ko pado laman Indeks Wikisumber nan dapek mambukak PDF/DjVu Indeks di pakakeh ko sacaro lansuang.",
+	"see-here": "Caliak di siko"
+}
