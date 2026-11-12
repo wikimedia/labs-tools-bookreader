@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Brahim-essaidi",
+			"Daoudsfouli",
 			"Hakim1bal"
 		]
 	},
@@ -12,6 +13,7 @@
 	"byurl-placeholder": "ⵙⴽⵛⵎ ⴽⵔⴰ ⵏ URL ⵏ PDF/DjVu ⵙⴳ ⵓⵙⵏⴼⴰⵕ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
 	"form-submit": "ⴰⵣⵏ",
 	"or-text": "ⵏⵖ",
+	"and-text": "ⴷ",
 	"wiki-projects": "ⴰⵙⵏⴼⴰⵕ ⵡⵉⴽⵉⵖⴱⴰⵍⵓ:",
 	"label-filename": "ⵉⵙⵎ ⵏ ⵓⴼⴰⵍⵢⵓ:",
 	"filename-placeholder": "ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵓⴼⴰⵢⵍⵓ",
